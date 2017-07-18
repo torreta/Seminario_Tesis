@@ -242,6 +242,84 @@ Algunas de las características principales de esta arquitectura son (Olivares, 2
 • El cliente es el componente del sistema que interactúa de manera directa con el usuario final, a través de una interfaz gráfica.
 • El servidor permanece en espera de solicitudes, por lo tanto se considera que tiene un papel pasivo en la comunicación.
 • Un servidor puede recibir y mantener la conexión con diversos clientes al mismo tiempo, sin embargo el número máximo de conexiones posibles es limitado.
+Funcionamiento de una aplicación web
+
+Las aplicaciones web se basan en la arquitectura cliente-servidor, explicada anteriormente, donde el cliente es un navegador web y el servidor es un servidor web que almacena las páginas de la aplicación.
+
+El funcionamiento de una aplicación web es sencillo, el cliente emite una petición de una página web estática o dinámica al servidor web, y éste devuelve la página solicitada. Una página web estática, es aquélla que no cambia cuando un usuario la solicita: el servidor web envía la página al navegador web solicitante sin modificarla. 
+Por el contrario, una página web dinámica es resuelta y adaptada a los datos del cliente en específico, ya que tiene líneas de código no determinadas, y que son resueltas por el servidor según la información almacenada del usuario en la sesión actual; el servidor web puede transferir la página a un software especial, a una librería o a un módulo externo, generalmente llamado servidor de aplicaciones, que se encarga de leer el código de la página y generará en función de las instrucciones del código dinámico un contenido específico para el usuario. 
+El resultado tiende a ser una página estática (código HTML puro) que el servidor de aplicaciones devuelve al servidor web, que a su vez la envía al navegador solicitante, El servidor de aplicaciones también permite trabajar con recursos del lado del servidor, como las bases de datos. Sin embargo, el servidor de aplicaciones no puede comunicarse con la base de datos directamente, necesita de un controlador que actúa de intermediario para establecer la comunicación.
+
+ En la Figura 2. se puede observar el proceso para solicitar una página web estática al servidor web y en la 
+
+Figura 2.1 el proceso para solicitar una página web dinámica al servidor de aplicaciones con datos extraídos de una base de datos.
+
+
+
+
+Aunque los servidores web están principalmente diseñados para presentar contenido estático, hoy en día la mayoría de éstos tienen complementos para soportar lenguajes de scripting (guiones) como Perl, PHP, ASP ref[2,3,4], entre otros, pudiendo servir contenido dinámico sin necesidad de comunicarse con un servidor de aplicaciones. También, muchos de los servidores de aplicaciones de la actualidad son capaces de hacer lo que un servidor web es capaz de hacer, es decir, que pueden servir tanto contenido dinámico como estático.
+
+
+Ventajas
+Algunas de las ventajas de las aplicaciones web son:
+• Las aplicaciones web pueden ser utilizadas por múltiples usuarios al mismo tiempo.
+• No necesitan ser descargadas, instaladas y configuradas. Se acceden vía en línea y están listas para trabajar sin importar cuál es su configuración o su hardware.
+• Una aplicación web se puede ejecutar en múltiples plataformas (hardware o sistema operativo), ya que sólo se necesita de un navegador web para cada plataforma.
+• Todos los cambios de interfaz o de funcionalidad que se deseen hacer en la aplicación web, se realizan en el código que reside en el servidor web y no en cada uno de los clientes.
+• Se evitan problemas de inconsistencia de actualizaciones, ya que no existen clientes con distintas versiones de la aplicación.
+2.4.3. Desventajas
+Algunas desventajas son:
+• Los múltiples accesos realizados en forma simultánea pueden degradar el rendimiento de las aplicaciones, debido a la sobrecarga del servidor donde se encuentran alojadas.
+• Como el navegador es la herramienta utilizada para ejecutar las aplicaciones web, éstas dependen de la configuración del mismo, para que puedan trabajar de forma óptima, ya sea en cuanto a las Cookies, JavaScript o archivos Flash.
+• Si el servidor donde está almacenada la aplicación web y la información no tiene los niveles de seguridad necesarios para resguardar los datos, éstas pueden ser vulnerables a los ataques de agentes maliciosos.
+
+
+Patrón Modelo Vista Controlador
+El Modelo Vista Controlador (MVC), es un patrón de diseño muy utilizado para el desarrollo de aplicaciones web, el cual tiene como idea fundamental separar los componentes principales de las aplicaciones, como lo son el sistema de gestión de base de datos, las interfaces de usuario y las tareas de manejar los eventos que se produzcan.
+A continuación se explican las partes del patrón MVC:
+
+• Modelo: es la capa donde se trabaja con los datos, por tanto contiene mecanismos para acceder a la información. Cabe mencionar que en esta capa es habitual utilizar un ORM (Object Relational Mapping, Mapeo Objeto Relacional), que permita trabajar con abstracción de bases de datos y persistencia en objetos, en vez de usar directamente sentencias SQL (Structured Query Language, Lenguaje de Sentencias Estructuradas), que suele depender del motor de base de datos con el que se esté trabajando.
+Principales responsabilidades:
+o Acceder a la capa de almacenamiento de datos. o Definir las reglas de negocio (lógica del negocio). Ejemplo: "Si la persona X
+tiene el privilegio Y, no puede ver la información Z".
+• Vista: es la interfaz de usuario que permite mostrar los datos del modelo e interactuar con ellos mediante acciones o eventos.
+Principales responsabilidades:
+o Recibir datos provenientes del modelo y mostrarlos al usuario. o Tener registro de su controlador asociado.
+• Controlador: actúa como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos y las transformaciones para adaptar los datos a las necesidades de cada uno.
+
+
+
+Principales responsabilidades:
+o Recibir los eventos de entrada que se realizan en la vista, como un clic, pulsar un botón, entre otros. o Contener las reglas de gestión de eventos (lógica de la aplicación). Ejemplo: "Si Evento Z, entonces Acción W". Estas acciones pueden suponer peticiones al modelo o a las vistas.
+
+Flujo de control del patrón MVC
+Aunque se pueden encontrar diferentes implementaciones del MVC, el flujo de control más frecuente de este patrón es el siguiente:
+
+Figura 3:
+
+
+1. El usuario interactúa con la vista realizando alguna acción, por ejemplo, pulsar un botón. 
+2. El controlador recibe la notificación de la acción del usuario y gestiona el evento,normalmente a través de un gestor de eventos. 
+3. El controlador hace la llamada al modelo, donde le pide visualizar o actualizar los datos. 
+4. El modelo interactúa con la base de datos, ya sea en forma directa o con una capa de abstracción, y realiza la consulta o la actualización de los datos.
+5. El modelo le envía al controlador la información obtenida o le notifica de los cambios realizados. 
+6. El controlador le manda la respuesta a la vista y ésta reacciona en función de la
+respuesta que recibe (actualizar la interfaz, abrir un enlace, etc.)
+
+Ventajas del MVC
+El patrón MVC para el desarrollo de aplicaciones web presenta las siguientes ventajas:
+• Disminuye el acoplamiento entre las partes de la aplicación, ya que las vistas se desacoplan del modelo y el modelo se desacopla de la forma en que se muestra e ingresa los datos.
+
+• Aumenta la cohesión, ya que cada elemento del patrón está altamente especializado en su tarea.
+• Facilita el desarrollo de la misma aplicación en distintos dispositivos o canales.
+
+
+Figura 4 - (Flujo de control del patrón MVC)
+
+
+• Permite una mayor claridad de diseño.
+• Facilita el mantenimiento.
+• Aumenta la escalabilidad.
 
 
 por ahora pienso que deberíamos poner aqui, arquitectura CLiente-servidor, API restfull, ruby on rails, mysql, que es un Mailer, definir que es un servicio de reclutamiento, que tipo de datos se piden en entrevistas de trabajo, que información válida a un profesional, como certificar una persona como valida, que tipo de pruebas te hace el sistema, como sera la configuracion, roles de usuarios (empresas/vacante - reclutados/interesados), definir un glosario de terminos, de donde sacaremos la información, como filtraremos a las personas, que cosas generarán información para el sistema, que tipo de feedback daremos, cosas asi… averiguar métodos de reclutamiento comunes y enumerar sus pros y contras para colocar una buena justificación del proyecto,
@@ -336,28 +414,6 @@ Texto
 Dibujo de la arquitectura de la aplicación
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
