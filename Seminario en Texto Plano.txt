@@ -1,0 +1,501 @@
+
+
+
+Universidad Central de Venezuela
+Facultad de Ciencias
+Escuela de Computación
+Aplicaciones con Tecnología a Internet
+
+
+Seminario
+Aplicación web configurable para la automatización de procesos de evaluación y selección de la Empresa
+
+
+Seminario 
+presentado ante la ilustre
+Universidad Central de Venezuela
+por los bachilleres
+Kevin D. Miranda F., C.I.: 26.150.260
+Luis E. Campos  M., C.I.: 18.033.084
+
+
+Tutor
+Prof. José Sánchez
+
+Caracas, Abril de 2017
+
+
+Notas para Kevin
+
+Te recomiendo que veas por youtube como crear el template de estilos para APA, así no nos toca configurar manualmente las líneas, etc, ya que estos estilos pueden cargarse desde una plantilla.
+
+hay maneras de generar automáticamente los índices, ergo, igual, averigua cómo se hace porque es útil saberlo, (son cosas principalmente de Word y no de google doc, pero podemos importar este documento desde aquí y colocarle todos los formatos en un word 2010 o algo asi, seria cuestion de tener el documento casi listo)
+
+si encuentras información en internet que nos pueda servir (las referencias que nos dio el profesor por ejemplo, guardalas en marcadores y copialas en las referencias de este documento) te recomiendo que lo hagas cada vez que copies un segmento de lo que sea desde otro sitio ya que después es complicado recordar las referencias
+
+cada vez que copies algo desde otro sitio colocar esta marca <Ref (numero)> asi podemos poner el hipervínculo al glosario / referencia que le corresponde, eso le da dinamismo al documento 
+
+links, cosas que consigas, copialas en referencias
+
+si escribiste algo nuevo y quieres que lo revise, hazle una nota o subraya con un color cualquiera que se note para saber que tengo que prestarle atención a la redacción o algo.
+
+si te sientes inspirado, escribe, después nos encargamos (me encargo) de que tenga el formato appa
+
+anota cosas aqui tambien si vez algo importante que tener en cuenta
+
+cosas anotadas en azul, por lo general fueron observaciones hechas por el profesor
+
+Índice General
+
+Índice General	(osea, esta página)						1
+Índice de figuras											3
+Índice de cuadros											4
+
+I  Introducción										  	1
+1  Introducción											2
+
+II Marco Teórico										4
+2  Definición5
+
+3  Metodología de gestión de proyectos5
+ 3.1.  Metodología PMI (Project Management Institute)5
+            3.1.1.  Gestión del alcance del proyecto5
+            3.1.2.  Gestión del tiempo5
+            3.1.3.  Gestión del costo del proyecto5
+            3.1.4.  Gestión de la calidad5
+            3.1.2.  Gestión de la comunicación5
+
+4  Contexto del problema8
+ 4.1.  Caso de Estudio6
+
+III Propuesta de Trabajo Especial de Grado					8
+8  Análisis y propuesta9
+ 8.1.  Situación Actual9
+ 8.2.  Propuesta de TEG10
+ 8.3.  Justificación11
+ 8.4.  Objetivo general11
+ 8.5.  Objetivos específicos11
+ 8.6.  Tecnologías propuestas11
+
+Bibliografía											        12
+
+
+Índices de figuras
+(Por ahora estas están puestas de ejemplo, no hemos generado ningún gráfico o figura propio)
+2.1.  Prácticas XP6
+3.1.  Vista previa de la primera versión de Phoenix12
+3.2.  Vista previa del manejador de descargas de la primera versión12
+3.3.  Ventana de personalización de barras de herramientas13
+
+4.1.  Inclusión de código JavaScript en páginas Web28
+
+
+
+
+
+
+	
+
+
+
+
+
+
+Índices de cuadros
+(ejemplos igual
+)5.1.  Manejadores de eventos en XUL45
+
+6.1.  Comparación de arquitecturas de servicios web48
+6.2.  Servicios MIME soportados por REST52
+
+
+
+
+
+
+
+
+
+
+
+El presente documento sigue la siguiente  estructura:
+Parte I – Introducción: Sección en la que se expone el problema, la falta de eficiencia de los métodos convencionales de reclutamiento y sus procesos.  En resumen, la propuesta para solucionar dichos problemas.
+
+Parte II – Marco Conceptual: se exponen los aspectos teóricos relacionados con los procesos, metodologías, patrones y tecnologías a utilizar para la implementación de la aplicación web, con la finalidad de presentar tanto las ventajas y desventajas de cada propuesta.
+
+Parte III – Propuesta de TEG: se plantea la situación actual por lo que se propone una solución, justificando la solución planteado y puntualizando el objetivo general y los objetivos específicos de dicha solución
+
+Parte I. El Problema
+Introducción:
+En la actualidad, el éxito de las organizaciones, depende en gran medida de la capacidades y aptitudes de sus recursos humanos, por ello la adecuada selección de aspirantes es esencial para el crecimiento de cualquier empresa, cada año se desperdician recursos humanos, tiempo y materiales en procesos obsoletos de selección, que son ineficientes en el manejo de aspirantes capacitados en búsqueda de oportunidades laborales, por ello que empresas pierden excelentes profesionales o se ven obligados a invertir en procesos convencionales a los que les resulta imposible de manejar el volumen creciente personas.
+
+Esta necesidad de reclutar nuevos aspirantes en las empresas viene dado por diferentes causas como expansión de la empresa, generación de nuevos puestos de trabajo, rotación de personal, un requerimiento o simple necesidad de fuerza laboral, etc. En la mayoría de los casos, estos procesos de selección se realizan de forma presencial con el aspirante, donde se informa del puesto, necesidad o actividad, se comienza con la entrega de documentos, a veces de ambas partes, para la  postulación de dicho aspirante. De esta forma, la empresa debe emplear tiempo en proveer a cada aspirante de la información pertinente y el aspirante debe dirigirse a la empresa a obtener dicha información y proveer la suya, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos aspirantes serán seleccionados para continuar con otros procesos para su selección, donde comúnmente se harán evaluaciones, entrevistas para conocer las expectativas del aspirante, conocer su psiquis, etc.
+
+Por estos motivos, se propone el desarrollo de una aplicación web, con una flexibilidad de configuración que permita generar y ofrecer información sobre las diferentes vacantes, que administre la información obtenida de los aspirantes y maneje cada etapa de la selección; de tal modo que genere métricas que la empresa pueda utilizar para tomar mejores decisiones sobre la selección, y a su vez, dar información a los aspirantes, reduciendo los tiempos y costos necesarios para ambos usuarios.
+
+
+
+Planteamiento del Problema:
+Para cualquier empresa está sobreentendida la necesidad de contratar nuevo personal constantemente, sobre todo si se tiene un crecimiento de cualquier magnitud, cualquier tarea sin atender podría ser crucial para el desarrollo y progreso de la empresa, es por eso que se tiene la necesidad no solo de contratar, sino de captar candidatos que llenen dichos roles de la manera más eficiente posible, es simple estadística, mientras más candidatos puedas procesar, más probabilidades se tienen de conseguir alguno que llene las expectativas o que sea ideal para ciertos puestos disponibles. 
+
+Pero captar una gran cantidad de candidatos implica una gran cantidad de gasto de recursos para todos los involucrados, sea desde la empresa o desde el punto de vista de los candidatos, cualquiera que sea el gasto tiempo, dinero o material. 
+
+De esta necesidad nace nuestra propuesta que pretende mitigar parte del desperdicio de recursos y a su vez ofrecer una herramienta que beneficie a los involucrados.  
+
+Objetivo General
+
+Evaluar los focos de pérdidas para los actores tanto empresariales como personas empleables, estudiar posibles soluciones desde un punto de vista web, para proponer un sistema que permita mitigar parte del consumo innecesario de recursos, y a su vez, que sea factible técnica, económica y financieramente, para los involucrados en los procedimientos de captación de personal.
+
+
+
+Objetivos Específicos
+
+Recopilar datos sobre los métodos comunes de captación de personal.
+Estudiar Propuestas que permitan ayudar y automatizar el reclutamiento.
+Crear Diagramas que ilustran los datos básicos que se tienden a intercambiar durante la búsqueda de empleo y su peso a la hora de estudiar un candidato.
+Evaluar datos y procedimientos que aporten beneficios y valor al sistema, así como a todos los involucrados  durante el reclutamiento,
+Desarrollar soluciones o prácticas que simplifiquen el proceso de reclutamiento.
+Realizar procedimientos flexibles y configurables para que puedan adaptarse a cualquier empresa que requiera contratación de personal, sin importar su escala y complejidad.
+
+Justificación de la Investigación
+
+El objetivo prioritario no es documentar ni informar cuáles son los gastos que afronta una empresa durante los procesos de reclutamiento, sino proponer una solución eficiente y de mayor flexibilidad que las herramientas convencionales que se encuentran en la actualidad, quizás no sea una respuesta obvia, pero la idea es demostrar que estos procesos pueden ser optimizados de tal modo que consecuentemente se haga más fácil captar personal o en su defecto aumentar la calidad de los candidatos que son seleccionados, la idea en general es diseñar un sistema que permita tanto a la persona jurídica como natural, simplificar sus procedimientos de contratación o poder llenar vacantes y necesidades emergentes de un modo que no involucra sacrificios significativos para los involucrados.
+
+Cabe resaltar que, La contratación de personal, es un sujeto complejo, existen conjuntos de prácticas que son de uso común, pero probablemente no sean las más eficientes o están lentamente quedando obsoletos, una contratación errónea acarrea gastos significativos, pérdidas y consecuencias que no son sencillas de manejar, como emocionales, legales y morales, es por ello que cualquier aporte a tomar decisiones mejores durante el proceso de reclutamiento puede resultar en una bendición.
+
+El realizar este estudio y recopilar datos relacionados al reclutamiento va a permitir analizar patrones o prácticas comunes que serán de utilidad para el desarrollar un sistema eficiente para el beneficio de las personas que sean involucradas, beneficios como:
+
+Al reclutador, facilitar el proceso de toma de decisión acerca de si llevar adelante o no la contratación de cierta persona, gracias a la información y requerimientos recopilados.
+Analizar las fortalezas y debilidades de las estructuras de contratación actuales, sobre las cuales el presente proyecto se basa y de este modo proponer condiciones de mejora.
+Determinar mejoras o medidas a tomar para que los procesos de contratación que se planteen sean  lo más factible posible para los involucrados.
+Reducir el nivel de incertidumbre al que está sometida la empresa que dispone de la vacante  y también mantener informados a los interesados en el puesto.
+Justificar el uso de sistema basándonos en los recursos que ahorra para sus usuarios .
+Determinar la plataforma tecnológica, dinámicas de trabajo, y los pasos que el sistema usará para captación de información de sus usuarios.
+Generar información que permitirán llevar a cabo la toma de decisiones sobre contrataciones con bases sólidas, producto de un estudio previo.
+Adquirir conocimientos que le serán de utilidad a los futuros gerentes de recursos humanos, sobretodo para evitar escenarios comunes que conlleva al desperdicio de recursos durante procesos de captación de personal obsoletos.
+Alcances y Limitaciones
+
+Alcance
+El proyecto tiene como alcance crear una aplicación web que permite a usuarios en búsqueda de oportunidades laborales y a empresas con vacantes, pasar por una serie de procedimientos que los ayuden a encontrar soluciones a sus necesidades.
+
+Los aspectos puntuales que comprende la investigación están referidos a los estudios de los procedimientos que se aplican en ciertas prácticas de búsqueda laboral y cómo evitar sus mayores defectos, de tal modo que se puedan plantear procedimientos que aprovechen mejor los recursos disponibles.
+
+Cabe destacar que se analizaran diferentes métodos comunes de reclutamiento, es imposible abarcar todas las prácticas ya que existen métodos tan específicos de ciertas empresas,  o que usan combinaciones de técnicas tan ligeramente intercambiables que no vale la pena estudiarlas.  
+
+Limitaciones:
+ 
+falta de instrumentos para mediciones técnicas:
+El comportamiento humano varía mucho entre individuo e individuo, tomar conclusiones del estado emocional, nivel de frustración, y similares, es cuando poco, un reto nada trivial, por lo tanto, la mayoría de los datos serán netamente basados en la interacción de las personas con la aplicación y es por ello que estos datos tienden a ser aproximados. 
+
+
+Características de las muestras:
+los instrumentos y metodos de recoleccion de datos sobre la aplicación y sus características, son por lo general, encuestas, comentarios, sugerencias, cuestionarios, etc. Estos dados a su vez por personas con diferentes estratos, como por ejemplo, docentes, obreros, jefes de familia, comerciantes, etc, esa muestra de sujetos producen una calidad de información a recolectar probablemente heterogénea, y que necesitará ser interpretada.
+
+Sesgo del Sujeto:
+las respuestas que se obtendrán de las encuestas o entrevistas, dependen del grado de conocimiento que tengan los sujetos, de sus opiniones y al ser estas preguntas muy puntuales, la información que obtendremos de ellas será muy discreta.
+
+Disposición por parte de las personas en brindar información o limitaciones de tiempo en sus ocupaciones laborales para responder dichos instrumentos.
+
+	
+ (En este orden deberíamos desarrollar los puntos del capítulo 1)
+(intentare colocar algo que limite estos puntos, cuando consiga un buen ejemplo)
+
+
+
+
+
+Parte II
+Marco Teórico 
+Este segmento es una introducción a los conceptos, antecedentes y las bases conceptuales que sirven como base para el desarrollo del trabajo de investigación útil para elaborar en las una ideas que van naciendo de la investigación; por tal motivo, en este capítulo se trata en detalle el estado actual de aplicaciones relacionadas con la gestión de las personas como recursos humanos, conceptos sobre características de la aplicación propuesta  y conceptos relacionados.
+
+Antecedentes
+En Venezuela y en otras partes del mundo se han realizado diversas aplicaciones web relacionadas con la gestión de contrataciones y filtrado de personas por capacidades profesionales. Por ejemplo, en Venezuela se cuenta con páginas web como Bumeran, compuTrabajo, Beebee, etc.
+
+Que son plataformas que ayudan a sus usuarios a encontrar empleo, tienen bastante cosas en común, pero en general se destacan por tener procedimientos cerrados e invariantes, que no ofrecen flexibilidad y que pueden resultar tediosos por la cantidad requerida de información bajo cualquier rol que se utilicen esas plataformas. 
+
+
+Características positivas y negativas de los antecedentes 
+
+Estos portales en su mayoría, por su largo tiempo de existencia ya han segmentado un gran número de usuarios,poseen diseños atractivos y funcionales,  así como también, recolectado una gran cantidad de información de miles de usuarios, poseen filtros, motores de búsqueda y clasificaciones por categorías, todos ellos, con el propósito de hacerle a los usuarios las búsquedas más simples, todos esas caracteristicas son inspiración y guía de cómo ayudar a los usuarios a conseguir lo que quieren, en este caso empleo.
+Aunque, cabe destacar que, poseen algunas características que causan controversia, como lo sería la rigidez de sus estructuras, no permiten ninguna personalización, teniendo como característica común ser repositorios de curriculums y formularios de datos personales, y por la parte empresarial, poco más que un anuncio de periódico, no ofrecen herramientas como: pruebas, formularios hechos  a la medida para el puesto de trabajo, preguntas cruciales, etc. eso justo es lo que queremos aportar con nuestra propuesta de trabajo de grado, hacer herramientas flexibles, que ayuden a seleccionar con mayor precisión los postulantes que desean una vacante y posean los requisitos necesarios para llenarla satisfactoriamente. ref.[1] (hice un txt con las ref aparte)
+
+
+esta sección se llena justo después de explicar sus antecedentes.
+Colocar de que se trata el capítulo 2, y luego empiezas a engranar, lo que dices en este párrafo, con el siguiente título que vas a decir, como por ejemplo el de la metodología de gestión de proyectos.
+ Problema de investigación
+Facilitar la conexión entre los participantes y las instituciones que posean vacantes en roles que los usuarios puedan aprovechar.
+• Velar por el uso adecuado de los recursos ordinarios y extraordinarios de los participantes de los concursos para las vacantes propuestas por las empresas.
+• Mantener una base de datos de los recursos personales de muchos individuos, para poder así contactar aquellos que puedan exceder cumpliendo con los con las vacantes.
+• Velar porque las actividades que se publiquen en la aplicación sean legítimas y cumplan con un mínimo de información para que los usuarios puedan tomar buenas decisiones para postularse.
+• Estudiar y evaluar las proposiciones de cualquier institución que pueda aportar una significativa mejora a los procesos de contratación de personal, y hacer las mejoras correspondientes a los recursos y herramientas  del sistema.
+• Divulgar el potencial investigativo y creador de la Facultad de Ciencias, así como los resultados de investigaciones ya realizadas, y los aportes que la universidad puede hacer para solucionar problemas de reclutacion de personal.
+
+Arquitectura Cliente-Servidor
+(esto aqui, de cliente servidor hace falta refinar un poco)
+La arquitectura cliente-servidor es una arquitectura de procesamiento cooperativo entre computadores que está conformada por dos (2) componentes principales: clientes y servidores. Los clientes se encargan de iniciar la comunicación con el servidor a través de la red, emitiendo solicitudes de recursos o peticiones de servicios, como por ejemplo consultar una información o solicitar un archivo, y el servidor se encarga de atender las solicitudes realizadas por los clientes, respondiendo con el recurso o la información solicitada (Olivares, 2012).
+El servidor suele estar ubicado en un equipo con grandes capacidades de almacenamiento y procesamiento, para poder atender de forma eficiente las peticiones realizadas por los clientes. Existen distintos tipos de servidores como los servidores web, que almacenan principalmente documentos HTML (HyperText Markup Language, Lenguaje de Marcas de Hipertexto), los servidores de base de datos, que dan servicios de almacenamiento y gestión de bases de datos a sus clientes, los servidores del correo, que almacenan, envían, reciben y realizan todas las operaciones relacionadas con el correo electrónico de sus clientes, entre otros tipos de servidores.
+En la Figura 1 se puede observar la representación de un cliente-servidor:
+Algunas de las características principales de esta arquitectura son (Olivares, 2012):
+• El cliente mantiene un papel activo en la comunicación, debido a que inicia la comunicación a través de solicitudes.
+• El cliente espera y recibe respuestas del servidor.
+• Un cliente puede comunicarse con más de un servidor de manera concurrente.
+• El cliente es el componente del sistema que interactúa de manera directa con el usuario final, a través de una interfaz gráfica.
+• El servidor permanece en espera de solicitudes, por lo tanto se considera que tiene un papel pasivo en la comunicación.
+• Un servidor puede recibir y mantener la conexión con diversos clientes al mismo tiempo, sin embargo el número máximo de conexiones posibles es limitado.
+
+
+por ahora pienso que deberíamos poner aqui, arquitectura CLiente-servidor, API restfull, ruby on rails, mysql, que es un Mailer, definir que es un servicio de reclutamiento, que tipo de datos se piden en entrevistas de trabajo, que información válida a un profesional, como certificar una persona como valida, que tipo de pruebas te hace el sistema, como sera la configuracion, roles de usuarios (empresas/vacante - reclutados/interesados), definir un glosario de terminos, de donde sacaremos la información, como filtraremos a las personas, que cosas generarán información para el sistema, que tipo de feedback daremos, cosas asi… averiguar métodos de reclutamiento comunes y enumerar sus pros y contras para colocar una buena justificación del proyecto,
+claro, esto es un marco teórico por ahora, pero mientras mas completo, menos trabajo tendremos que completar para que sea válido para el trabajo de grado.
+si encuentras Ideas que aporten para este segmento escribelo, metodologías herramientas, gráficos, etc, todo sirve, tecnología a utilizar, cronograma del proyecto, lo que sea, cosas para complementar asi como el ejeplo dejado por el profesor, de las metodologias de gestion de proyectos (crei que deberia ser metodologias de ‘desarrollo de proyectos….’)
+
+Metodología de gestión de proyectos
+
+Marco teórico de la metodología de gestión de proyectos PMI 
+
+Consideraciones éticas y legales
+En cuanto a la información documental consultada, se tuvo especial cuidado y respeto de los derechos de autor en diversos tópicos de interés emitidos por terceras personas, por lo que se hace referencia al autor original de las mencionadas.
+Cabe mencionar que aunado a lo expuesto anteriormente, se hace uso de las normas APA para la escritura de las referencias bibliográficas y del instructivo proporcionado por la UCAB para elaborar trabajos especiales de grado correspondiente a estudios de tercer  nivel, y se indica el aporte de diversos autores que contribuyen a la realización de la presente investigación.
+
+
+
+
+
+
+Capítulo 2
+Metodología de gestión de proyectos
+
+Marco teórico de la metodología de gestión de proyectos PMI
+
+Colocar de que se trata el capítulo 2, y luego empiezas a engranar, lo que dices en este párrafo, con el siguiente título que vas a decir, como por ejemplo el de la metodología de gestión de proyectos.
+
+
+Capítulo 3
+Contexto del problema
+Objeto de estudio: Sistemas de recursos humanos.
+
+El proceso de reclutamiento y selección de empresas consta de una serie de etapas que se aplica a cada candidato que desee aplicar para el cargo ofrecido.
+
+Inicialmente, la empresa debe agendar y manejar el tiempo de tal forma que puedan atender a la mayor cantidad de candidatos en un día determinado, sin embargo, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en el menor tiempo posible debido a que, generalmente, dichas evaluaciones se realiza por una sola persona que dedica parte de su tiempo a aplicar el proceso de selección, evaluación y contratación de a un candidato a la vez lo que causa que el proceso sea lento lo que puede ocasionar que los candidatos decidan retirarse del proceso. 
+
+Las empresas realizan impresiones de cuestionarios y encuestas que son aplicados a cada candidato generando pérdidas económicas si el candidato decide abandonar el proceso de selección, o si no es seleccionado para continuar, y si el candidato es seleccionado, se encuentre con el escenario de que dicho candidato ya aceptó una propuesta laboral de otra empresa debido a la lentitud del proceso y falta de feedback a lo largo del proceso. La lentitud del proceso y falta de feedback deja al candidato en incertidumbre en determinar la posibilidad que tiene en ser seleccionado y poder incursionar en el vacante lo que causa que la empresa pierda candidatos potenciales durante el proceso.
+
+Las empresas, para reclutar al candidato ideal para la vacante, realizan diversos filtros que son aplicados a cada candidato a evaluar, lo que ocasiona que los candidatos se sientan incómodos ya que deben solicitar permisos laborales para asistir presencialmente a cada una de las etapas en el proceso de reclutamiento y selección, permisos que, son recuperados en tiempo de oficina o generan pérdidas monetarias en transporte, impresión de documentos como currículos, certificados, títulos, entre otros; esto ocasiona que los candidatos se retiren del proceso de selección por considerarlo lento, costoso y molesto.
+
+Finalmente, en algunas empresas, el candidato seleccionado es invitado a proponer la propuesta económica, esto es, conocer del candidato la adquisición salarial que considera ganar, o la misma empresa realiza la propuesta económica además de darle a conocer los beneficios laborales que la empresa provee a sus empleados y el ambiente de trabajo. En este punto la empresa debe decidir si las consideraciones salariales son accesibles para la empresa y proceder con el reclutamiento del candidato, o en el caso de que la aspiraciones del candidato son mayores a los que la empresa puede ofrecer el candidato es retirado del proceso de selección.
+
+En cualquiera de los casos donde el candidato fue contratado o no, la empresa ha perdido tiempo y dinero realizando dicho proceso, donde según el resultado, puede generar experiencias desagradables que motiva a futuros aspirantes a rechazar participación en el proceso de selección de otras vacantes ofrecidas por la empresa y generen referencias negativas hacia otros potenciales candidatos.
+
+
+
+
+
+
+Mejorar la redacción. 
+Aparte, necesitan decir cosas que tengan más importancia.
+Les recomiendo revisar el documento que les envíe, donde les coloco la estructura del seminario y la tesis. Hay una parte que dice Contexto del problema. Ahí hay cosas que ya pueden utilizar para el contexto del problema, y que serían un copiar y pegar, y además de las ideas que ustedes agreguen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parte III
+Propuesta de Trabajo Especial de 
+Grado
+
+Aquí pueden hacer algo muy similiar al lo que está en el documento de seminario que les pase en PDF.
+Era algo como esto:
+Texto 
+Texto
+Dibujo de la arquitectura de la aplicación
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 8
+En el presente capítulo se menciona <luego decir de que van hablar de forma general> y de forma que lo engranen con el siguiente título (Análisis y propuesta)
+
+Análisis y Propuesta
+
+Ejemplo de texto introductorio para luego abordar la situación actual: Como parte del análisis del presente trabajo especial de grado, se proporciona una descripción de diversos escenarios que muchas empresas, viven al momento de seleccionar y contratar personal, descrito a continuación:
+
+8.1.    Situación Actual
+Hoy en día, el éxito de las organizaciones y empresas depende en gran medida de una buena selección de aspirantes que desean aportar sus conocimientos, experiencias y aptitudes para mejorar el funcionamiento y desarrollo de las tareas de la empresa.
+
+La necesidad de reclutar nuevos aspirantes en las empresas viene dado por diferentes causas como requerir personal que contribuya a realizar, de forma eficaz y eficiente, una serie de actividades que contribuyan al logro de las diversas áreas de una organización y así alcanzar la misión y visión de dicha organización, o debido a factores externos tales como expansión de la empresa, lo que genera nuevos puestos de trabajos, pérdida de persona o despido, entre otros. 
+
+El proceso de reclutamiento de personal comienza a raíz de un requerimiento o solicitud que posee la empresa en desarrollar una serie de actividades, en un área determinada, donde la empresa carece de personal calificado para ejecutar dicha labor, donde posteriormente se procede a determinar: 
+El nombre de la vacante.
+Las actividades y responsabilidades que deben desempeñarse en la vacante.
+Requerimientos técnicos mínimos necesarios.
+Requerimientos sociales e interpersonales necesarios.
+Horario de trabajo disponible para la vacante.
+Salarios
+Número de vacantes.
+
+Una vez que la empresa determina dichos datos sobre la vacante se procede a realizar la publicación de la vacante ya sea en el sitio web de la empresa o en sitios web donde potenciales candidatos pueden encontrar información de la vacante, donde posteriormente, se inicia un proceso de solicitud de una serie de candidatos para ocupar una vacante.
+
+Dicho proceso, se ejecuta de forma presencial donde el candidato consulta información del puesto y entrega los documentos para su postulación. De esta forma, la empresa debe emplear tiempo en atender a cada candidato que desee postularse, y el aspirante debe dirigirse a la empresa a entregar los documentos para su postulación, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos aspirantes serán seleccionados para continuar con el proceso de reclutamiento, donde se harán evaluaciones, entrevistas para conocer las expectativas del aspirante en la empresa, etc.
+
+
+Todos estos procesos consumen recursos (tiempo y costos) para ambos lados del proceso; la empresa suele realizar impresiones de cuestionarios o exámenes lo que genera pérdidas económicas si el aspirante decide retirarse del proceso o no es seleccionado para continuar, requiere de mayor personal para poder proveer un feedback a cada aspirante sobre el estado en el proceso de selección en un tiempo suficiente que no genere incertidumbre en el aspirante sobre su selección, y por otro lado, cada aspirante se siente incómodo con las diversas etapas que debe realizar durante el proceso de selección ya que deben solicitar permisos laborales para poder asistir a dichas etapas, todo esto causa una pérdida de dinero en transportes, impresión de los documentos necesarios por la empresa como currículos, certificaciones, títulos, entre otros lo que origina que un candidato abandone el proceso por ser muy lento y costoso.
+
+poco a poco ire quitando la redacción informal
+
+
+
+8.2.    Propuesta de TEG
+De acuerdo a lo expuesto anteriormente, surge la iniciativa y oportunidad de crear una aplicación web que permita a la empresa ofrecer información sobre el puesto vacante y al aspirante poder postularse al proceso de selección y tener un seguimiento del mismo.
+
+Se pretende con este trabajo especial de grado crear un sistema conformado por una aplicación web (donde se visualice la información, configurable por la empresa y el aspirante puede subir su información) para apoyar el proceso de reclutamiento y selección de personal de cualquier empresa.
+
+Por una parte, cada empresa podrá configurar el portal de forma que provea a los aspirantes información detallada del puesto vacante, explicar las etapas a efectuarse durante el proceso de selección y proveer feedback a cada aspirante en cada etapa del proceso.
+
+Por otra parte, el candidato podrá ingresar al portal y obtener información detallada de las vacantes disponibles por la empresa y, en caso de que le interese una vacante, postularse desde dicho portal ingresando la información necesario como currículo, documentos, certificaciones. Además el candidato interesado puede determinar su estado en el proceso de selección. 
+
+Lo anteriormente mencionado, permite al aspirante postularse sin la necesidad de realizar gastos en transporte e impresión de documentos y realizar un seguimiento sobre el estado de su solicitud, y permite a la empresa automatizar algunas etapas del proceso de selección y proveer a todos sus aspirantes el estado de su solicitud de forma rápida y contínua.
+
+Por otra parte, la aplicación web, se encarga de capturar la información proporcionada por cada aspirante, y almacenarla utilizando un sistema de manejador de bases de datos. Además de poder analizar y generar información para facilitar a la empresa el proceso de selección.
+
+
+
+
+
+
+
+8.3.    Justificación
+Todas las empresas requieren de realizar los procesos de evaluación y selección para poder progresar y expandir como negocio y compañía, pero dicho proceso requiere de tiempo y recursos de parte de ambas partes del proceso.
+
+Por lo ante expuesto, surge la necesidad de desarrollar una aplicación Web que permita a las empresas atender a una gran cantidad de candidatos de manera simultánea, y que permita brindar respuesta a los potenciales candidatos, y que a su vez, le permitan a las empresas continuar o descartar a diversos candidatos, de forma rápida y eficiente, y sin originar los inconvenientes descritos.
+
+El uso de un portal configurable por la empresa permite:
+Crear o actualizar la información de una vacante.
+Procesar las solicitudes de los candidatos que se postulen las 24 horas del día.
+Crear o reutilizar cuestionarios o encuestas configurables, automatizando la puntuación obtenida por los candidatos que la realizan.
+Reducir los tiempos del personal de Recursos Humanos en evaluar a cada candidato.
+Enviar feedback en cada etapa del proceso al candidato de forma eficiente y constante.
+
+El uso de un portal por parte del candidato permite:
+Postularse desde el portal.
+Ingresar la información de los documentos requeridos para ser evaluado por la empresa como currículos y certificados de forma digital.
+Reducir costos de transporte.
+Realizar las etapas las 24 horas del día.
+Realizar un seguimiento del estado del proceso de selección eficiente.
+
+Lo anterior mencionado da flexibilidad a los candidatos en realizar el proceso de selección y, a su vez, el seguimiento de su estado durante todo el proceso desde la comodidad de su casa, sin restricciones de tiempo, lo que evita que el candidato deba solicitar permisos para retirarse de la oficina para realizar entrevistas con la incertidumbre de saber si dicha entrevista es beneficiosa o no.
+
+Por otro lado, da flexibilidad a la empresa en realizar y configurar los cuestionarios para que estos sean evaluados de forma automática sin participación del personal de Recursos Humanos, y encuestas que pueden ser reutilizados en múltiples vacantes disponibles en la empresa. Además puede proveer a todos sus candidatos el feedback sobre su estado durante el proceso de selección de forma eficiente eliminando la incertidumbre que dichos candidatos puedan generar durante el proceso.
+
+ 
+
+
+
+
+Bibliografía
+
+(recomiendo que veas el documento correccion 1 que está en la misma carpeta de este documento, está full de referencias facilitadas por el tutor)
+(acontinuacion son otras que podrian ser de utilidad)
+REFERENCIAS BIBLIOGRÁFICAS Y DIGITALES
+Acosta A. (2011). AgilUs: un método ágil de desarrollo de software que incorpora la usabilidad. Centro de Ingeniería de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela.
+Adobe Dreamweaver. (2015). Aspectos básicos de las aplicaciones Web. Recuperado en junio de 2015, de: https://helpx.adobe.com/es/dreamweaver/using/web-applications.html
+Beck K. et al. (2001). Manifiesto por el Desarrollo Ágil de Software. Recuperado en junio 2015, de: http://www.agilemanifesto.org/iso/es/
+Borges C. y Rivero A. (2006). Generador de Sitios Web de Centros de Investigación. Centro de Ingeniería de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela. Recuperado en julio 2015, de: http://www.coordinv.ciens.ucv.ve/investigacion/genci/index.php
+Cáceres P. et al. (2001). Procesos ágiles para el desarrollo de aplicaciones web. Departamento de Ciencias Experimentales e Ingeniería, Universidad Rey Juan Carlos, Madrid, España. Recuperado en junio 2015, de: http://www.dlsi.ua.es/~jaime/webe/articulos/s112.pdf
+Calzada R. (2001). Introducción al Servicio de Directorio. Universidad Carlos III de Madrid, España. Recuperado en mayo 2016, de: http://www.rediris.es/ldap/doc/ldap- intro.pdf
+Canós J., Letelier P. y Penadés M. (2003). Metodologías Ágiles en el Desarrollo de Software. Universidad Politécnica de Valencia, España. Recuperado en junio 2015, de: http://www.carlosfau.com.ar/nqi/nqifiles/XP_Agil.pdf
+Consejo Directivo del Observatorio Nacional de Ciencia, Tecnología e Innovación (ONCTI). (2015). Reglamento del Programa de Estímulo a la Innovación e Investigación (PEII). Caracas, Venezuela. Recuperado en julio 2015, de: http://www.oncti.gob.ve/index.php?option=com_phocadownload&view=category&download =119:reglamento-del-programa-de-estimulo-a-la-innovacion-e-investigacion- peii&id=11:documentos&Itemid=92
+Coordinación de Investigación. (2011). ¿Quiénes Somos?. Caracas, Venezuela: Facultad de Ciencias de la Universidad Central de Venezuela. Recuperado en julio 2015, de http://www.coordinv.ciens.ucv.ve/investigacion/quienes.php
+108
+Referencias bibliográficas y digitales
+De Luca D. (2010). ¿Qué es CSS3? [Mensaje en un blog]. Recuperado en julio 2015, de: http://html5.dwebapps.com/que-es-css3/
+Directorio Nacional de Investigadores e Innovadores (DINA). (2015). ¿Quiénes somos?. Lima, Perú. Recuperado en diciembre 2015, de http://dina.concytec.gob.pe/
+EcuRed. (2012). Lenguaje de Marcado de Hipertexto. Cuba. Recuperado en julio 2015, de: http://www.ecured.cu/index.php/Lenguaje_de_Marcado_de_Hipertexto
+EcuRed. (2012). Directorio Activo. Recuperado en mayo 2016, de: http://www.ecured.cu/Directorio_Activo
+España M. (2003). Servicios Avanzados de telecomunicación. Madrid, España: Editorial Díaz de Santos S.A.
+Graterol L., Magrí S y Marín S. (2014). PHP, Python o Ruby ¿Qué son y para qué sirve cada uno? [Mensaje en un blog]. Recuperado en julio 2015, de: http://blog.escuelaweb.net/php-python-o-ruby-para-que-sirve-cada-uno/
+Laudon K. y Laudon J. (2004). Sistemas de Información Gerencial. México: Editorial Pearson Educación.
+Ministerio del Poder Popular para Ciencia, Tecnología e Innovación (MCTI). (21 de marzo de 2011). Gobierno Revolucionario fortalecerá las actividades científico tecnológicas del país. Caracas, Venezuela. Recuperado en julio 2015 de: http://www.mcti.gob.ve/actualidad/noticias/gobierno-revolucionario-fortalecera-las- actividades-cientifico-tecnologicas-del
+Nielsen J. (1995). 10 Usability Heuristics for User Interface Design. Recuperado en mayo 2016, de: http://www.useit.com/papers/heuristic/heuristic_list.html
+Olivares C. (2012). GENCI–2 Gestor de Contenido Modular Para la Coordinación de Investigación De la Facultad de Ciencias de la UCV (tesis de pregrado). Escuela de Computación, Facultad de Ciencias de la Universidad Central de Venezuela, Caracas, Venezuela.
+Pentaho. (2012). PENTAHO. Recuperado en mayo de 2016, de http://www.pentaho.com/
+Piattini M. (1996). Análisis y Diseño Detallado de Aplicaciones Informáticas de Gestión. Madrid, España: Editorial Ra-Ma.
+Rails Guides. (2015). Ruby on Rails Guides (v4.2.4). Recuperado en julio 2015, de: http://guides.rubyonrails.org/
+109
+Referencias bibliográficas y digitales
+Rivera J. (2012). Pentaho Data Integration (Kettle). Recuperado en mayo 2016, de: http://www.docfoc.com/pentaho-data-integration-56338932d4bf0
+Ruby Lang Org. (2015). Acerca de Ruby. Recuperado en julio 2015, de: https://www.ruby-lang.org/es/
+Sistema de Acreditación de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). Instrucciones. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
+Sistema de Acreditación de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). PAIC-UDO. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
+Silberschatz A., Korth H. y Sudarshan S. (2002). Fundamentos de Bases de Datos. (4ta ed.). Madrid, España: Mc Graw Hill.
+Solis J. (2014). ¿Qué es bootstrap y cómo funciona en el diseño web?. Recuperado en mayo 2016, de: http://www.arweb.com/chucherias/editorial/%C2%BFque-es-bootstrap-y- como-funciona-en-el-diseno-web.htm
+The PostgreSQL Global Development Group. (1996-2015). PostgreSQL. Recuperado en julio 2015, de: http://www.postgresql.org/about/
+W3Schools. (2015). AJAX Introduction. Recuperado en julio 2015, de: http://www.w3schools.com/Ajax/ajax_intro.asp
+2ndQuadrant Ltd (2001-2015). 2ndQuadrant Professional PostgreSQL. Recuperado en julio 2015, de: http://2ndquadrant.com/es/postgresql/
+
+
+
