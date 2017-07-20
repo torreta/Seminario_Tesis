@@ -234,16 +234,19 @@ Arquitectura Cliente-Servidor
 (esto aqui, de cliente servidor hace falta refinar un poco)
 La arquitectura cliente-servidor es una arquitectura de procesamiento cooperativo entre computadores que está conformada por dos (2) componentes principales: clientes y servidores. Los clientes se encargan de iniciar la comunicación con el servidor a través de la red, emitiendo solicitudes de recursos o peticiones de servicios, como por ejemplo consultar una información o solicitar un archivo, y el servidor se encarga de atender las solicitudes realizadas por los clientes, respondiendo con el recurso o la información solicitada (Olivares, 2012).
 El servidor suele estar ubicado en un equipo con grandes capacidades de almacenamiento y procesamiento, para poder atender de forma eficiente las peticiones realizadas por los clientes. Existen distintos tipos de servidores como los servidores web, que almacenan principalmente documentos HTML (HyperText Markup Language, Lenguaje de Marcas de Hipertexto), los servidores de base de datos, que dan servicios de almacenamiento y gestión de bases de datos a sus clientes, los servidores del correo, que almacenan, envían, reciben y realizan todas las operaciones relacionadas con el correo electrónico de sus clientes, entre otros tipos de servidores.
-En la Figura 1 se puede observar la representación de un cliente-servidor:
-Algunas de las características principales de esta arquitectura son (Olivares, 2012):
+
+En la Figura 1:
+ se puede observar la representación de un cliente-servidor:
+
+Algunas de las características principales de esta arquitectura son: 
 • El cliente mantiene un papel activo en la comunicación, debido a que inicia la comunicación a través de solicitudes.
 • El cliente espera y recibe respuestas del servidor.
 • Un cliente puede comunicarse con más de un servidor de manera concurrente.
 • El cliente es el componente del sistema que interactúa de manera directa con el usuario final, a través de una interfaz gráfica.
 • El servidor permanece en espera de solicitudes, por lo tanto se considera que tiene un papel pasivo en la comunicación.
 • Un servidor puede recibir y mantener la conexión con diversos clientes al mismo tiempo, sin embargo el número máximo de conexiones posibles es limitado.
-Funcionamiento de una aplicación web
 
+Funcionamiento de una aplicación web
 Las aplicaciones web se basan en la arquitectura cliente-servidor, explicada anteriormente, donde el cliente es un navegador web y el servidor es un servidor web que almacena las páginas de la aplicación.
 
 El funcionamiento de una aplicación web es sencillo, el cliente emite una petición de una página web estática o dinámica al servidor web, y éste devuelve la página solicitada. Una página web estática, es aquélla que no cambia cuando un usuario la solicita: el servidor web envía la página al navegador web solicitante sin modificarla. 
@@ -320,6 +323,270 @@ Figura 4 - (Flujo de control del patrón MVC)
 • Permite una mayor claridad de diseño.
 • Facilita el mantenimiento.
 • Aumenta la escalabilidad.
+
+Tecnologías del lado del cliente
+Las tecnologías del lado del cliente son ejecutadas e interpretadas del lado del cliente en una aplicación web, es decir, en el navegador web. En muchos casos el buen funcionamiento de estas tecnologías va a depender del tipo de navegador web y de la versión de cada uno de ellos.
+Por lo general estas tecnologías son utilizadas para mostrar información, darle formato a dicha información, solicitar datos, etc. Entre las tecnologías que se explican a continuación están: el Lenguaje de Marcas de Hipertexto, Hojas de Estilo en Cascada, JavaScript y jQuery.
+
+
+Lenguaje de Marcas de Hipertexto
+El Lenguaje de Marcas de Hipertexto, mejor conocido como HTML (HiperText Markup Language), “es el lenguaje con el que se escriben las páginas web, haciendo uso de marcas (etiquetas) para describir la forma en la que deberían aparecer los textos y los gráficos en un navegador web” (EcuRed, 2012).
+
+HTML fue diseñado por el físico Tim Berners Lee en 1989, se publicó en un documento formal en 1991 y se convirtió en un estándar para el desarrollo de páginas web en 1995, ya que ofrece una estructura básica para la definición del contenido que por lo general se encuentra en una página web, como imágenes, texto, entre otros.
+
+A partir de 1996, la World Wide Web Consortium (W3C), que es la organización que define la mayoría de los estándares para el desarrollo web, se ha encargado de publicar constantes revisiones (HTML 3.2, HTML 4, HTML 4.01) de este estándar, ampliándolo y depurándolo con cada versión. HTML 5 fue la última revisión aprobada por esta organización, en el año 2014.
+
+HTML 5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Incorpora nuevas etiquetas con mayor significado semántico, mejora la integración con las tecnologías de desarrollo web actual, permite desplegar objetos y animaciones en formato 3D (tridimensional), tiene un mejor soporte multimedia y ahorra la necesidad de tener que procesar medios de audio o video a través de complementos instalados en el navegador web.
+
+En la Figura 5: se muestran las principales diferencias entre las etiquetas de HTML 4.01 y HTML 5
+
+ donde se puede observar que con HTML 5 se disminuye el uso de la etiqueta <div> (utilizada para definir un bloque de contenido), y se introducen etiquetas con mayor significado semántico para que la estructura de una página web sea más fácil de entender.
+
+
+Hojas de Estilo en Cascada
+Mientras que HTML permite definir la estructura una página web, las Hojas de Estilo en Cascada (Cascading Style Sheets - CSS) son las que ofrecen la posibilidad de definir las reglas y estilos de representación en diferentes dispositivos, ya sean pantallas de equipos de escritorio, portátiles, tabletas, celulares u otros dispositivos capaces de mostrar contenidos web (De Luca Damián, 2010).
+
+CSS fue diseñado por Håkon Wium Lie y Bert Bos entre 1994 y 1995 y se convirtió en un estándar en 1996, con el nombre de CSS 1. Al igual que con HTML, la W3C se ha encargado de publicar constantes revisiones de este lenguaje, siendo la versión CSS 2.1 el estándar actual que ofrece gran compatibilidad con la mayoría de los navegadores web del mercado.
+
+En el año 2005 se comenzó a definir el sucesor de la versión CSS 2.1, al cual se lo conoce como CSS 3, pero actualmente sigue en desarrollo y sólo se han publicado algunos borradores. Esta versión a pesar de que aún no es compatible con todos los navegadores, ofrece una gran variedad de opciones muy importantes para las necesidades del diseño web actual, como funciones avanzadas de movimiento y transformación, opciones de bordes redondeados, sombras en textos y cajas, entre otras opciones, sin la necesidad de usar un editor gráfico (De Luca Damián, 2010).
+La sintaxis del lenguaje CSS consta de elementos llamados reglas, las cuales se dividen en selectores y declaraciones, donde el selector es el identificador al que se le quiere dar la declaración de un conjunto de propiedades con sus valores, como se puede ver en la
+
+ Figura 6.
+
+Figura 7.
+
+ muestra un ejemplo de código CSS incrustado en HTML, para cambiar el tipo, el tamaño y el color de la fuente de un título y un párrafo.
+
+
+JavaScript
+JavaScript (JS) es un lenguaje de scripting, interpretado, diseñado para la manipulación de eventos y objetos contenidos en una página web, de forma local y sin necesidad de transmisión alguna por la red.
+
+JavaScript permite crear pequeños programas llamados script, que pueden acompañar un documento HTML o estar contenidos en su interior. Dicho programa se ejecuta en el navegador web cuando se carga el documento, o cuando se produce algún evento, como por ejemplo la activación de un enlace por parte del usuario (España, 2003).
+
+
+Gracias a los scripts se pueden realizar tareas como:
+
+• Validación de datos introducidos en un formulario.
+• Mensajes de alerta.
+• Algunos cálculos simples.
+• Control de eventos que se producen en la página: un elemento toma el foco, un elemento es activado con el ratón, etc.
+
+La ventaja de poder de realizar tareas de este tipo en el navegador web, es que por ejemplo si el usuario no rellena correctamente un formulario, no necesita esperar mucho tiempo hasta que el servidor vuelva a mostrar el formulario indicando los errores existentes.
+
+Para insertar código JavaScript en un documento HTML se utiliza la etiqueta <script> de la siguiente manera:
+<script language="JavaScript">
+		<!--<instrucciones> --> 
+</script>
+Actualmente existe una gran cantidad de bibliotecas basadas en JavaScript, siendo jQuery una de las más utilizadas, ya que ésta posee una gran cantidad de funciones para simplificar la manera de interactuar con los documentos HTML, manipular documentos a través del árbol DOM (Document Object Model, Modelo de Objetos del Documento), gestionar eventos, animar y agregar interacción a las páginas web con la técnica AJAX (Asynchronous JavaScript And XM, JavaScript Asíncrono y XML).
+
+La técnica AJAX tiene como objetivo crear páginas web dinámicas, mediante la realización de solicitudes asíncronas hacia el servidor, es decir sin la participación directa del usuario, las cuales permiten actualizar ciertas secciones de la página sin necesidad de recargarla por completo. En ambientes donde no se implementa esta técnica, cualquier actualización no será visible hasta tanto se recargue por completo el contenido de la página (W3Schools, 2015).
+
+
+Bootstrap
+Bootstrap, es un marco de trabajo (framework) que permite crear interfaces web con las tecnologías de CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaño del dispositivo en que se visualice. Es decir, el sitio web se adapta automáticamente al tamaño de una computadora de escritorio o portátil, una tablet u otro dispositivo. Esta técnica de diseño y desarrollo se conoce como diseño adaptativo (responsive design) (Solis, 2014).
+
+Tecnologías del lado del servidor
+Las tecnologías del lado del servidor permiten construir la lógica de negocio de la aplicación web. Esto implica el procesamiento de las solicitudes que se realizan desde el navegador web así como también la comunicación con el sistema encargado del manejo de datos.
+Entre las tecnologías del lado del servidor que se explican a continuación están: el lenguaje de programación Ruby, el marco de trabajo Ruby on Rails, el sistema manejador de base de datos PostgreSQL y el Protocolo Ligero/Simplificado de Acceso a Directorios.
+
+ Ruby
+Ruby es un lenguaje interpretado orientado a objetos, de propósito general y multiplataforma. Una de las principales filosofía del lenguaje es enfocarse en la simplicidad y la productividad, por lo que su sintaxis es muy sencilla de aprender, pero a su vez es muy poderosa y versátil para crear código escalable, sencillo y de manera eficiente (Graterol et al., 2014).
+Ruby se utiliza para resolver problemas de cualquier índole en el área de la computación, aunque comenzó a hacerse más conocido por su uso para desarrollo web gracias al framework Ruby on Rails, mas no es el único uso que le podemos dar a este lenguaje (Graterol et al., 2014).
+Algunas de las características generales del lenguaje son las siguientes (Ruby Lang Org, 2015):
+• Licencia de código abierto: el código fuente de Ruby es libre de ser descargado e inspeccionado por sus usuarios.
+• Multiparadigma: soporta más de un paradigma de programación, desde la funcional, hasta la imperativa, debido a los esfuerzos de su creador por crear un lenguaje que fuese un híbrido de todos sus lenguajes favoritos.
+• Todo es visto como un objeto: no existen los tipos de datos elementales, sino que todas las operaciones sobre datos, son en realidad invocaciones a métodos pertenecientes a una clase.
+• Altamente flexible: permite redefinir su estructura como el programador lo desee. Incluso las clases propias pueden ser redefinidas a conveniencia para modificar el comportamiento de las operaciones.
+• Extensible: se le pueden agregar un gran número de funcionalidades nuevas, a través de su sistema de Gemas, que son bibliotecas desarrolladas por la comunidad y distribuidas libremente a través del repositorio oficial conocido como RubyGems.
+• Múltiples hilos: el lenguaje implementa en su ejecución el paradigma de múltiples hilos, sin importar la plataforma sobre la cual se encuentre trabajando.
+Ventajas
+Algunas de las ventajas de Ruby son:
+• Código abierto.
+• Curva de aprendizaje muy corta.
+• Sintaxis concisa y legible.
+• Buenas prácticas y lineamientos de calidad reforzados por el lenguaje.
+• Aumenta la productividad.
+• Soporte extensivo a herramientas de todo tipo incluido por defecto en la biblioteca estándar.
+• Dispone de una cantidad enorme de paquetes de terceros, disponibles a través del índice de paquetes de Ruby (llamados Gemas).
+• Reduce dramáticamente el tiempo de desarrollo gracias a la disponibilidad de tantos paquetes.
+
+Desventajas
+Algunas de las desventajas de Ruby son:
+• Comunidad pequeña en comparación con otros lenguajes.
+• Demanda baja en el mercado laboral.
+• Ruby necesita del manejo de tareas asíncronas no nativas para lograr un mejor rendimiento y escalado de aplicaciones donde haya mucha concurrencia.
+• El uso de memoria de Ruby no está del todo optimizado.
+
+Ruby on Rails
+Ruby, al igual que otros lenguajes de programación, cuenta con varios frameworks que facilitan la creación de aplicaciones web. No obstante, el framework más utilizado por los desarrolladores, gracias a sus bondades y facilidad de uso, es Ruby on Rails.
+Ruby on Rails, también conocido como Rails o RoR, “es un entorno de desarrollo web para Ruby de código abierto que está optimizado para la satisfacción de los programadores y para la productividad sostenible. Permite escribir un buen código evitando la repetición y favoreciendo la convención antes que la configuración” (Rails Guides, 2015).
+Se basa principalmente en dos (2) filosofías de trabajo (Rails Guides, 2015):
+• Don’t Repeat Yourself (DRY): en español No Te Repitas, sugiere que escribir el mismo código una y otra vez en cualquier componente de software resulta redundante y es una pérdida de tiempo que se puede evitar, por lo que se busca reutilizar componentes ya existentes.
+• Convención sobre configuración: se basa en establecer estándares o convenciones reconocidas a nivel mundial como configuración por defecto para las tecnologías de trabajo, reduciendo así la cantidad de modificaciones que los desarrolladores deben hacer sobre las mismas para hacer funcional la aplicación.
+Además, Rails está orientado al paradigma Modelo Vista Controlador (MVC), por lo que utiliza distintas tecnologías para dar soporte a cada una de estas partes. A continuación, se explica cada parte por separado para conocer las tecnologías asociadas a cada una.
+• Modelo: consiste en las clases persistentes que representan a las tablas de la base de datos. En Rails la gema encargada de realizar automáticamente la correspondencia entre los modelos definidos por los desarrolladores y las tablas almacenadas en la base de datos es ActiveRecord. Una gran bondad de ActiveRecord es que permite realizar migraciones sin mucho esfuerzo, ya que los desarrolladores no tienen que preocuparse por crear manualmente la base de datos y sus tablas utilizando el lenguaje propio del manejador asociado, sino que pueden realizar creación, modificación y eliminación de tablas en la base de datos a través de comandos propios de Rails y efectuando las modificaciones pertinentes únicamente sobre los modelos (Rails Guides, 2015).
+• Vista: es la responsable de generar la interfaz de usuario, normalmente basada en los datos del modelo. Existen varias formas de gestionar las vistas, el método que aplica Rails es usar Ruby embebido (archivos.html.erb), que es código HTML mezclado con código Ruby. La gema encargada de controlar las vistas en Rails es el ActiveView, la cual es responsable del despliegue de visualización de contenido en pantalla (Rails Guides, 2015).
+• Controlador: es un intermediario entre los modelos y las vistas. Se encarga de recibir las peticiones que se generan de lado del cliente, y procesarlas de acuerdo a la lógica programada por los desarrolladores para generar las vistas asociadas a los resultados. En Rails, este módulo se conoce como ActionPack, y contiene la clase ApplicationController, encargada principal de todos los controladores del sistema (Rails Guides, 2015).
+
+ Sistemas Manejadores de Bases de Datos
+Según Silberschatz A. et al. (2002) un Sistema Manejador de Base de Datos (SMBD) “consiste en una colección de datos interrelacionados y un conjunto de programas para acceder a dichos datos” y su objetivo principal “es proporcionar una forma de almacenar y recuperar la información de una base de datos de manera que sea tanto práctica como eficiente”.
+En la actualidad existe una gran variedad de sistemas manejadores de bases de datos, muchos de ellos son propietarios o comerciales como Oracle, Microsoft SQL Server, IBM Informix, Sybase, etc. y otros no comerciales o de código abierto como MySQL o PostgreSQL, siendo éste último el que se explica a continuación.
+ PostgreSQL
+PostgreSQL es un potente Sistema Manejador de Base de Datos objeto-relacional, de código abierto, que cuenta con más de 15 años de desarrollo activo y una arquitectura probada que se ha ganado una sólida reputación por su fiabilidad, integridad de datos y corrección (The PostgreSQL Global Development Group, 1996-2015).
+Trabaja muy bien con grandes cantidades de datos y una alta concurrencia de usuarios accediendo a la vez al sistema, por lo que se considera una herramienta que favorece a los usuarios con sistemas empresariales de gran tamaño.
+PostgreSQL se ha enfocado tradicionalmente en la fiabilidad, integridad de datos y características integradas enfocadas al desarrollador. Tiene un planificador de consultas extremadamente sofisticado, que es capaz de unir cantidades relativamente grandes de tablas eficientemente (2ndQuadrant Ltd, 2001-2015).
+Se distribuye bajo la Licencia PostgreSQL, que es una licencia similar a la de la Distribución de Software de Berkeley (BSD) y a la del Instituto de Tecnología de Massachusetts (MIT), que permite a los usuarios hacer cualquier cosa que quieran con el código, incluyendo la reventa de los binarios sin el código (2ndQuadrant Ltd, 2001-2015).
+Algunas de las ventajas de PostgreSQL son:
+• Es código abierto.
+• La velocidad de respuesta se mantiene al aumentar el tamaño de la base de datos, cosa que no sucede con otros programas que se suelen poner lentos.
+• Proporciona estabilidad y confiabilidad.
+• Tiene una gran capacidad de almacenamiento.
+• Soporta gran número de peticiones simultáneas a la base de datos de forma correcta.
+• Puede operar sobre distintas plataformas, incluyendo Linux, Windows, Unix, Solaris y MacOS X.
+• Provee un buen sistema de seguridad mediante la gestión de usuarios, grupos de usuarios y contraseñas.
+• Soporta los tipos de datos, cláusulas, funciones y comandos de tipo estándar SQL92/SQL99 y extendidos propios de PostgreSQL.
+Algunas de las desventajas son:
+• En comparación con otros sistemas manejadores de base de datos, como por ejemplo MySQL, es más lento en inserciones y actualizaciones, ya que cuenta con cabeceras de intersección.
+• Cuenta con muchos foros oficiales de ayuda, pero no con una documentación de ayuda obligatoria.
+• La sintaxis de algunos comandos o sentencias no es tan intuitiva.
+
+Directorio y servicio de directorio
+Directorio 
+Un directorio es un repositorio único para la información relativa a los usuarios y recursos de una organización, el cual está organizado de manera lógica y jerárquica. Por ejemplo, en un directorio se puede almacenar información acerca de las cuentas de usuario de las personas de una organización (nombres, contraseñas, números de teléfono, etc.) (EcuRed, 2012).
+Generalmente se describe un directorio como una base de datos, pero es una base de datos especializada cuyas características la apartan de una base de datos relacional de propósito general (Calzada, 2001).
+Algunas de las características que diferencian un directorio de una base de datos relacional son (Calzada, 2001):
+• Los directorios están optimizados para accesos en lectura, frente a las bases de datos convencionales, que se encuentran optimizadas para lectura y escritura.
+• Los directorios están optimizados para almacenar información relativamente estática, por lo que no son recomendables para almacenar datos que cambian con frecuencia.
+• Los directorios no soportan transacciones. Las transacciones son operaciones de base de datos que permiten controlar la ejecución de una operación compleja, de modo que dicha operación se completa totalmente o no se ejecuta en absoluto. Las bases de datos convencionales implementan esta funcionalidad, a costa de hacer su implementación más compleja. Pero el tipo de información que se almacena generalmente en el directorio no requiere una consistencia estricta y se considera aceptable que el número de teléfono de una persona no esté actualizado de forma temporal.
+• El diseño del directorio es bastante diferente del diseño de una base de datos relacional. En las bases de datos se tiende a diseñar un modelo de datos para asuntos de negocios y los requisitos de los procesos, el cliente, el servicio y el administrador. Con los directorios, lo que se hace es colocar la información en un repositorio común para muchos usos y usuarios. Su diseño y esquema de la información deben ser desarrollados conforme a lo que está representando, a objetos en la vida real. En la mayoría de los casos, estos objetos representan los usuarios, agendas, listas, preferencias, derechos, productos y servicios, dispositivos, perfiles, políticas, números de teléfono, rutas, etc. Además, se debe considerar también los aspectos operacionales de diseño, en vista del funcionamiento y de escala.
+
+Servicio de directorio
+Un servicio de directorio es una aplicación o un conjunto de aplicaciones que proporciona métodos para almacenar los datos de un directorio y a su vez ponerlos a disposición de los administradores y los usuarios que se encuentren en la misma red (EcuRed, 2012).
+Un servicio de directorio está altamente optimizado para lecturas y proporciona alternativas avanzadas de búsqueda en los diferentes atributos que se puedan asociar a los objetos de un directorio.
+Protocolo Ligero/Simplificado de Acceso a Directorios
+Las aplicaciones que deseen acceder a un directorio, deben utilizar el Protocolo Ligero/Simplificado de Acceso a Directorios, mejor conocido como LDAP (Lightweight Directory Access Protocol), el cual es un protocolo de tipo cliente-servidor que permite establecer la comunicación entre la aplicación y el servicio de directorio para que ésta pueda acceder o modificar la información del repositorio.
+LDAP le brinda al usuario la posibilidad de:
+- Conectarse al directorio. 
+- Desconectarse del directorio. 
+- Buscar información. 
+- Comparar información. 
+- Insertar entradas.
+- Cambiar entradas. 
+- Eliminar entradas.
+
+CAPÍTULO 3 MARCO METODOLÓGICO
+En todo desarrollo de software, aplicar cierto grado de disciplina siempre ayuda a conseguir un producto final de mayor calidad. Las metodologías ágiles son las más adecuadas para proyectos donde es necesaria la flexibilidad y la adaptación a los cambios, como es el caso de las aplicaciones web, que suelen tener requerimientos variables y usualmente se desea que estén disponibles en poco tiempo.
+Algunas metodologías ágiles de uso común en la actualidad son: Programación Extrema (XP), Proceso Unificado Ágil (AUP), Proceso Unificado Abierto (OpenUP), Scrum, AgilUs, entre otras.
+AgilUs es una metodología ágil que se adapta bien a proyectos individuales o de equipos pequeños, se centra en el usuario y sus necesidades, e incorpora técnicas de evaluación de usabilidad rápidas, económicas y que no requieren de plataformas tecnológicas complejas. Por todas estas razones, esta metodología resultó ser la adecuada para el desarrollo de este Trabajo Especial de Grado.
+En este capítulo se explica en profundidad la metodología AgilUs, analizando sus principales características y describiendo las etapas que contempla.
+
+Metodología AgilUs
+La metodología AgilUs de Alecia Acosta nace como línea de investigación del Centro Ingeniería de Software y Sistemas (ISYS) de la Escuela de Computación de la Universidad Central de Venezuela. Se basa en el concepto de usabilidad, en la necesidad de desarrollar software usable. Se fundamenta en el análisis centrado en el usuario y en la participación de especialistas, con el objetivo de evolucionar el software, a fin de que éste alcance el mayor grado de usabilidad una vez culminado su desarrollo (Acosta, 2011).
+AgilUs es un método de desarrollo iterativo e incremental que pone el mayor peso del desarrollo en la consecución de la usabilidad. Se centra en que la construcción de las interfaces de usuario se realice desde el comienzo del desarrollo del sistema y no al final.
+Esta metodología reduce la cantidad de actividades y artefactos que se generan, propicia la participación del usuario y se adapta a los cambios que puedan surgir en el desarrollo. Está orientada al desarrollo de sistemas con alto grado de interactividad con los usuarios (front-end) y menos complejidad en la lógica de la aplicación (back-end).
+
+AgilUs provee un conjunto de “buenas prácticas” para el desarrollo de software desde una perspectiva ágil, donde requiere involucrar al usuario de manera activa durante el proceso de desarrollo. Algunas de estas “buenas prácticas” son:
+• Diseño centrado en el usuario (DCU): es un enfoque de diseño y desarrollo que se centra en los deseos, limitaciones y necesidades de los usuarios finales de un software.
+• Diseño basado en prototipos: el desarrollo de software es guiado por la construcción de prototipos de alta fidelidad y la evaluación de los mismos por los usuarios y por especialistas en usabilidad.
+• Desarrollo ágil, incremental e iterativo: el desarrollo es lo más simple posible, provee resultados sin necesidad de esclarecer todo los requerimientos al inicio del desarrollo y permite regresar a etapas anteriores una vez recibida la retroalimentación de las evaluaciones realizadas.
+• Usabilidad como atributo de la calidad: se siguen las recomendaciones del estándar ISO/IEC 9126-1 para la producción de software usable, ya que la usabilidad es considerada un atributo de la calidad interna y externa del software.
+• Interacción continua con el usuario: la presencia constante y participativa del usuario es fundamental. La usabilidad del sistema sólo puede ser determinada por el usuario.
+Acosta (2011) explica que AgilUs centra el desarrollo de software en los siguientes principios:
+• Integra la Interacción Humano Computador (IHC) y la Ingeniería de Software (IS): IS e IHC son complementarias, no son disciplinas excluyentes. Un diseño centrado en el usuario impacta positivamente en la calidad del software (ISO 9126-1).
+• La usabilidad debe considerarse desde el principio del desarrollo: la usabilidad aumenta la calidad del software, entonces es conveniente incluirla desde el principio en el desarrollo como uno de los requerimientos fundamentales para impactar positivamente en la calidad del producto final.
+• La usabilidad determina la utilidad: un software se considera útil en la medida que pueda ser usado a fin de producir resultados, en forma eficiente, intuitiva y satisfactoria para los usuarios.
+• El usuario determina la usabilidad: la usabilidad no es una propiedad abstracta. Un software sólo será considerado usable en un contexto específico y por un tipo de usuario específico. El objetivo es lograr que todos los usuarios del software encuentren usables las tareas que pueden realizar.
+Ciclo de vida
+“El ciclo de vida de AgilUs hace énfasis en la importancia del usuario y sus evaluaciones. Está basado en el desarrollo iterativo e incremental de prototipos de alta fidelidad hasta que se convierten en el producto final para entrega” (Acosta, 2011).
+AgilUs está formado por cuatro (4) etapas diferentes: Requisitos, Análisis, Entrega y Prototipaje, y en cada una de ellas se incluyen actividades y artefactos poco costosos para la construcción de la usabilidad, como se muestra en la 
+
+Figura 8
+
+Etapas
+A continuación se describe las cuatro (4) etapas de AgilUs y las técnicas de evaluación de usabilidad utilizadas (Acosta, 2011):
+• Requisitos: se realiza el análisis global del problema a solucionar, se estudian productos similares existentes, se genera un perfil de usuario, y se define la lista de requerimientos a desarrollar. Esta etapa es importante en el desarrollo del software,ya que un mal análisis de requerimientos traería como consecuencia un software que no cumple con las necesidades del usuario.
+Las técnicas de evaluación de usabilidad (indagación) que se utilizan en esta etapa son:
+- Tormenta de ideas: técnica de grupo para la generación de ideas nuevas y útiles, que permitan mediante reglas sencillas aumentar las probabilidades de innovación y originalidad.
+- Encuesta: conjunto de preguntas normalizadas dirigidas a una muestra representativa de la población para obtener información estadística acerca de sus opiniones o hechos específicos.
+- Cuestionario: lista de preguntas que se distribuye entre los usuarios para obtener información de sus opiniones. Este instrumento se puede utilizar en cualquier etapa del proceso de desarrollo, dependiendo de las preguntas que estén formuladas.
+- Entrevista: dialogo entre un entrevistador y un entrevistado, donde el entrevistador hace una serie de preguntas al entrevistado con el fin de conocer sus opiniones e ideas.
+- Evaluación de sistemas existentes: consiste en la revisión de versiones anteriores del mismo sistema, así como sistemas de la competencia o afines, con el objetivo de identificar ventajas, desventajas y problemas de usabilidad.
+- Perfil de usuario: describe a los usuarios previstos del sistema, detallando sus
+características más relevantes.
+- Requerimientos funcionales y no Funcionales: recopilación de condiciones o
+capacidades que debe cumplir el sistema.
+• Análisis: se lleva a cabo el análisis de la solución a desarrollar, se emplean diagramas de casos de uso y modelo de objetos del dominio, siguiendo la notación UML, para definir las funcionalidades que tendrá el producto a desarrollar.
+Las técnicas de evaluación de usabilidad que se utilizan en esta etapa son:
+- Prototipo en papel: bosquejo del sistema que se desea realizar. Resulta muy
+útil cuando el cliente no tiene claros algunos puntos.
+- Guía de estilo: documento que recoge normativas y patrones básicos relacionados con el aspecto de la interfaz para su aplicación en el desarrollo de nuevas pantallas dentro de su entorno.
+- Modelo de casos de uso: modelo que permite especificar las funcionalidades y el comportamiento del sistema mediante su interacción con usuarios u otros sistemas.
+- Modelo de objetos del dominio: modelo que describe y prioriza cada uno de los
+objetos identificados en el sistema.
+- Objetos de interfaz: modelo que permite comprender la parte visual de la
+aplicación.
+- Patrones de interacción: describen aspectos concernientes a la interfaz de usuario; están orientados a presentar soluciones apropiadas a problemas recurrentes que se les presentan a los usuarios cuando utilizan las aplicaciones interactivas.
+• Prototipaje: se implementa un prototipo rápido de la interfaz de usuario a partir de los patrones de interacción, el cual va evolucionando hasta convertirse en el producto final y se realizan evaluaciones de usabilidad apropiadas a esta etapa: evaluaciones heurísticas y listas de comprobación.
+Las técnicas de evaluación de usabilidad que se utilizan en esta etapa son:
+- Prototipo rápido: técnica basada en ordenador que pretende reducir el ciclo iterativo de desarrollo. Los prototipos iterativos desarrollados podrán ser rápidamente reemplazados o modificados según los informes procedentes de otras evaluaciones a medida que se evoluciona en el desarrollo de las tareas a realizar. Existen muchas herramientas para la generación de prototipos rápidos, siendo habituales una secuencia de imágenes en Microsoft PowerPoint o Visual Basic.
+- Evaluación heurística: se basa en una inspección donde especialistas en usabilidad juzgan si cada elemento de la interfaz sigue los principios de usabilidad establecidos.
+- Lista de comprobación: consta de la verificación del cumplimiento de una lista de principios que el equipo de desarrollo acuerda para el diseño de la interfaz de usuario.
+- Pensamiento en voz alta: técnica donde se les pide a los usuarios que expresen en voz alta sus pensamientos, sentimientos y opiniones mientras que interaccionan con el sistema o un prototipo del mismo.
+- Prototipo ejecutable: técnica donde el prototipo utilizado para las pruebas se corresponde con la interfaz real en la mayor medida posible. Es utilizado para maquetar la interfaz y en él son aceptadas entradas desde ratón o teclado, tal como lo haría la interfaz real, a su vez que responde a esos eventos de idéntica forma (mostrando ventanas, mensajes de respuesta, entre otros).
+• Entrega: se aplican las pruebas al sistema para certificar que la aplicación desarrollada sea un software usable y sin errores, finalmente se pone en producción la aplicación.
+Las técnicas de evaluación de usabilidad que se utilizan en esta etapa son:
+- Pruebas de aceptación: pruebas que aportan datos tanto cuantitativos como cualitativos sobre usuarios reales que llevan a cabo tareas reales con el sistema. Los profesionales de la usabilidad pueden evaluar algunos aspectos de la accesibilidad utilizando protocolos normalizados de pruebas de usabilidad.
+- Protocolo de preguntas: consiste en la formulación de preguntas directas al usuario acerca del sistema para detectar qué partes de la interfaz resultan obvias y que otras resultan oscuras.
+
+Errores comunes
+Acosta (2011) señala que al implementar AgilUs se pueden cometer algunos errores comunes que surgen a causa de la disminución deliberada o accidental de la participación del usuario en el proceso de desarrollo o de una mala comprensión del rol que debe ocupar a la hora de tomar decisiones con respecto al diseño del sistema y sus interfaces.
+Uno de los errores más frecuentes es que el equipo de desarrollo determine la usabilidad del sistema sin incluir al usuario, intentando predecir o aproximar las reacciones, deseos, capacidades y carencias de éste. Otro error común es pensar que el cliente y el usuario son la misma persona. A pesar de que el cliente es el propietario del sistema, éste no debería tomar decisiones, por ejemplo en términos de usabilidad, ya que los usuarios son los que deberían decidir, indirectamente a través de sus evaluaciones y comentarios, qué se debe hacer y por qué.
+
+Tabla resumen
+
+ Resumen de la Metodología AgilUs
+Definición
+Metodología ágil fuertemente orientada a la producción de software usable, por ello el usuario es el actor principal durante el proceso de desarrollo.
+Etapas
+- Requisitos. - Análisis. - Prototipaje. - Entrega.
+Roles - No tiene roles.
+Tiempos de entrega Al finalizar una iteración se entrega un prototipo para ser evaluado.
+Artefactos
+Etapa de Requisitos: - Tormenta de ideas. - Encuestas, entrevistas, cuestionarios. - Evaluación de sistemas existentes. - Perfiles de usuario. - Requerimientos funcionales y no funcionales.
+Etapa de Análisis: - Prototipo en papel. - Guía de estilo. - Casos de uso. - Modelo de objetos del dominio. - Objetos de interfaz. - Patrones de interacción.
+Etapa de Prototipaje: - Evaluación heurística. - Lista de comprobación. - Pensamiento en voz alta. - Prototipo ejecutable.
+Etapa de Entrega: - Protocolo de preguntas. - Pruebas de aceptación. - Aplicación final.
+Ventajas
+- Constante interacción con el usuario durante todo el proceso de
+desarrollo. - Incremento de la productividad, la satisfacción y la reducción de costos de entrenamiento y soporte del software, ya que las técnicas de evaluación de usabilidad propuestas en el método no son costosas ni requieren de infraestructura tecnológica compleja.
+Desventajas
+- No contempla en su ciclo de vida una fase de mantenimiento, lo cual dificulta su evolución y/o corrección una vez finalizado el desarrollo del producto. - Puede ocurrir una disminución de la participación del usuario en el proceso de desarrollo o puede haber una mala comprensión de su rol.
+
+CAPÍTULO 4 MARCO APLICATIVO
+En este capítulo se describen aspectos y características relevantes de la aplicación y se detallan los pasos que se realizaron para el desarrollo de este Trabajo Especial de Grado, siguiendo de manera parcial los lineamientos de la metodología AgilUs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 por ahora pienso que deberíamos poner aqui, arquitectura CLiente-servidor, API restfull, ruby on rails, mysql, que es un Mailer, definir que es un servicio de reclutamiento, que tipo de datos se piden en entrevistas de trabajo, que información válida a un profesional, como certificar una persona como valida, que tipo de pruebas te hace el sistema, como sera la configuracion, roles de usuarios (empresas/vacante - reclutados/interesados), definir un glosario de terminos, de donde sacaremos la información, como filtraremos a las personas, que cosas generarán información para el sistema, que tipo de feedback daremos, cosas asi… averiguar métodos de reclutamiento comunes y enumerar sus pros y contras para colocar una buena justificación del proyecto,
