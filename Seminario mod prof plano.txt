@@ -298,10 +298,23 @@ Divulgar el potencial investigativo y creador de la Facultad de Ciencias, así co
 3.2 ¿En qué se diferencia de otras metodologías?
 
 3. Seguimiento y control del presente estudio
-3.1 Proyecto: Decir que es un proyecto
+3.1 Proyecto
+Un proyecto es un conjunto de objetivos que se llevan a cabo con la finalidad de crear un producto, servicio o resultado único que puede ser tangible o intangible que sea duradero. Los proyectos son temporales, es decir, que existe un principio y un final bien definidos, dicho final es alcanzado cuando se cumplen todos los objetivos o cuando se alcanzan los objetivos que pueden cumplirse. Esto se debe a que, durante la realización del proyecto, se puede determinar que algunos objetivos no pueden ser cumplidos, no podrán cumplirse a tiempo o ya no se consideran necesarios para el proyecto. Igualmente, un proyecto puede culminar sin cumplir los objetivos cuando el cliente o la persona que solicitó el proyecto decide terminar con el mismo al considerar que ya no es necesario su existencia.
 3.2 Gerencia del proyecto (dicen que es la gerencia de proyectos)
 3.3 Metodología de gestión de proyectos a utilizar
 En la metodología dicen que la metodología a utilizar es la metodología del PMI (Project Management Institute),
+3.3.1 Gestión del alcance del proyecto
+En este se determinan los procesos necesarios para definir y controlar qué objetivos serán incluidas para completar el proyecto de forma exitosa.
+
+
+
+La Gestión del alcance del proyecto se divide en en seis procesos las cuales son:
+
+Planificar Gestión del Alcance: en este proceso, se crea un plan de gestión de alcance en el que se documenta cómo es definido, validado y controlado el alcance del proyecto; ésta proporciona una guía y dirección sobre cómo será gestionado el alcance durante el desarrollo de un proyecto.
+
+-Recopilar Requisitos: en este proceso es cuando se identifican, documentan y gestionan todas las necesidades y requisitos del personal interesado para alcanzar los objetivos del proyecto; ésta proporciona la base para definir el alcance del proyecto incluyendo el del producto.
+
+-Definir el Alcance: en este proceso se desarrolla una descripción detallada del proyecto y del producto //---Sera cambiado, ignorar el mal formato
 
 3.3.1 Gestión del alcance del proyecto
 3.3. 2 Gestión del tiempo
@@ -322,11 +335,15 @@ La fase de selección inicia principalmente cuando el departamento de recursos hu
 
 Una vez seleccionado los candidatos cuyas aptitudes correspondan al perfil del puesto de la organización se procede a las entrevistas, donde por medio de una comunicación interpersonal (Entrevistador-entrevistado) permite al reclutador obtener información valiosa sobre el candidato, a través de preguntas, demostraciones, simulaciones o cualquier técnica aplicada por la organización que permita categorizar y evaluar la idoneidad del candidato para el puesto de trabajo.
 
-Posterior a la entrevista, se realizan pruebas psicológicas a los candidatos que continúan en el proceso, estas pruebas se dividen en: Psicométricos donde se evalúan las cualidades psíquicas del individuo como medición de inteligencia (comparación de la edad mental con la edad cronológica), rasgos de personalidad (reacción ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); Personalidad donde se evalúan las principales características del carácter del candidato para determinar factores como la adaptación a los cambios, capacidades de iniciativa, reacción ante situaciones de presión, motivación, estabilidad emocional, etc; Psicotécnicos donde se evalúan las capacidades y aptitudes intelectuales del candidato en relación al puesto ofertado por la organización, aptitudes como la memoria, percepción, capacidad de comunicarse, capacidad numérica, etc.
+Posterior a la entrevista, se realizan pruebas psicológicas a los candidatos que continúan en el proceso, estas pruebas se dividen en: Psicométricos donde se evalúan las cualidades psíquicas del individuo como medición de inteligencia (comparación de la edad mental con la edad cronológica), rasgos de personalidad (reacción ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); Personalidad donde se evalúan las principales características del carácter del candidato para determinar factores como la adaptación a los cambios, capacidades de iniciativa, reacción ante situaciones de presión, motivación, estabilidad emocional, etc; Psicotécnicos donde se evalúan las capacidades y aptitudes intelectuales del candidato en relación al puesto ofertado por la organización, aptitudes como la memoria, percepción, capacidad de comunicarse, capacidad numérica, etc. 
 
 
 
 
+
+A su vez, dependiendo del tipo de vacante que se está ofertando, las se realizan pruebas de capacidad, donde se evalúa la capacidad intelectual por medio de pruebas técnicas, donde el candidato puede demostrar su experiencia y conocimientos de un tópico, prueba con simulaciones, donde se evalúa la capacidad del candidato de ejecutar sus funciones ante ciertas situaciones o acontecimientos que pudiesen ocurrir al ocupar el cargo.
+
+Finalmente, aquel o aquellos candidatos que fueron seleccionados se les hace entrega de una propuesta salarial, esta propuesta realizada por la organización presenta el salario, beneficios sociales, seguros o cualquier otro tipo de beneficios hecha habitualmente por escrito con la intención de incorporar al candidato a la organización. En este punto el candidato analiza la propuesta y evalúa las condiciones para determinar si la acepta o opta por retirarse de la selección al no cumplir con su expectativa.
 
 
 Búsqueda de personal
