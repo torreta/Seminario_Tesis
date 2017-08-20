@@ -3,17 +3,16 @@
 
 Universidad Central de Venezuela
 Facultad de Ciencias
-Escuela de ComputaciÛn
-Aplicaciones con TecnologÌa a Internet
+Escuela de Computaci√≥n
+Aplicaciones con Tecnolog√≠a a Internet
 
 
 
 Seminario
-TÛpicos a considerar para el desarrollo de una aplicaciÛn Web orientada al ·rea de Recursos humanos de cualquier organizaciÛn
+T√≥picos a considerar para el desarrollo de una aplicaci√≥n Web orientada al √°rea de Recursos humanos de cualquier organizaci√≥n
 
 
-
-Seminario 
+Seminario
 presentado ante la ilustre
 Universidad Central de Venezuela
 por los bachilleres
@@ -22,17 +21,16 @@ Luis E. Campos  M., C.I.: 18.033.084
 
 
 Tutor
-Prof. JosÈ S·nchez
-
+Prof. Jos√© S√°nchez
 Caracas, Octubre de 2017
 Notas para Kevin
-Te recomiendo que veas por youtube como crear el template de estilos para APA, asÌ no nos toca configurar manualmente las lÌneas, etc, ya que estos estilos pueden cargarse desde una plantilla.
-hay maneras de generar autom·ticamente los Ìndices, ergo, igual, averigua cÛmo se hace porque es ˙til saberlo, (son cosas principalmente de Word y no de google doc, pero podemos importar este documento desde aquÌ y colocarle todos los formatos en un word 2010 o algo asi, seria cuestion de tener el documento casi listo)
-si encuentras informaciÛn en internet que nos pueda servir (las referencias que nos dio el profesor por ejemplo, guardalas en marcadores y copialas en las referencias de este documento) te recomiendo que lo hagas cada vez que copies un segmento de lo que sea desde otro sitio ya que despuÈs es complicado recordar las referencias
-cada vez que copies algo desde otro sitio colocar esta marca <Ref (numero)> asi podemos poner el hipervÌnculo al glosario / referencia que le corresponde, eso le da dinamismo al documento 
+Te recomiendo que veas por youtube como crear el template de estilos para APA, as√≠ no nos toca configurar manualmente las l√≠neas, etc, ya que estos estilos pueden cargarse desde una plantilla.
+hay maneras de generar autom√°ticamente los √≠ndices, ergo, igual, averigua c√≥mo se hace porque es √∫til saberlo, (son cosas principalmente de Word y no de google doc, pero podemos importar este documento desde aqu√≠ y colocarle todos los formatos en un word 2010 o algo asi, seria cuestion de tener el documento casi listo)
+si encuentras informaci√≥n en internet que nos pueda servir (las referencias que nos dio el profesor por ejemplo, guardalas en marcadores y copialas en las referencias de este documento) te recomiendo que lo hagas cada vez que copies un segmento de lo que sea desde otro sitio ya que despu√©s es complicado recordar las referencias
+cada vez que copies algo desde otro sitio colocar esta marca <Ref (numero)> asi podemos poner el hiperv√≠nculo al glosario / referencia que le corresponde, eso le da dinamismo al documento
 links, cosas que consigas, copialas en referencias
-si escribiste algo nuevo y quieres que lo revise, hazle una nota o subraya con un color cualquiera que se note para saber que tengo que prestarle atenciÛn a la redacciÛn o algo.
-si te sientes inspirado, escribe, despuÈs nos encargamos (me encargo) de que tenga el formato appa
+si escribiste algo nuevo y quieres que lo revise, hazle una nota o subraya con un color cualquiera que se note para saber que tengo que prestarle atenci√≥n a la redacci√≥n o algo.
+si te sientes inspirado, escribe, despu√©s nos encargamos (me encargo) de que tenga el formato appa
 anota cosas aqui tambien si vez algo importante que tener en cuenta
 cosas anotadas en azul, por lo general fueron observaciones hechas por el profesor
 
@@ -44,184 +42,184 @@ cosas anotadas en azul, por lo general fueron observaciones hechas por el profes
 
 
 
-Õndice General
-Õndice General.........................................................................................................1
-Õndice de figuras.....................................................................................................3
-Õndice de cuadros										4
-I.	IntroducciÛn
-II. CapÌtulo I. Marco teÛrico
+√çndice General
+√çndice General.........................................................................................................1
+√çndice de figuras.....................................................................................................3
+√çndice de cuadros										4
+I.	Introducci√≥n
+II. Cap√≠tulo I. Marco te√≥rico
 
-2.1 ProgramaciÛn XP (Extremme Programming)∏AgilUs, o Scrum
-Pr·cticas b·sicas
+2.1 Programaci√≥n XP (Extremme Programming)¬∏AgilUs, o Scrum
+Pr√°cticas b√°sicas
 Todo el equipo
-PlanificaciÛn del esquema de trabajo
-IteraciÛn de planificaciÛn
+Planificaci√≥n del esquema de trabajo
+Iteraci√≥n de planificaci√≥n
 Pruebas al cliente
-PequeÒos entregables
-DiseÒo simple
-ProgramaciÛn en parejas
+Peque√±os entregables
+Dise√±o simple
+Programaci√≥n en parejas
 Pruebas de desarrollo
-Mejora de diseÒo
-IntegraciÛn contin˙a
-CÛdigo de la propiedad colectiva
-CodificaciÛn standard
-Met·fora
+Mejora de dise√±o
+Integraci√≥n contin√∫a
+C√≥digo de la propiedad colectiva
+Codificaci√≥n standard
+Met√°fora
 Desarrollo sostenible
-øEn quÈ se diferencia de otras metodologÌas?
+¬øEn qu√© se diferencia de otras metodolog√≠as?
 
 3. Seguimiento y control del presente estudio
 3.1 Proyecto: Decir que es un proyecto
 3.2 Gerencia del proyecto (dicen que es la gerencia de proyectos)
-3.3 MetodologÌa de gestiÛn de proyectos a utilizar
-En la metodologÌa dicen que la metodologÌa a utilizar es la metodologÌa del PMI (Project Management Institute),
+3.3 Metodolog√≠a de gesti√≥n de proyectos a utilizar
+En la metodolog√≠a dicen que la metodolog√≠a a utilizar es la metodolog√≠a del PMI (Project Management Institute),
 
-3.3.1 GestiÛn del alcance del proyecto
-3.3. 2 GestiÛn del tiempo
-3.3.3 GestiÛn del costo del proyecto
-3.3.4 GestiÛn de la calidad
-3.2.5 GestiÛn de las comunicaciones
+3.3.1 Gesti√≥n del alcance del proyecto
+3.3. 2 Gesti√≥n del tiempo
+3.3.3 Gesti√≥n del costo del proyecto
+3.3.4 Gesti√≥n de la calidad
+3.2.5 Gesti√≥n de las comunicaciones
 
-4.Proceso de contrataciÛn de personal en las organizaciones
-B˙squeda de personal
+4.Proceso de contrataci√≥n de personal en las organizaciones
+B√∫squeda de personal
 Entrevistas
-Pruebas psicolÛgicas
-Procesos de evaluaciÛn
-Propuesta econÛmica al candidato
-øPorquÈ los candidatos aceptan o deciden rechazar propuestas laborales?
+Pruebas psicol√≥gicas
+Procesos de evaluaci√≥n
+Propuesta econ√≥mica al candidato
+¬øPorqu√© los candidatos aceptan o deciden rechazar propuestas laborales?
 
 5. Sistemas de recursos humanos
 
-6. Portales Web que proporcionan la b˙squeda de empleo 
+6. Portales Web que proporcionan la b√∫squeda de empleo
 Bumeran.com
 LinkedIn.com
 Computrabajo.com
 
 7. Frameworks de desarrollo Web
 
-8. Sistemas manejadores de contenido 
+8. Sistemas manejadores de contenido
 
 9. Aplicaciones configurables o parametrizables
 
 10. Frameworks de desarrollo Web vs Sistemas manejadores de contenido para crear aplicaciones Web que sean configurables
 
 
-CapÌtulo III. Marco metodolÛgico
-Tipo de investigaciÛn
-DiseÒo de investigaciÛn
-Nivel de la investigaciÛn
-Unidad de an·lisis
-PoblaciÛn y muestra
-TÈcnicas e instrumentos de recolecciÛn de datos
+Cap√≠tulo III. Marco metodol√≥gico
+Tipo de investigaci√≥n
+Dise√±o de investigaci√≥n
+Nivel de la investigaci√≥n
+Unidad de an√°lisis
+Poblaci√≥n y muestra
+T√©cnicas e instrumentos de recolecci√≥n de datos
 Validez y confiabilidad
-Fases de la investigaciÛn o procedimiento por objetivos
-OperacionalizaciÛn de los objetivos
+Fases de la investigaci√≥n o procedimiento por objetivos
+Operacionalizaci√≥n de los objetivos
 Estructura desagregada de trabajo
 Cronograma de actividades
 Recursos
-7 Consideraciones Èticas y legales
+7 Consideraciones √©ticas y legales
 
-CapÌtulo IV. Propuesta de Trabajo Especial de Grado
-An·lisis y propuesta
+Cap√≠tulo IV. Propuesta de Trabajo Especial de Grado
+An√°lisis y propuesta
 4.1 Contexto del problema
      Caso de estudio 01: Sistemas de recursos humanos
-     Caso de estudio 02: Proceso de reclutamiento y selecciÛn de personal en las empresas
+     Caso de estudio 02: Proceso de reclutamiento y selecci√≥n de personal en las empresas
 Entrevistas
-EvaluaciÛn
-SelecciÛn
-Propuesta econÛmica
-Manuales de inducciÛn de la empresa
+Evaluaci√≥n
+Selecci√≥n
+Propuesta econ√≥mica
+Manuales de inducci√≥n de la empresa
 
 
-4.2 Propuesta de TEG                                                                                      
-4.3 JustificaciÛn                                                                                                
-4.4 Objetivo general                                                                                          
-4.5 Objetivos especÌficos    
-4.6 Alcance y limitaciones     
+4.2 Propuesta de TEG
+4.3 Justificaci√≥n
+4.4 Objetivo general
+4.5 Objetivos espec√≠ficos
+4.6 Alcance y limitaciones
 4.6.1 Alcance
 4.6.2 Limitaciones
-                                                                        
-TecnologÌas propuestas 
-TecnologÌas del lado del cliente (Capa de presentaciÛn)
+
+Tecnolog√≠as propuestas
+Tecnolog√≠as del lado del cliente (Capa de presentaci√≥n)
 HTML 5
 CSS3
 Bootstrap
 JavaScript, Jquery o 1 Framework Javascript como react, nodes, etc
 Un framework PHP o un framework en Phyton
 
-4.7.2 TecnologÌas del lado del servidor (N˙cleo de la aplicaciÛn)
+4.7.2 Tecnolog√≠as del lado del servidor (N√∫cleo de la aplicaci√≥n)
 4.6.2.1	PHP o Python
 4.6.2.2 Funcionalidades del framework PHP o del framework Phyton que seleccionen
 
-4.8	Patrones de diseÒo
-5.4.1	DefiniciÛn
-5.4.2	øPorquÈ utilizar patrones de diseÒo?
-5.4.3	Desventajas de utilizar patrones de diseÒo
+4.8	Patrones de dise√±o
+5.4.1	Definici√≥n
+5.4.2	¬øPorqu√© utilizar patrones de dise√±o?
+5.4.3	Desventajas de utilizar patrones de dise√±o
 
-4.9	Base de Datos (Decir si vas a utilizar SQL Server, postgreSQL,etc) 
+4.9	Base de Datos (Decir si vas a utilizar SQL Server, postgreSQL,etc)
 4.9.1	Triggers (hablar de si vas a utilizar triggers o store procedures)
 4.9.2	Store Procedures (hablar de si vas a utilizar triggers o store procedures)
-4.9.3	øPorquÈ postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4 
-4.9.4	øPorquÈ no utilizar una base de datos relacional?                                                              
-øPorque no usar un framework de base de datos como Hibernate o Ibatis?
+4.9.3	¬øPorqu√© postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4
+4.9.4	¬øPorqu√© no utilizar una base de datos relacional?
+¬øPorque no usar un framework de base de datos como Hibernate o Ibatis?
 
 5. Servicios Web
-5.1.	øREST, SOAP, Restful, API rest?  
-5.2	øPorquÈ REST y no SOAP? 
+5.1.	¬øREST, SOAP, Restful, API rest?
+5.2	¬øPorqu√© REST y no SOAP?
 5.3	Ventajas y desventajas
- 
+
 6. Pruebas de las aplicaciones
-6.1	MetodologÌa a utilizar: TDD(Test Driven Development)
-6.1.1	DefiniciÛn
+6.1	Metodolog√≠a a utilizar: TDD(Test Driven Development)
+6.1.1	Definici√≥n
 6.1.2	Historia
-6.1.3	øPorquÈ seleccionar TDD?
-6.1.4	øCÛmo se instala?
-6.1.5	øCÛmo se utiliza?
+6.1.3	¬øPorqu√© seleccionar TDD?
+6.1.4	¬øC√≥mo se instala?
+6.1.5	¬øC√≥mo se utiliza?
 6.1.6	Depurar errores en TDD
 6.1.7	Ventajas
 6.1.8	Desventajas
 
 7. Entregables preliminares
-7.1 Diagrama de casos de uso:  
+7.1 Diagrama de casos de uso:
 7.2 Diagrama de clases
- 7.3 Modelo de datos: 
+ 7.3 Modelo de datos:
 7.4 Diccionario de datos
-7.5 Manual de instalaciÛn
+7.5 Manual de instalaci√≥n
 7.6 Manual de usuario
-7.7 øPor quÈ no considerar m·s entregables?
- 
-
-8. BibliografÌa  	
+7.7 ¬øPor qu√© no considerar m√°s entregables?
 
 
-
-Õndices de figuras
-(Por ahora estas est·n puestas de ejemplo, no hemos generado ning˙n gr·fico o figura propio)
-2.1.  Pr·cticas XP6
-3.1.  Vista previa de la primera versiÛn de Phoenix12
-3.2.  Vista previa del manejador de descargas de la primera versiÛn12
-3.3.  Ventana de personalizaciÛn de barras de herramientas13
-4.1.  InclusiÛn de cÛdigo JavaScript en p·ginas Web28
+8. Bibliograf√≠a
 
 
+
+√çndices de figuras
+(Por ahora estas est√°n puestas de ejemplo, no hemos generado ning√∫n gr√°fico o figura propio)
+2.1.  Pr√°cticas XP6
+3.1.  Vista previa de la primera versi√≥n de Phoenix12
+3.2.  Vista previa del manejador de descargas de la primera versi√≥n12
+3.3.  Ventana de personalizaci√≥n de barras de herramientas13
+4.1.  Inclusi√≥n de c√≥digo JavaScript en p√°ginas Web28
 
 
 
 
-	
+
+
+
 
 
 
 
 
 
-Õndices de cuadros
+√çndices de cuadros
 Ejemplos
-Resultados obtenidos por edades ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ...p·g
-Resultados por sexo ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ..ÖÖÖÖp·g
+Resultados obtenidos por edades ‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶...p√°g
+Resultados por sexo ‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶‚Ä¶..‚Ä¶‚Ä¶‚Ä¶‚Ä¶p√°g
 (ejemplos igual
 )5.1.  Manejadores de eventos en XUL45
 
-6.1.  ComparaciÛn de arquitecturas de servicios web48
+6.1.  Comparaci√≥n de arquitecturas de servicios web48
 6.2.  Servicios MIME soportados por REST52
 
 
@@ -234,20 +232,20 @@ Resultados por sexo ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ..ÖÖÖÖp·g
 
 
 
-IntroducciÛn
-Utilice lo que ustedes tenÌan y agregue algunas cosas de mi parte, otras las quite:
-Falta mejora la redacciÛn
-La necesidad de contratar personal en las empresas viene dado por diferentes causas como expansiÛn de la empresa, generaciÛn de nuevos puestos de trabajo, rotaciÛn de personal, un requerimiento o simple necesidad de fuerza laboral, y lo cual depende de las capacidades y aptitudes del talento humano, por lo cual es de vital importancia realizar una selecciÛn adecuada de aspirantes que contribuyan al Èxito de las organizaciones.
-En la actualidad, la mayorÌa de los usuarios revisan portales de empleo a travÈs de internet, y pueden visualizar informaciÛn en relaciÛn a las vacantes de su interÈs. El usuario decide postularse, y de ser seleccionado comienza un proceso de evaluaciÛn por parte de la empresa.
-Dicho proceso involucra la interacciÛn de la empresa y del usuario, y en el cual se origina una serie de inconvenientes para ambas partes, originando pÈrdidas de tiempo, dinero, de recursos humanos aptos para dichas vacantes, frustraciÛn, problemas de competitividad en las empresas, entre otras.
-Entre las causas se puede determinar la creaciÛn de procesos ineficiente en la selecciÛn, evaluaciÛn y contrataciÛn de talento humano que se encuentra en la b˙squeda de oportunidades laborales; y en donde algunas empresas deciden crear sus propios procesos de selecciÛn, evaluaciÛn  y contrataciÛn de personal, y en otros casos, contratan a otras empresas para realizar dichas labores, pero incluso, las empresas especializadas en la b˙squeda y selecciÛn de talento, han perdido a excelentes profesionales, por utilizar procesos convencionales que no les permite manejar un volumen considerable de candidatos, de forma eficaz.
-Por lo antes expuesto, se propone el desarrollo de una aplicaciÛn web, que sea configurable, que permita generar y ofrecer informaciÛn acerca de las diferentes vacantes ofrecidas por una empresa, que permita definir y personalizar las diferentes etapas de de selecciÛn y evaluaciÛn de potenciales candidatos, que permitiendo atender a una gran cantidad de candidatos de manera simult·nea, y proporcionales una respuesta r·pida; en cada una de las etapas del proceso de selecciÛn; permitiendo que las empresas puedan descartar a diversos candidatos, de forma r·pida y eficiente, sin originar los inconvenientes descritos; y que administre la informaciÛn obtenida de los aspirantes de manera que permita generar mÈtricas que la empresa pueda utilizar para tomar mejores decisiones acerca de sus procesos de selecciÛn. 
-Por dicha razÛn se ha optado por la propuesta de utilizar tecnologÌas del lado del cliente como Bootstrap, JavaScript, y jQuery; asÌ como tecnologÌas del lado del servidor como el lenguaje de programaciÛn Java, y el Framework Java JSF(Java Server Faces), utilizado el patrÛn MCV, y patrones de diseÒo para su construcciÛn, utilizando la metodologÌa de desarrollo agilUs creada por la profesora Alecia Eleonora Acosta, profesora jubilada de la Universidad Central de Venezuela, ya que permiten un desarrollo ·gil, divertido, robusto y con mucho soporte, adem·s de proveer una abstracciÛn entre la interfaz y la lÛgica de negocio de la aplicaciÛn, la portabilidad en sistemas UNIX y MAC, la reusabilidad, y facilidad de instalaciÛn de componentes sin costo alguno, aunado a que las tareas de programaciÛn a menudo involucran actividades muy engorrosas y difÌciles de llevar a cabo y coordinar.
-Adicionalmente,  se considera, el utilizar la metodologÌa de gerencia de proyectos establecida por el PMI (Project Management Institute), para generar conocimientos y experiencia en dicha metodologÌa para los autores del presente trabajo; y para permitir un control y seguimiento del desarrollo de la presente investigaciÛn y del trabajo especial de grado, que permita incrementar la posibilidad de que los trabajos establecidos finalicen en los tiempos estimados.
-El presente documento est· estructurado de la siguiente manera:
-Parte I - IntroducciÛn: SecciÛn en la que se expone el problema, de los mÈtodos convencionales de reclutamiento y sus procesos. En resumen, la propuesta para solucionar dichos problemas.
-Parte II - Marco Conceptual: se exponen los aspectos teÛricos relacionados con los procesos, metodologÌas, patrones y tecnologÌas a utilizar para la implementaciÛn de la aplicaciÛn web, desde una perspectiva imparcial, y con la finalidad de presentar tanto las ventajas y desventajas de cada propuesta.
-Parte III - Propuesta de TEG: Se plantea el contexto del problema, la situaciÛn actual, la soluciÛn propuesta, la justificaciÛn de la soluciÛn planteada, asÌ como el objetivo general y los objetivos especÌficos que se desean lograr.
+Introducci√≥n
+Utilice lo que ustedes ten√≠an y agregue algunas cosas de mi parte, otras las quite:
+Falta mejora la redacci√≥n
+La necesidad de contratar personal en las empresas viene dado por diferentes causas como expansi√≥n de la empresa, generaci√≥n de nuevos puestos de trabajo, rotaci√≥n de personal, un requerimiento o simple necesidad de fuerza laboral, y lo cual depende de las capacidades y aptitudes del talento humano, por lo cual es de vital importancia realizar una selecci√≥n adecuada de aspirantes que contribuyan al √©xito de las organizaciones.
+En la actualidad, la mayor√≠a de los usuarios revisan portales de empleo a trav√©s de internet, y pueden visualizar informaci√≥n en relaci√≥n a las vacantes de su inter√©s. El usuario decide postularse, y de ser seleccionado comienza un proceso de evaluaci√≥n por parte de la empresa.
+Dicho proceso involucra la interacci√≥n de la empresa y del usuario, y en el cual se origina una serie de inconvenientes para ambas partes, originando p√©rdidas de tiempo, dinero, de recursos humanos aptos para dichas vacantes, frustraci√≥n, problemas de competitividad en las empresas, entre otras.
+Entre las causas se puede determinar la creaci√≥n de procesos ineficiente en la selecci√≥n, evaluaci√≥n y contrataci√≥n de talento humano que se encuentra en la b√∫squeda de oportunidades laborales; y en donde algunas empresas deciden crear sus propios procesos de selecci√≥n, evaluaci√≥n  y contrataci√≥n de personal, y en otros casos, contratan a otras empresas para realizar dichas labores, pero incluso, las empresas especializadas en la b√∫squeda y selecci√≥n de talento, han perdido a excelentes profesionales, por utilizar procesos convencionales que no les permite manejar un volumen considerable de candidatos, de forma eficaz.
+Por lo antes expuesto, se propone el desarrollo de una aplicaci√≥n web, que sea configurable, que permita generar y ofrecer informaci√≥n acerca de las diferentes vacantes ofrecidas por una empresa, que permita definir y personalizar las diferentes etapas de de selecci√≥n y evaluaci√≥n de potenciales candidatos, que permitiendo atender a una gran cantidad de candidatos de manera simult√°nea, y proporcionales una respuesta r√°pida; en cada una de las etapas del proceso de selecci√≥n; permitiendo que las empresas puedan descartar a diversos candidatos, de forma r√°pida y eficiente, sin originar los inconvenientes descritos; y que administre la informaci√≥n obtenida de los aspirantes de manera que permita generar m√©tricas que la empresa pueda utilizar para tomar mejores decisiones acerca de sus procesos de selecci√≥n.
+Por dicha raz√≥n se ha optado por la propuesta de utilizar tecnolog√≠as del lado del cliente como Bootstrap, JavaScript, y jQuery; as√≠ como tecnolog√≠as del lado del servidor como el lenguaje de programaci√≥n Java, y el Framework Java JSF(Java Server Faces), utilizado el patr√≥n MCV, y patrones de dise√±o para su construcci√≥n, utilizando la metodolog√≠a de desarrollo agilUs creada por la profesora Alecia Eleonora Acosta, profesora jubilada de la Universidad Central de Venezuela, ya que permiten un desarrollo √°gil, divertido, robusto y con mucho soporte, adem√°s de proveer una abstracci√≥n entre la interfaz y la l√≥gica de negocio de la aplicaci√≥n, la portabilidad en sistemas UNIX y MAC, la reusabilidad, y facilidad de instalaci√≥n de componentes sin costo alguno, aunado a que las tareas de programaci√≥n a menudo involucran actividades muy engorrosas y dif√≠ciles de llevar a cabo y coordinar.
+Adicionalmente,  se considera, el utilizar la metodolog√≠a de gerencia de proyectos establecida por el PMI (Project Management Institute), para generar conocimientos y experiencia en dicha metodolog√≠a para los autores del presente trabajo; y para permitir un control y seguimiento del desarrollo de la presente investigaci√≥n y del trabajo especial de grado, que permita incrementar la posibilidad de que los trabajos establecidos finalicen en los tiempos estimados.
+El presente documento est√° estructurado de la siguiente manera:
+Parte I - Introducci√≥n: Secci√≥n en la que se expone el problema, de los m√©todos convencionales de reclutamiento y sus procesos. En resumen, la propuesta para solucionar dichos problemas.
+Parte II - Marco Conceptual: se exponen los aspectos te√≥ricos relacionados con los procesos, metodolog√≠as, patrones y tecnolog√≠as a utilizar para la implementaci√≥n de la aplicaci√≥n web, desde una perspectiva imparcial, y con la finalidad de presentar tanto las ventajas y desventajas de cada propuesta.
+Parte III - Propuesta de TEG: Se plantea el contexto del problema, la situaci√≥n actual, la soluci√≥n propuesta, la justificaci√≥n de la soluci√≥n planteada, as√≠ como el objetivo general y los objetivos espec√≠ficos que se desean lograr.
 
 
 
@@ -258,317 +256,330 @@ Parte III - Propuesta de TEG: Se plantea el contexto del problema, la situaciÛn 
 
 
 
-CapÌtulo I. Marco teÛrico
-La presente secciÛn ilustra los antecedentes y las bases conceptuales que sirven como base para el desarrollo del trabajo de investigaciÛn, lo cual es de vital importancia ˙til para elaborar en las una ideas que van naciendo de la investigaciÛn; por tal motivo, en el presente capÌtulo se trata en detalle el estado actual de aplicaciones relacionadas con la gestiÛn de las personas como recursos humanos, conceptos sobre caracterÌsticas de la aplicaciÛn propuesta  y conceptos relacionados.
-En este capÌtulo se hizo referencia a investigaciones realizadas por diversos autores, que sustentaron y contribuyeron al desarrollo del presente TEG, por aspectos teÛricos que ayudaron a FALTA UN TEXTO ACA; a facilitar la comprensiÛn de la informaciÛn presentada en capÌtulos posteriores; y aspectos legales asociados al estudio del presente emprendimiento; descritos a continuaciÛn:
+Cap√≠tulo I. Marco te√≥rico
+La presente secci√≥n ilustra los antecedentes y las bases conceptuales que sirven como base para el desarrollo del trabajo de investigaci√≥n, lo cual es de vital importancia √∫til para elaborar en las una ideas que van naciendo de la investigaci√≥n; por tal motivo, en el presente cap√≠tulo se trata en detalle el estado actual de aplicaciones relacionadas con la gesti√≥n de las personas como recursos humanos, conceptos sobre caracter√≠sticas de la aplicaci√≥n propuesta  y conceptos relacionados.
+En este cap√≠tulo se hizo referencia a investigaciones realizadas por diversos autores, que sustentaron y contribuyeron al desarrollo del presente TEG, por aspectos te√≥ricos que ayudaron a FALTA UN TEXTO ACA; a facilitar la comprensi√≥n de la informaci√≥n presentada en cap√≠tulos posteriores; y aspectos legales asociados al estudio del presente emprendimiento; descritos a continuaci√≥n:
 Antecedentes
-En Venezuela y en otras partes del mundo se han realizado diversas aplicaciones web relacionadas con la gestiÛn de contrataciones y filtrado de personas por capacidades profesionales. Por ejemplo, en Venezuela se cuenta con p·ginas web como Bumeran, compuTrabajo, Beebee, etc.
-Que son plataformas que ayudan a sus usuarios a encontrar empleo, tienen bastante cosas en com˙n, pero en general se destacan por tener procedimientos cerrados e invariantes, que no ofrecen flexibilidad y que pueden resultar tediosos por la cantidad requerida de informaciÛn bajo cualquier rol que se utilicen esas plataformas. 
+En Venezuela y en otras partes del mundo se han realizado diversas aplicaciones web relacionadas con la gesti√≥n de contrataciones y filtrado de personas por capacidades profesionales. Por ejemplo, en Venezuela se cuenta con p√°ginas web como Bumeran, compuTrabajo, Beebee, etc.
+Que son plataformas que ayudan a sus usuarios a encontrar empleo, tienen bastante cosas en com√∫n, pero en general se destacan por tener procedimientos cerrados e invariantes, que no ofrecen flexibilidad y que pueden resultar tediosos por la cantidad requerida de informaci√≥n bajo cualquier rol que se utilicen esas plataformas.
 
-CaracterÌsticas positivas y negativas de los antecedentes 
-Estos portales en su mayorÌa, por su largo tiempo de existencia ya han segmentado un gran n˙mero de usuarios, poseen diseÒos atractivos y funcionales,  asÌ como tambiÈn, recolectado una gran cantidad de informaciÛn de miles de usuarios, poseen filtros, motores de b˙squeda y clasificaciones por categorÌas, todos ellos, con el propÛsito de hacerle a los usuarios las b˙squedas m·s simples, todos esas caracterÌsticas son inspiraciÛn y guÌa de cÛmo ayudar a los usuarios a conseguir lo que quieren, en este caso empleo.
-Aunque, cabe destacar que, poseen algunas caracterÌsticas que causan controversia, como lo serÌa la rigidez de sus estructuras, no permiten ninguna personalizaciÛn, teniendo como caracterÌstica com˙n ser repositorios de curriculums y formularios de datos personales, y por la parte empresarial, poco m·s que un anuncio de periÛdico, no ofrecen herramientas como: pruebas, formularios hechos  a la medida para el puesto de trabajo, preguntas cruciales, etc. eso justo es lo que queremos aportar con nuestra propuesta de trabajo de grado, hacer herramientas flexibles, que ayuden a seleccionar con mayor precisiÛn los postulantes que desean una vacante y posean los requisitos necesarios para llenarla satisfactoriamente. ref.[1] (hice un txt con las ref aparte)
+Caracter√≠sticas positivas y negativas de los antecedentes
+Estos portales en su mayor√≠a, por su largo tiempo de existencia ya han segmentado un gran n√∫mero de usuarios, poseen dise√±os atractivos y funcionales,  as√≠ como tambi√©n, recolectado una gran cantidad de informaci√≥n de miles de usuarios, poseen filtros, motores de b√∫squeda y clasificaciones por categor√≠as, todos ellos, con el prop√≥sito de hacerle a los usuarios las b√∫squedas m√°s simples, todos esas caracter√≠sticas son inspiraci√≥n y gu√≠a de c√≥mo ayudar a los usuarios a conseguir lo que quieren, en este caso empleo.
+Aunque, cabe destacar que, poseen algunas caracter√≠sticas que causan controversia, como lo ser√≠a la rigidez de sus estructuras, no permiten ninguna personalizaci√≥n, teniendo como caracter√≠stica com√∫n ser repositorios de curriculums y formularios de datos personales, y por la parte empresarial, poco m√°s que un anuncio de peri√≥dico, no ofrecen herramientas como: pruebas, formularios hechos  a la medida para el puesto de trabajo, preguntas cruciales, etc. eso justo es lo que queremos aportar con nuestra propuesta de trabajo de grado, hacer herramientas flexibles, que ayuden a seleccionar con mayor precisi√≥n los postulantes que desean una vacante y posean los requisitos necesarios para llenarla satisfactoriamente. ref.[1] (hice un txt con las ref aparte)
 
-esta secciÛn se llena justo despuÈs de explicar sus antecedentes.
-Colocar de que se trata el capÌtulo 2, y luego empiezas a engranar, lo que dices en este p·rrafo, con el siguiente tÌtulo que vas a decir, como por ejemplo el de la metodologÌa de gestiÛn de proyectos.
-Problema de investigaciÛn
-Facilitar la conexiÛn entre los participantes y las instituciones que posean vacantes en roles que los usuarios puedan aprovechar.
+esta secci√≥n se llena justo despu√©s de explicar sus antecedentes.
+Colocar de que se trata el cap√≠tulo 2, y luego empiezas a engranar, lo que dices en este p√°rrafo, con el siguiente t√≠tulo que vas a decir, como por ejemplo el de la metodolog√≠a de gesti√≥n de proyectos.
+Problema de investigaci√≥n
+Facilitar la conexi√≥n entre los participantes y las instituciones que posean vacantes en roles que los usuarios puedan aprovechar.
 Velar por el uso adecuado de los recursos ordinarios y extraordinarios de los participantes de los concursos para las vacantes propuestas por las empresas.
-Mantener una base de datos de los recursos personales de muchos individuos, para poder asÌ contactar aquellos que puedan exceder cumpliendo con los con las vacantes.
-Velar porque las actividades que se publiquen en la aplicaciÛn sean legÌtimas y cumplan con un mÌnimo de informaciÛn para que los usuarios puedan tomar buenas decisiones para postularse.
-Estudiar y evaluar las proposiciones de cualquier instituciÛn que pueda aportar una significativa mejora a los procesos de contrataciÛn de personal, y hacer las mejoras correspondientes a los recursos y herramientas  del sistema.
-Divulgar el potencial investigativo y creador de la Facultad de Ciencias, asÌ como los resultados de investigaciones ya realizadas, y los aportes que la universidad puede hacer para solucionar problemas de reclutamiento de personal.
+Mantener una base de datos de los recursos personales de muchos individuos, para poder as√≠ contactar aquellos que puedan exceder cumpliendo con los con las vacantes.
+Velar porque las actividades que se publiquen en la aplicaci√≥n sean leg√≠timas y cumplan con un m√≠nimo de informaci√≥n para que los usuarios puedan tomar buenas decisiones para postularse.
+Estudiar y evaluar las proposiciones de cualquier instituci√≥n que pueda aportar una significativa mejora a los procesos de contrataci√≥n de personal, y hacer las mejoras correspondientes a los recursos y herramientas  del sistema.
+Divulgar el potencial investigativo y creador de la Facultad de Ciencias, as√≠ como los resultados de investigaciones ya realizadas, y los aportes que la universidad puede hacer para solucionar problemas de reclutamiento de personal.
 
-2.1 ProgramaciÛn XP (Extremme Programming)∏AgilUs, o Scrum
-3.1	Pr·cticas b·sicas
+2.1 Programaci√≥n XP (Extremme Programming)¬∏AgilUs, o Scrum
+3.1	Pr√°cticas b√°sicas
 3.1.1	Todo el equipo
-3.1.2	PlanificaciÛn del esquema de trabajo
-3.1.3	IteraciÛn de planificaciÛn
+3.1.2	Planificaci√≥n del esquema de trabajo
+3.1.3	Iteraci√≥n de planificaci√≥n
 3.1.4	Pruebas al cliente
-3.1.5	PequeÒos entregables
-3.1.6.	DiseÒo simple
-3.1.7	ProgramaciÛn en parejas
+3.1.5	Peque√±os entregables
+3.1.6.	Dise√±o simple
+3.1.7	Programaci√≥n en parejas
 31.8 Pruebas de desarrollo
-3.1.9	Mejora de diseÒo
-3.1.10	IntegraciÛn contin˙a
-3.1.11	CÛdigo de la propiedad colectiva
-3.1.12	CodificaciÛn standard
-3.1.13	Met·fora
+3.1.9	Mejora de dise√±o
+3.1.10	Integraci√≥n contin√∫a
+3.1.11	C√≥digo de la propiedad colectiva
+3.1.12	Codificaci√≥n standard
+3.1.13	Met√°fora
 3.1.13	Desarrollo sostenible
-3.2 øEn quÈ se diferencia de otras metodologÌas?
+3.2 ¬øEn qu√© se diferencia de otras metodolog√≠as?
 
 3. Seguimiento y control del presente estudio
 3.1 Proyecto
-Un proyecto es un conjunto de objetivos que se llevan a cabo con la finalidad de crear un producto, servicio o resultado ˙nico que puede ser tangible o intangible que sea duradero. Los proyectos son temporales, es decir, que existe un principio y un final bien definidos, dicho final es alcanzado cuando se cumplen todos los objetivos o cuando se alcanzan los objetivos que pueden cumplirse. Esto se debe a que, durante la realizaciÛn del proyecto, se puede determinar que algunos objetivos no pueden ser cumplidos, no podr·n cumplirse a tiempo o ya no se consideran necesarios para el proyecto. Igualmente, un proyecto puede culminar sin cumplir los objetivos cuando el cliente o la persona que solicitÛ el proyecto decide terminar con el mismo al considerar que ya no es necesario su existencia.
+Un proyecto es un conjunto de objetivos que se llevan a cabo con la finalidad de crear un producto, servicio o resultado √∫nico que puede ser tangible o intangible que sea duradero. Los proyectos son temporales, es decir, que existe un principio y un final bien definidos, dicho final es alcanzado cuando se cumplen todos los objetivos o cuando se alcanzan los objetivos que pueden cumplirse. Esto se debe a que, durante la realizaci√≥n del proyecto, se puede determinar que algunos objetivos no pueden ser cumplidos, no podr√°n cumplirse a tiempo o ya no se consideran necesarios para el proyecto. Igualmente, un proyecto puede culminar sin cumplir los objetivos cuando el cliente o la persona que solicit√≥ el proyecto decide terminar con el mismo al considerar que ya no es necesario su existencia.
 3.2 Gerencia del proyecto (dicen que es la gerencia de proyectos)
-3.3 MetodologÌa de gestiÛn de proyectos a utilizar
-En la metodologÌa dicen que la metodologÌa a utilizar es la metodologÌa del PMI (Project Management Institute),
-3.3.1 GestiÛn del alcance del proyecto
-En este se determinan los procesos necesarios para definir y controlar quÈ objetivos ser·n incluidas para completar el proyecto de forma exitosa.
+3.3 Metodolog√≠a de gesti√≥n de proyectos a utilizar
+La Metodolog√≠a a utilizar para el desarrollo del proyecto es el Project Management Institute (llenar)
+3.3.1 Gesti√≥n del alcance del proyecto
+En este se determinan los procesos necesarios para definir y controlar qu√© objetivos ser√°n incluidas para completar el proyecto de forma exitosa.
+
+La Gesti√≥n del alcance del proyecto se divide en en seis procesos las cuales son:
+
+Planificar Gesti√≥n del Alcance: en este proceso, se crea un plan de gesti√≥n de alcance en el que se documenta c√≥mo es definido, validado y controlado el alcance del proyecto; √©sta proporciona una gu√≠a y direcci√≥n sobre c√≥mo ser√° gestionado el alcance durante el desarrollo de un proyecto.
+
+Entradas: El plan de gesti√≥n de alcance comienza con el an√°lisis de la informaci√≥n estructurada de la siguiente manera:
+Plan de direcci√≥n del proyecto: documento que indica c√≥mo el proyecto ser√° ejecutado, monitoreado y controlado.
+Acta de constituci√≥n del proyecto: describe las caracter√≠sticas del producto a partir del enunciado de un proyecto.
+Factores ambientales de la Organizaci√≥n: esta hace referencia a ciertas condiciones que influyen en el desarrollo del proyecto que no est√° bajo el control de la organizaci√≥n.
+Activos de los procesos de la organizaci√≥n: son los planes, procesos, pol√≠ticas, procedimientos y base de conocimientos espec√≠ficos de la organizaci√≥n, en se incluyen lecciones aprendidas e informaci√≥n hist√≥rica.
+ Herramientas y T√©cnicas:
+Reuniones: consiste en planificar reuniones que incluyan el director del proyecto, al patrocinador y al equipo que desarrolla el proyecto para debatir y determinar las necesidades del cliente.
+Juicio de Expertos: consiste en recibir aportes de un grupo de personas con habilidad, experiencia o capacitaci√≥n especializada en el desarrollo de planes de gesti√≥n.
 
 
 
-La GestiÛn del alcance del proyecto se divide en en seis procesos las cuales son:
+Salidas:
+Plan de Gesti√≥n de alcance: es el componente fundamental en el inicio del desarrollo de un proyecto que describe c√≥mo ser√° definido, desarrollado, monitoreado, controlado y verificado el alcance.
+Plan de Gesti√≥n de requisitos: es un componente donde el director del proyecto selecciona la relaci√≥n m√°s eficaz para el proyecto y documenta este enfoque para describir c√≥mo se analizar√°n, documentar√°n y gestionar√°n los requisitos.
 
-Planificar GestiÛn del Alcance: en este proceso, se crea un plan de gestiÛn de alcance en el que se documenta cÛmo es definido, validado y controlado el alcance del proyecto; Èsta proporciona una guÌa y direcciÛn sobre cÛmo ser· gestionado el alcance durante el desarrollo de un proyecto.
+-Recopilar Requisitos: en este proceso es cuando se identifican, documentan y gestionan todas las necesidades y requisitos del personal interesado para alcanzar los objetivos del proyecto; √©sta proporciona la base para definir el alcance del proyecto incluyendo el del producto.
 
--Recopilar Requisitos: en este proceso es cuando se identifican, documentan y gestionan todas las necesidades y requisitos del personal interesado para alcanzar los objetivos del proyecto; Èsta proporciona la base para definir el alcance del proyecto incluyendo el del producto.
+-Definir el Alcance: en este proceso se desarrolla una descripci√≥n detallada del proyecto y del producto //---Sera cambiado, ignorar el mal formato
 
--Definir el Alcance: en este proceso se desarrolla una descripciÛn detallada del proyecto y del producto //---Sera cambiado, ignorar el mal formato
+3.3.1 Gesti√≥n del alcance del proyecto
+3.3. 2 Gesti√≥n del tiempo
+3.3.3 Gesti√≥n del costo del proyecto
+3.3.4 Gesti√≥n de la calidad
+3.2.5 Gesti√≥n de las comunicaciones
 
-3.3.1 GestiÛn del alcance del proyecto
-3.3. 2 GestiÛn del tiempo
-3.3.3 GestiÛn del costo del proyecto
-3.3.4 GestiÛn de la calidad
-3.2.5 GestiÛn de las comunicaciones
+4.Proceso de contrataci√≥n de personal en las organizaciones
+Para las organizaciones, una de las prioridades es establecer fuentes de suministros de recursos humanos para ejecutar las funciones requeridas por la organizaci√≥n, por ello, las fuentes de recursos humanos se denominan fuentes de reclutamiento ya que una de sus funciones es representar los objetivos los cuales determinar√°n las t√©cnicas de reclutamiento que se van a aplicar.
 
-4.Proceso de contrataciÛn de personal en las organizaciones
-Para las organizaciones, una de las prioridades es establecer fuentes de suministros de recursos humanos para ejecutar las funciones requeridas por la organizaciÛn, por ello, las fuentes de recursos humanos se denominan fuentes de reclutamiento ya que una de sus funciones es representar los objetivos los cuales determinar·n las tÈcnicas de reclutamiento que se van a aplicar.
+El proceso de contrataci√≥n de personal en las organizaciones inicia con la identificaci√≥n de los requerimientos necesarios que deben satisfacer los candidatos para que ocupen los puestos eficientemente denominado Perfil del Puesto. Este perfil se define elaborando profesiogramas, el cual es un documento t√©cnico que organiza la relaci√≥n, actuaci√≥n y dependencia desde el punto de vista de gesti√≥n de talento humano, seguridad ocupacional y salud laboral, donde se representan los requisitos para el puesto de trabajo y se se√±alan de forma cuantitativa y cualitativa.
 
-El proceso de contrataciÛn de personal en las organizaciones inicia con la identificaciÛn de los requerimientos necesarios que deben satisfacer los candidatos para que ocupen los puestos eficientemente denominado Perfil del Puesto. Este perfil se define elaborando profesiogramas, el cual es un documento tÈcnico que organiza la relaciÛn, actuaciÛn y dependencia desde el punto de vista de gestiÛn de talento humano, seguridad ocupacional y salud laboral, donde se representan los requisitos para el puesto de trabajo y se seÒalan de forma cuantitativa y cualitativa.
+Posterior a la definici√≥n de los requisitos se procede a realizar el reclutamiento, donde se identifica, selecciona y se mantiene las fuentes por el cual los candidatos pueden encontrar informaci√≥n sobre la organizaci√≥n, el puesto vacante, los requisitos y aptitudes para que √©ste pueda aplicar al puesto. Este reclutamiento puede ser por medio del reclutamiento interno, donde la organizaci√≥n intenta llenar las vacantes reubicando, ya sea ascendiendo o transfiriendo a los empleados que ya se encuentren en la organizaci√≥n; o por medio del reclutamiento externo donde la organizaci√≥n intenta llenar las vacantes utilizando las t√©cnicas de reclutamiento como lo son folletos, carteles, contactando universidades, conferencias, publicaci√≥n en revistas, etc.
 
-Posterior a la definiciÛn de los requisitos se procede a realizar el reclutamiento, donde se identifica, selecciona y se mantiene las fuentes por el cual los candidatos pueden encontrar informaciÛn sobre la organizaciÛn, el puesto vacante, los requisitos y aptitudes para que Èste pueda aplicar al puesto. Este reclutamiento puede ser por medio del reclutamiento interno, donde la organizaciÛn intenta llenar las vacantes reubicando, ya sea ascendiendo o transfiriendo a los empleados que ya se encuentren en la organizaciÛn; o por medio del reclutamiento externo donde la organizaciÛn intenta llenar las vacantes utilizando las tÈcnicas de reclutamiento como lo son folletos, carteles, contactando universidades, conferencias, publicaciÛn en revistas, etc.
+Luego, se procede a la fase de selecci√≥n, el cual consiste en conocer de los candidatos potenciales sus aptitudes y cualidades con el fin de asignarle el puesto vacante acorde a sus caracter√≠sticas o rechazar al candidato si no posee las caracter√≠sticas necesarias.
 
-Luego, se procede a la fase de selecciÛn, el cual consiste en conocer de los candidatos potenciales sus aptitudes y cualidades con el fin de asignarle el puesto vacante acorde a sus caracterÌsticas o rechazar al candidato si no posee las caracterÌsticas necesarias.
+La fase de selecci√≥n inicia principalmente cuando el departamento de recursos humanos recibe los curriculums de los candidatos potenciales y estas son analizados para determinar las caracter√≠sticas y aptitudes en base a nivel de educaci√≥n, experiencias laborales, cursos, t√≠tulos adquiridos, referencias laborales, entre otros.
 
-La fase de selecciÛn inicia principalmente cuando el departamento de recursos humanos recibe los curriculums de los candidatos potenciales y estas son analizados para determinar las caracterÌsticas y aptitudes en base a nivel de educaciÛn, experiencias laborales, cursos, tÌtulos adquiridos, referencias laborales, entre otros. 
+Una vez seleccionado los candidatos cuyas aptitudes correspondan al perfil del puesto de la organizaci√≥n se procede a las entrevistas, donde por medio de una comunicaci√≥n interpersonal (Entrevistador-entrevistado) permite al reclutador obtener informaci√≥n valiosa sobre el candidato, a trav√©s de preguntas, demostraciones, simulaciones o cualquier t√©cnica aplicada por la organizaci√≥n que permita categorizar y evaluar la idoneidad del candidato para el puesto de trabajo.
 
-Una vez seleccionado los candidatos cuyas aptitudes correspondan al perfil del puesto de la organizaciÛn se procede a las entrevistas, donde por medio de una comunicaciÛn interpersonal (Entrevistador-entrevistado) permite al reclutador obtener informaciÛn valiosa sobre el candidato, a travÈs de preguntas, demostraciones, simulaciones o cualquier tÈcnica aplicada por la organizaciÛn que permita categorizar y evaluar la idoneidad del candidato para el puesto de trabajo.
-
-Posterior a la entrevista, se realizan pruebas psicolÛgicas a los candidatos que contin˙an en el proceso, estas pruebas se dividen en: PsicomÈtricos donde se eval˙an las cualidades psÌquicas del individuo como mediciÛn de inteligencia (comparaciÛn de la edad mental con la edad cronolÛgica), rasgos de personalidad (reacciÛn ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); Personalidad donde se eval˙an las principales caracterÌsticas del car·cter del candidato para determinar factores como la adaptaciÛn a los cambios, capacidades de iniciativa, reacciÛn ante situaciones de presiÛn, motivaciÛn, estabilidad emocional, etc; PsicotÈcnicos donde se eval˙an las capacidades y aptitudes intelectuales del candidato en relaciÛn al puesto ofertado por la organizaciÛn, aptitudes como la memoria, percepciÛn, capacidad de comunicarse, capacidad numÈrica, etc. 
-
-
+Posterior a la entrevista, se realizan pruebas psicol√≥gicas a los candidatos que contin√∫an en el proceso, estas pruebas se dividen en: Psicom√©tricos donde se eval√∫an las cualidades ps√≠quicas del individuo como medici√≥n de inteligencia (comparaci√≥n de la edad mental con la edad cronol√≥gica), rasgos de personalidad (reacci√≥n ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); Personalidad donde se eval√∫an las principales caracter√≠sticas del car√°cter del candidato para determinar factores como la adaptaci√≥n a los cambios, capacidades de iniciativa, reacci√≥n ante situaciones de presi√≥n, motivaci√≥n, estabilidad emocional, etc; Psicot√©cnicos donde se eval√∫an las capacidades y aptitudes intelectuales del candidato en relaci√≥n al puesto ofertado por la organizaci√≥n, aptitudes como la memoria, percepci√≥n, capacidad de comunicarse, capacidad num√©rica, etc.
 
 
 
-A su vez, dependiendo del tipo de vacante que se est· ofertando, las se realizan pruebas de capacidad, donde se eval˙a la capacidad intelectual por medio de pruebas tÈcnicas, donde el candidato puede demostrar su experiencia y conocimientos de un tÛpico, prueba con simulaciones, donde se eval˙a la capacidad del candidato de ejecutar sus funciones ante ciertas situaciones o acontecimientos que pudiesen ocurrir al ocupar el cargo.
-
-Finalmente, aquel o aquellos candidatos que fueron seleccionados se les hace entrega de una propuesta salarial, esta propuesta realizada por la organizaciÛn presenta el salario, beneficios sociales, seguros o cualquier otro tipo de beneficios hecha habitualmente por escrito con la intenciÛn de incorporar al candidato a la organizaciÛn. En este punto el candidato analiza la propuesta y eval˙a las condiciones para determinar si la acepta o opta por retirarse de la selecciÛn al no cumplir con su expectativa.
 
 
-B˙squeda de personal
+A su vez, dependiendo del tipo de vacante que se est√° ofertando, las se realizan pruebas de capacidad, donde se eval√∫a la capacidad intelectual por medio de pruebas t√©cnicas, donde el candidato puede demostrar su experiencia y conocimientos de un t√≥pico, prueba con simulaciones, donde se eval√∫a la capacidad del candidato de ejecutar sus funciones ante ciertas situaciones o acontecimientos que pudiesen ocurrir al ocupar el cargo.
+
+Finalmente, aquel o aquellos candidatos que fueron seleccionados se les hace entrega de una propuesta salarial, esta propuesta realizada por la organizaci√≥n presenta el salario, beneficios sociales, seguros o cualquier otro tipo de beneficios hecha habitualmente por escrito con la intenci√≥n de incorporar al candidato a la organizaci√≥n. En este punto el candidato analiza la propuesta y eval√∫a las condiciones para determinar si la acepta o opta por retirarse de la selecci√≥n al no cumplir con su expectativa.
+
+
+B√∫squeda de personal
 Entrevistas
-Pruebas psicolÛgicas
-Procesos de evaluaciÛn
-Propuesta econÛmica al candidato
-øPorquÈ los candidatos aceptan o deciden rechazar propuestas laborales?
+Pruebas psicol√≥gicas
+Procesos de evaluaci√≥n
+Propuesta econ√≥mica al candidato
+¬øPorqu√© los candidatos aceptan o deciden rechazar propuestas laborales?
 
 5. Sistemas de recursos humanos
 
-6. Portales Web que proporcionan la b˙squeda de empleo 
+6. Portales Web que proporcionan la b√∫squeda de empleo
 Bumeran
-LinkedIn 
+LinkedIn
 Computrabajo, etc
 
 7. Frameworks de desarrollo Web
 
-8. Sistemas manejadores de contenido 
+8. Sistemas manejadores de contenido
 
 9. Aplicaciones configurables o parametrizables
 
 10. Frameworks de desarrollo Web vs Sistemas manejadores de contenido para crear aplicaciones Web que sean configurables
- 
 
-CapÌtulo III. Marco metodolÛgico
-Tipo de investigaciÛn
-DiseÒo de investigaciÛn
-Nivel de la investigaciÛn
-Unidad de an·lisis
-PoblaciÛn y muestra
-TÈcnicas e instrumentos de recolecciÛn de datos
+
+Cap√≠tulo III. Marco metodol√≥gico
+Tipo de investigaci√≥n
+Dise√±o de investigaci√≥n
+Nivel de la investigaci√≥n
+Unidad de an√°lisis
+Poblaci√≥n y muestra
+T√©cnicas e instrumentos de recolecci√≥n de datos
 Validez y confiabilidad
-Fases de la investigaciÛn o procedimiento por objetivos
-OperacionalizaciÛn de los objetivos
+Fases de la investigaci√≥n o procedimiento por objetivos
+Operacionalizaci√≥n de los objetivos
 Estructura desagregada de trabajo
 Cronograma de actividades
 Recursos
 
-7 Consideraciones Èticas y legales
-En cuanto a la informaciÛn documental consultada, se tuvo especial cuidado y respeto de los derechos de autor en diversos tÛpicos de interÈs emitidos por terceras personas, por lo que se hace referencia al autor original de las mencionadas.
-Cabe mencionar que aunado a lo expuesto anteriormente, se hace uso de las normas APA para la escritura de las referencias bibliogr·ficas, y se indica el aporte de diversos autores que contribuyen a la realizaciÛn de la presente investigaciÛn.
+7 Consideraciones √©ticas y legales
+En cuanto a la informaci√≥n documental consultada, se tuvo especial cuidado y respeto de los derechos de autor en diversos t√≥picos de inter√©s emitidos por terceras personas, por lo que se hace referencia al autor original de las mencionadas.
+Cabe mencionar que aunado a lo expuesto anteriormente, se hace uso de las normas APA para la escritura de las referencias bibliogr√°ficas, y se indica el aporte de diversos autores que contribuyen a la realizaci√≥n de la presente investigaci√≥n.
 
- 
- 
-CapÌtulo IV. Propuesta de Trabajo Especial de Grado
-En el presente capÌtulo se menciona el contexto de problema o situaciÛn actual, las interrogantes que surgieron de dicha situaciÛn, el objetivo general, los objetivos especÌficos, la justificaciÛn de la investigaciÛn, el alcance y limitaciones de dicha investigaciÛn, y la propuesta de trabajo especial de grado, expuestos a continuaciÛn
-An·lisis y propuesta                                                                                           
+
+
+Cap√≠tulo IV. Propuesta de Trabajo Especial de Grado
+En el presente cap√≠tulo se menciona el contexto de problema o situaci√≥n actual, las interrogantes que surgieron de dicha situaci√≥n, el objetivo general, los objetivos espec√≠ficos, la justificaci√≥n de la investigaci√≥n, el alcance y limitaciones de dicha investigaci√≥n, y la propuesta de trabajo especial de grado, expuestos a continuaci√≥n
+An√°lisis y propuesta
 4.1 Contexto del problema
      Caso de estudio 01: Sistemas de recursos humanos
-     Caso de estudio 02: Proceso de reclutamiento y selecciÛn de personal en las empresas
+     Caso de estudio 02: Proceso de reclutamiento y selecci√≥n de personal en las empresas
 Entrevistas
-EvaluaciÛn
-SelecciÛn
-Propuesta econÛmica
-Manuales de inducciÛn de la empresa
+Evaluaci√≥n
+Selecci√≥n
+Propuesta econ√≥mica
+Manuales de inducci√≥n de la empresa
 TEXTO QUE SE HA REDACTADO PARA ESTA PARTE HASTA AHORA
-Caso de estudio: Sistemas de recursos humanos, y el proceso de reclutamiento y selecciÛn de personal en las empresas.
-AquÌ pueden hablar del tema de las entrevistas, los procesos de evaluaciÛn, la selecciÛn del candidato, la presentaciÛn de la propuesta econÛmica a la empresa, y los manuales de inducciÛn a las empresas. 
-Adem·s pueden hablar de lar rigidez de sistemas como Bumeran, computrabajo, empleate, y dem·s aplicaciones utilizadas para la b˙squeda y selecciÛn de personal.
+Caso de estudio: Sistemas de recursos humanos, y el proceso de reclutamiento y selecci√≥n de personal en las empresas.
+Aqu√≠ pueden hablar del tema de las entrevistas, los procesos de evaluaci√≥n, la selecci√≥n del candidato, la presentaci√≥n de la propuesta econ√≥mica a la empresa, y los manuales de inducci√≥n a las empresas.
+Adem√°s pueden hablar de lar rigidez de sistemas como Bumeran, computrabajo, empleate, y dem√°s aplicaciones utilizadas para la b√∫squeda y selecci√≥n de personal.
 LO QUE USTEDES COLOCARON:
-El proceso de reclutamiento y selecciÛn de empresas consta de una serie de etapas que se aplica a cada candidato que desee aplicar para el cargo ofrecido.
-Inicialmente, la empresa debe agendar y manejar el tiempo de tal forma que puedan atender a la mayor cantidad de candidatos en un dÌa determinado, sin embargo, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en el menor tiempo posible debido a que, generalmente, dichas evaluaciones se realiza por una sola persona que dedica parte de su tiempo a aplicar el proceso de selecciÛn, evaluaciÛn y contrataciÛn de a un candidato a la vez lo que causa que el proceso sea lento lo que puede ocasionar que los candidatos decidan retirarse del proceso. 
-Las empresas realizan impresiones de cuestionarios y encuestas que son aplicados a cada candidato generando pÈrdidas econÛmicas si el candidato decide abandonar el proceso de selecciÛn, o si no es seleccionado para continuar, y si el candidato es seleccionado, se encuentre con el escenario de que dicho candidato ya aceptÛ una propuesta laboral de otra empresa debido a la lentitud del proceso y falta de feedback a lo largo del proceso. La lentitud del proceso y falta de feedback deja al candidato en incertidumbre en determinar la posibilidad que tiene en ser seleccionado y poder incursionar en el vacante lo que causa que la empresa pierda candidatos potenciales durante el proceso.
-Las empresas, para reclutar al candidato ideal para la vacante, realizan diversos filtros que son aplicados a cada candidato a evaluar, lo que ocasiona que los candidatos se sientan incÛmodos ya que deben solicitar permisos laborales para asistir presencialmente a cada una de las etapas en el proceso de reclutamiento y selecciÛn, permisos que, son recuperados en tiempo de oficina o generan pÈrdidas monetarias en transporte, impresiÛn de documentos como currÌculos, certificados, tÌtulos, entre otros; esto ocasiona que los candidatos se retiren del proceso de selecciÛn por considerarlo lento, costoso y molesto.
-Finalmente, en algunas empresas, el candidato seleccionado es invitado a proponer la propuesta econÛmica, esto es, conocer del candidato la adquisiciÛn salarial que considera ganar, o la misma empresa realiza la propuesta econÛmica adem·s de darle a conocer los beneficios laborales que la empresa provee a sus empleados y el ambiente de trabajo. En este punto la empresa debe decidir si las consideraciones salariales son accesibles para la empresa y proceder con el reclutamiento del candidato, o en el caso de que la aspiraciones del candidato son mayores a los que la empresa puede ofrecer el candidato es retirado del proceso de selecciÛn.
-En cualquiera de los casos donde el candidato fue contratado o no, la empresa ha perdido tiempo y dinero realizando dicho proceso, donde seg˙n el resultado, puede generar experiencias desagradables que motiva a futuros aspirantes a rechazar participaciÛn en el proceso de selecciÛn de otras vacantes ofrecidas por la empresa y generen referencias negativas hacia otros potenciales candidatos.
+El proceso de reclutamiento y selecci√≥n de empresas consta de una serie de etapas que se aplica a cada candidato que desee aplicar para el cargo ofrecido.
+Inicialmente, la empresa debe agendar y manejar el tiempo de tal forma que puedan atender a la mayor cantidad de candidatos en un d√≠a determinado, sin embargo, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en el menor tiempo posible debido a que, generalmente, dichas evaluaciones se realiza por una sola persona que dedica parte de su tiempo a aplicar el proceso de selecci√≥n, evaluaci√≥n y contrataci√≥n de a un candidato a la vez lo que causa que el proceso sea lento lo que puede ocasionar que los candidatos decidan retirarse del proceso.
+Las empresas realizan impresiones de cuestionarios y encuestas que son aplicados a cada candidato generando p√©rdidas econ√≥micas si el candidato decide abandonar el proceso de selecci√≥n, o si no es seleccionado para continuar, y si el candidato es seleccionado, se encuentre con el escenario de que dicho candidato ya acept√≥ una propuesta laboral de otra empresa debido a la lentitud del proceso y falta de feedback a lo largo del proceso. La lentitud del proceso y falta de feedback deja al candidato en incertidumbre en determinar la posibilidad que tiene en ser seleccionado y poder incursionar en el vacante lo que causa que la empresa pierda candidatos potenciales durante el proceso.
+Las empresas, para reclutar al candidato ideal para la vacante, realizan diversos filtros que son aplicados a cada candidato a evaluar, lo que ocasiona que los candidatos se sientan inc√≥modos ya que deben solicitar permisos laborales para asistir presencialmente a cada una de las etapas en el proceso de reclutamiento y selecci√≥n, permisos que, son recuperados en tiempo de oficina o generan p√©rdidas monetarias en transporte, impresi√≥n de documentos como curr√≠culos, certificados, t√≠tulos, entre otros; esto ocasiona que los candidatos se retiren del proceso de selecci√≥n por considerarlo lento, costoso y molesto.
+Finalmente, en algunas empresas, el candidato seleccionado es invitado a proponer la propuesta econ√≥mica, esto es, conocer del candidato la adquisici√≥n salarial que considera ganar, o la misma empresa realiza la propuesta econ√≥mica adem√°s de darle a conocer los beneficios laborales que la empresa provee a sus empleados y el ambiente de trabajo. En este punto la empresa debe decidir si las consideraciones salariales son accesibles para la empresa y proceder con el reclutamiento del candidato, o en el caso de que la aspiraciones del candidato son mayores a los que la empresa puede ofrecer el candidato es retirado del proceso de selecci√≥n.
+En cualquiera de los casos donde el candidato fue contratado o no, la empresa ha perdido tiempo y dinero realizando dicho proceso, donde seg√∫n el resultado, puede generar experiencias desagradables que motiva a futuros aspirantes a rechazar participaci√≥n en el proceso de selecci√≥n de otras vacantes ofrecidas por la empresa y generen referencias negativas hacia otros potenciales candidatos.
 
 
-Mejorar la redacciÛn. 
-Aparte, necesitan decir cosas que tengan m·s importancia.
-Les recomiendo revisar el documento que les envÌe, donde les coloco la estructura del seminario y la tesis. Hay una parte que dice Contexto del problema. AhÌ hay cosas que ya pueden utilizar para el contexto del problema, y que serÌan un copiar y pegar, y adem·s de las ideas que ustedes agreguen.
+Mejorar la redacci√≥n.
+Aparte, necesitan decir cosas que tengan m√°s importancia.
+Les recomiendo revisar el documento que les env√≠e, donde les coloco la estructura del seminario y la tesis. Hay una parte que dice Contexto del problema. Ah√≠ hay cosas que ya pueden utilizar para el contexto del problema, y que ser√≠an un copiar y pegar, y adem√°s de las ideas que ustedes agreguen.
 
 ESTE FUE MI PRIMER APORTE  PARA ESTA PARTE
-SituaciÛn actual, o Contexto del problema
-Hoy en dÌa, el Èxito de las organizaciones y empresas depende en gran medida de una buena selecciÛn de aspirantes que desean aportar sus conocimientos, experiencias y aptitudes para mejorar el funcionamiento y desarrollo de las tareas de la empresa.
-La necesidad de reclutar nuevos aspirantes en las empresas viene dado por diferentes causas como requerir personal que contribuya a realizar, de forma eficaz y eficiente, una serie de actividades que contribuyan al logro de las diversas ·reas de una organizaciÛn y asÌ alcanzar la misiÛn y visiÛn de dicha organizaciÛn, o debido a factores externos tales como expansiÛn de la empresa, lo que genera nuevos puestos de trabajos, pÈrdida de persona o despido, entre otros. 
-El proceso de reclutamiento de personal comienza a raÌz de un requerimiento o solicitud que posee la empresa en desarrollar una serie de actividades, en un ·rea determinada, donde la empresa carece de personal calificado para ejecutar dicha labor, donde posteriormente se procede a determinar: 
+Situaci√≥n actual, o Contexto del problema
+Hoy en d√≠a, el √©xito de las organizaciones y empresas depende en gran medida de una buena selecci√≥n de aspirantes que desean aportar sus conocimientos, experiencias y aptitudes para mejorar el funcionamiento y desarrollo de las tareas de la empresa.
+La necesidad de reclutar nuevos aspirantes en las empresas viene dado por diferentes causas como requerir personal que contribuya a realizar, de forma eficaz y eficiente, una serie de actividades que contribuyan al logro de las diversas √°reas de una organizaci√≥n y as√≠ alcanzar la misi√≥n y visi√≥n de dicha organizaci√≥n, o debido a factores externos tales como expansi√≥n de la empresa, lo que genera nuevos puestos de trabajos, p√©rdida de persona o despido, entre otros.
+El proceso de reclutamiento de personal comienza a ra√≠z de un requerimiento o solicitud que posee la empresa en desarrollar una serie de actividades, en un √°rea determinada, donde la empresa carece de personal calificado para ejecutar dicha labor, donde posteriormente se procede a determinar:
 El nombre de la vacante.
-Las actividades y responsabilidades que deben desempeÒarse en la vacante.
-Requerimientos tÈcnicos mÌnimos necesarios.
+Las actividades y responsabilidades que deben desempe√±arse en la vacante.
+Requerimientos t√©cnicos m√≠nimos necesarios.
 Requerimientos sociales e interpersonales necesarios.
 Horario de trabajo disponible para la vacante.
 Salarios
-N˙mero de vacantes.
+N√∫mero de vacantes.
 
-Una vez que la empresa determina dichos datos sobre la vacante se procede a realizar la publicaciÛn de la vacante ya sea en el sitio web de la empresa o en sitios web donde potenciales candidatos pueden encontrar informaciÛn de la vacante, donde posteriormente, se inicia un proceso de solicitud de una serie de candidatos para ocupar una vacante.
-Dicho proceso, se ejecuta de forma presencial donde el candidato consulta informaciÛn del puesto y entrega los documentos para su postulaciÛn. De esta forma, la empresa debe emplear tiempo en atender a cada candidato que desee postularse, y el aspirante debe dirigirse a la empresa a entregar los documentos para su postulaciÛn, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos aspirantes ser·n seleccionados para continuar con el proceso de reclutamiento, donde se har·n evaluaciones, entrevistas para conocer las expectativas del aspirante en la empresa, etc.
+Una vez que la empresa determina dichos datos sobre la vacante se procede a realizar la publicaci√≥n de la vacante ya sea en el sitio web de la empresa o en sitios web donde potenciales candidatos pueden encontrar informaci√≥n de la vacante, donde posteriormente, se inicia un proceso de solicitud de una serie de candidatos para ocupar una vacante.
+Dicho proceso, se ejecuta de forma presencial donde el candidato consulta informaci√≥n del puesto y entrega los documentos para su postulaci√≥n. De esta forma, la empresa debe emplear tiempo en atender a cada candidato que desee postularse, y el aspirante debe dirigirse a la empresa a entregar los documentos para su postulaci√≥n, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos aspirantes ser√°n seleccionados para continuar con el proceso de reclutamiento, donde se har√°n evaluaciones, entrevistas para conocer las expectativas del aspirante en la empresa, etc.
 
-Todos estos procesos consumen recursos (tiempo y costos) para ambos lados del proceso; la empresa suele realizar impresiones de cuestionarios o ex·menes lo que genera pÈrdidas econÛmicas si el aspirante decide retirarse del proceso o no es seleccionado para continuar, requiere de mayor personal para poder proveer un feedback a cada aspirante sobre el estado en el proceso de selecciÛn en un tiempo suficiente que no genere incertidumbre en el aspirante sobre su selecciÛn, y por otro lado, cada aspirante se siente incÛmodo con las diversas etapas que debe realizar durante el proceso de selecciÛn ya que deben solicitar permisos laborales para poder asistir a dichas etapas, todo esto causa una pÈrdida de dinero en transportes, impresiÛn de los documentos necesarios por la empresa como currÌculos, certificaciones, tÌtulos, entre otros lo que origina que un candidato abandone el proceso por ser muy lento y costoso.
-poco a poco ire quitando la redacciÛn informal
+Todos estos procesos consumen recursos (tiempo y costos) para ambos lados del proceso; la empresa suele realizar impresiones de cuestionarios o ex√°menes lo que genera p√©rdidas econ√≥micas si el aspirante decide retirarse del proceso o no es seleccionado para continuar, requiere de mayor personal para poder proveer un feedback a cada aspirante sobre el estado en el proceso de selecci√≥n en un tiempo suficiente que no genere incertidumbre en el aspirante sobre su selecci√≥n, y por otro lado, cada aspirante se siente inc√≥modo con las diversas etapas que debe realizar durante el proceso de selecci√≥n ya que deben solicitar permisos laborales para poder asistir a dichas etapas, todo esto causa una p√©rdida de dinero en transportes, impresi√≥n de los documentos necesarios por la empresa como curr√≠culos, certificaciones, t√≠tulos, entre otros lo que origina que un candidato abandone el proceso por ser muy lento y costoso.
+poco a poco ire quitando la redacci√≥n informal
 
-Para cualquier empresa est· sobreentendida la necesidad de contratar nuevo personal constantemente, sobre todo si se tiene un crecimiento de cualquier magnitud, o cualquier tarea sin atender que podrÌa ser crucial para el desarrollo y progreso de la empresa, es por eso que se tiene la necesidad no solo de contratar, sino de captar candidatos que llenen dichos roles de la manera m·s eficiente posible, es simple estadÌstica, mientras m·s candidatos se puedan procesar procesar, m·s probabilidades se tienen de contratar a un candidato que satisfaga las expectativas de la organizaciÛn.
+Para cualquier empresa est√° sobreentendida la necesidad de contratar nuevo personal constantemente, sobre todo si se tiene un crecimiento de cualquier magnitud, o cualquier tarea sin atender que podr√≠a ser crucial para el desarrollo y progreso de la empresa, es por eso que se tiene la necesidad no solo de contratar, sino de captar candidatos que llenen dichos roles de la manera m√°s eficiente posible, es simple estad√≠stica, mientras m√°s candidatos se puedan procesar procesar, m√°s probabilidades se tienen de contratar a un candidato que satisfaga las expectativas de la organizaci√≥n.
 
-Pero captar una gran cantidad de candidatos implica una gran cantidad de gasto de recursos para todos los involucrados, sea desde la empresa o desde el punto de vista de los candidatos, cualquiera que sea el gasto tiempo, dinero o material. 
+Pero captar una gran cantidad de candidatos implica una gran cantidad de gasto de recursos para todos los involucrados, sea desde la empresa o desde el punto de vista de los candidatos, cualquiera que sea el gasto tiempo, dinero o material.
 Entre algunos de los inconvenientes para los usuarios y para las empresas, se pueden mencionar los siguientes:
 Para el usuario:
-En algunos casos, es necesario que proporcione una documentaciÛn previa a la empresa, tales como: CurrÌculum vitae impreso, copia de diplomas o tÌtulos obtenidos, referencias laborales entre otras
-El usuario debe invertir tiempo y dinero en trasladarse a la sede de la empresa, y donde puede llevar consigo, o no recaudos de interÈs para la empresa contratante, seg˙n sea el caso.
-El usuario puede que en la primera entrevista no sea de su agrado lo que la empresa le comente, tales como: Temas asociados al horario laboral, la flexibilidad de horarios para poder laborar y estudiar en la organizaciÛn, que el candidato considere que la duraciÛn del proceso de selecciÛn o evaluaciÛn es largo o   tedioso, y a˙n m·s cuando la empresa, no especifica los beneficios y expectativas econÛmicas que puede ofrecerle; originandole pÈrdidas de tiempo, y dinero por conceptos de transporte, o costos inherentes a la impresiÛn de curriculums, sacar copias de los tÌtulos, diplomas o certificados.
-Si el usuario decide continuar con los procesos restantes establecidos por la empresa, o la empresa ha seleccionado a dicho candidato para continuar con el proceso, generalmente involucra que deber· realizar una serie de evaluaciones tÈcnicas, psicologicas, y de dem·s aspectos de interÈs inherentes a la empresa contratante; para lo cual deber· trasladarse nuevamente al lugar de ubicaciÛn de la empresa, origin·ndole gastos por conceptos de transporte, invertir tiempo en horas laborales, lo cual, en la mayorÌa de los casos, implica que los candidatos deber·n solicitar permisos laborales para asistir a dichos procesos, y luego recuperar o poner su trabajo al dÌa.
-Algunas empresas demora tiempos considerables en proporcionar una respuesta al potencial candidato, acerca de si supero una etapa del proceso de selecciÛn, o si fue seleccionado en definitiva, y a lo cual los usuarios asumen que no han sido seleccionados, y deciden realizar procesos de selecciÛn con otras organizaciones
+En algunos casos, es necesario que proporcione una documentaci√≥n previa a la empresa, tales como: Curr√≠culum vitae impreso, copia de diplomas o t√≠tulos obtenidos, referencias laborales entre otras
+El usuario debe invertir tiempo y dinero en trasladarse a la sede de la empresa, y donde puede llevar consigo, o no recaudos de inter√©s para la empresa contratante, seg√∫n sea el caso.
+El usuario puede que en la primera entrevista no sea de su agrado lo que la empresa le comente, tales como: Temas asociados al horario laboral, la flexibilidad de horarios para poder laborar y estudiar en la organizaci√≥n, que el candidato considere que la duraci√≥n del proceso de selecci√≥n o evaluaci√≥n es largo o   tedioso, y a√∫n m√°s cuando la empresa, no especifica los beneficios y expectativas econ√≥micas que puede ofrecerle; originandole p√©rdidas de tiempo, y dinero por conceptos de transporte, o costos inherentes a la impresi√≥n de curriculums, sacar copias de los t√≠tulos, diplomas o certificados.
+Si el usuario decide continuar con los procesos restantes establecidos por la empresa, o la empresa ha seleccionado a dicho candidato para continuar con el proceso, generalmente involucra que deber√° realizar una serie de evaluaciones t√©cnicas, psicologicas, y de dem√°s aspectos de inter√©s inherentes a la empresa contratante; para lo cual deber√° trasladarse nuevamente al lugar de ubicaci√≥n de la empresa, origin√°ndole gastos por conceptos de transporte, invertir tiempo en horas laborales, lo cual, en la mayor√≠a de los casos, implica que los candidatos deber√°n solicitar permisos laborales para asistir a dichos procesos, y luego recuperar o poner su trabajo al d√≠a.
+Algunas empresas demora tiempos considerables en proporcionar una respuesta al potencial candidato, acerca de si supero una etapa del proceso de selecci√≥n, o si fue seleccionado en definitiva, y a lo cual los usuarios asumen que no han sido seleccionados, y deciden realizar procesos de selecci√≥n con otras organizaciones
 
 Para las empresas:
-En algunos casos proporcionan informaciÛn de la vacante al potencial candidato, de forma oral, y para lo cual deben invertir un tiempo considerable por cada candidato.
-Si el candidato no supera la primera etapa del proceso de selecciÛn, debido a razones como que las expectativas salariales no estuvieron acordes al presupuesto de la empresa, o que no se pudo llegar a un acuerdo de flexibilidad de horario de trabajo entre la empresa y el potencial candidato, o porque el reclutador considero que la persona no es idonea para continuar con las dem·s etapa del proceso de selecciÛn, entre otras. Lo expuesto requiere que ambas partes inviertan un tiempo considerable de al menos 1 hora por cada candidato, a lo cual si existen 10, 20, o 100 candidatos para una vacante, dicho proceso puede llegar a ser muy ineficiente para las organizaciones. 
-Si el candidato supera la primera etapa del proceso de selecciÛn, generalmente las empresas, procederÌan a realizar evaluaciones para conocer las destrezas profesionales de los aspirantes, su nivel de inteligencia emocional, capacidad de resoluciÛn de problemas, trabajo en equipo, entre otras; o entrevistas para conocer el n˙cleo familiar, valores, personalidad, y dem·s aspectos de interÈs para el reclutador. Dicho proceso de evaluaciÛn y selecciÛn de candidatos puede llevar meses en algunas organizaciones, a lo cual muchos usuarios no desean esperar dicho tiempo para obtener una respuesta por parte de la empresa, y a lo cual deciden postularse a otras vacantes laborales, o inclusive laborar en otras organizaciones.
-La empresa no pregunta las expectativas salariales a los potenciales candidatos, y a lo cual, luego de pasar por un largo proceso de evaluaciÛn y selecciÛn, les ofrece una propuesta que es rechazada por el candidato seleccionado, originando que la empresa haya perdido tiempo y dinero en dicho proceso. Lo mismo sucede con el candidato.
-En la mayorÌa de los casos, las empresas no le notifican a los potenciales candidatos, si superaron o no, una etapa determinada del proceso de contrataciÛn, de forma r·pida y pr·ctica, a lo cual, muchos candidatos suponen que no superaron el proceso establecido por la empresa, y deciden postularse a otras vacantes, o continuar procesos de selecciÛn en otras organizaciones.
+En algunos casos proporcionan informaci√≥n de la vacante al potencial candidato, de forma oral, y para lo cual deben invertir un tiempo considerable por cada candidato.
+Si el candidato no supera la primera etapa del proceso de selecci√≥n, debido a razones como que las expectativas salariales no estuvieron acordes al presupuesto de la empresa, o que no se pudo llegar a un acuerdo de flexibilidad de horario de trabajo entre la empresa y el potencial candidato, o porque el reclutador considero que la persona no es idonea para continuar con las dem√°s etapa del proceso de selecci√≥n, entre otras. Lo expuesto requiere que ambas partes inviertan un tiempo considerable de al menos 1 hora por cada candidato, a lo cual si existen 10, 20, o 100 candidatos para una vacante, dicho proceso puede llegar a ser muy ineficiente para las organizaciones.
+Si el candidato supera la primera etapa del proceso de selecci√≥n, generalmente las empresas, proceder√≠an a realizar evaluaciones para conocer las destrezas profesionales de los aspirantes, su nivel de inteligencia emocional, capacidad de resoluci√≥n de problemas, trabajo en equipo, entre otras; o entrevistas para conocer el n√∫cleo familiar, valores, personalidad, y dem√°s aspectos de inter√©s para el reclutador. Dicho proceso de evaluaci√≥n y selecci√≥n de candidatos puede llevar meses en algunas organizaciones, a lo cual muchos usuarios no desean esperar dicho tiempo para obtener una respuesta por parte de la empresa, y a lo cual deciden postularse a otras vacantes laborales, o inclusive laborar en otras organizaciones.
+La empresa no pregunta las expectativas salariales a los potenciales candidatos, y a lo cual, luego de pasar por un largo proceso de evaluaci√≥n y selecci√≥n, les ofrece una propuesta que es rechazada por el candidato seleccionado, originando que la empresa haya perdido tiempo y dinero en dicho proceso. Lo mismo sucede con el candidato.
+En la mayor√≠a de los casos, las empresas no le notifican a los potenciales candidatos, si superaron o no, una etapa determinada del proceso de contrataci√≥n, de forma r√°pida y pr√°ctica, a lo cual, muchos candidatos suponen que no superaron el proceso establecido por la empresa, y deciden postularse a otras vacantes, o continuar procesos de selecci√≥n en otras organizaciones.
 
-AquÌ tambiÈn tienen los problemas que les habÌa enviado en el primer documento para que lo revisen, a ver si les sirve o no
-En muchas organizaciones, los procesos de captaciÛn, reclutamiento y selecciÛn de personal suelen demorar mucho tiempo, originando impaciencia en los candidatos, y originando que comiencen a participar en otros procesos relacionados con la b˙squeda de empleo, motivado a necesidades econÛmicas, deseos de cambiar de empleo por malos jefes, la falta de crecimiento profesional y actualizaciÛn constante, situaciones delicadas dentro de las organizaciones, entre otras 
+Aqu√≠ tambi√©n tienen los problemas que les hab√≠a enviado en el primer documento para que lo revisen, a ver si les sirve o no
+En muchas organizaciones, los procesos de captaci√≥n, reclutamiento y selecci√≥n de personal suelen demorar mucho tiempo, originando impaciencia en los candidatos, y originando que comiencen a participar en otros procesos relacionados con la b√∫squeda de empleo, motivado a necesidades econ√≥micas, deseos de cambiar de empleo por malos jefes, la falta de crecimiento profesional y actualizaci√≥n constante, situaciones delicadas dentro de las organizaciones, entre otras
 
-Por otro lado, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de cantidad de candidatos en menor tiempo, debido a que, generalmente dichas evaluaciones son realizadas por una sola persona que suele dedicar parte de su tiempo a aplicar un proceso de selecciÛn, evaluaciÛn y contrataciÛn de candidatos, originando que otros potenciales candidatos se encuentren en una especie de cola de espera, y que, no se aprovechen otras del dÌa, donde se podrÌan agilizar dichos procesos, ni se cuenten con las herramientas que contribuyan, a que el personal encargado de seleccionar,  y evaluar a dichos candidatos, puedan trabajar de una forma m·s eficaz y eficiente.
+Por otro lado, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de cantidad de candidatos en menor tiempo, debido a que, generalmente dichas evaluaciones son realizadas por una sola persona que suele dedicar parte de su tiempo a aplicar un proceso de selecci√≥n, evaluaci√≥n y contrataci√≥n de candidatos, originando que otros potenciales candidatos se encuentren en una especie de cola de espera, y que, no se aprovechen otras del d√≠a, donde se podr√≠an agilizar dichos procesos, ni se cuenten con las herramientas que contribuyan, a que el personal encargado de seleccionar,  y evaluar a dichos candidatos, puedan trabajar de una forma m√°s eficaz y eficiente.
 
-Las empresas por otro lado, suelen realizar impresiones de cuestionarios, o encuestas cada vez que entrevistan a un candidato, originando pÈrdidas econÛmicas para la empresa, si dicho candidato decide no continuar con dicho proceso, o si no es seleccionado, y, en caso de ser seleccionado, se encuentra con el escenario de que el candidato ya acepto una propuesta laboral de otra empresa, debido a falta de feedback por parte de la empresa en las diversas etapas del proceso de selecciÛn, tales como indicar si un candidato aprobÛ o no una etapa determinada del proceso de selecciÛn, dejando al potencial candidatos en una incertidumbre acerca de si tiene posibilidades, o no, de incursionar en dicha empresa; por la lentitud de las empresas en brindar respuesta en cada una de las etapas del proceso de selecciÛn, y cuando es seleccionado, realizar propuestas econÛmicas y de dem·s beneficios laborales, que no se encuentran acorde a las aspiraciones del candidato seleccionado. 
+Las empresas por otro lado, suelen realizar impresiones de cuestionarios, o encuestas cada vez que entrevistan a un candidato, originando p√©rdidas econ√≥micas para la empresa, si dicho candidato decide no continuar con dicho proceso, o si no es seleccionado, y, en caso de ser seleccionado, se encuentra con el escenario de que el candidato ya acepto una propuesta laboral de otra empresa, debido a falta de feedback por parte de la empresa en las diversas etapas del proceso de selecci√≥n, tales como indicar si un candidato aprob√≥ o no una etapa determinada del proceso de selecci√≥n, dejando al potencial candidatos en una incertidumbre acerca de si tiene posibilidades, o no, de incursionar en dicha empresa; por la lentitud de las empresas en brindar respuesta en cada una de las etapas del proceso de selecci√≥n, y cuando es seleccionado, realizar propuestas econ√≥micas y de dem√°s beneficios laborales, que no se encuentran acorde a las aspiraciones del candidato seleccionado.
 
-Por otro lado, muchos candidatos se sienten incÛmodos con los diversos filtros que aplica una empresa para seleccionar, a lo que consideran como un candidato ideal, debido a la necesidad de tener que solicitar permisos laborales para asistir presencialmente a cada una de las etapas del proceso de reclutamiento  y selecciÛn, y teniendo que recuperar dicho tiempo en la oficina, o origin·ndoles pÈrdidas de dinero por conceptos de transporte, impresiÛn de curriculums, sacar copias a certificados o documentos, realizar pruebas de evaluaciÛn, o cuando unos candidatos se presentan a una entrevista y la persona encarga de la empresa, no asiste o no puede atender a la persona en al hora pautada. Dichas causas originan que un candidato no desee continuar con un proceso de solicitud de empleo en una empresa, por considerarlos burocr·tico, lento, costoso, molesto, entre otras razones.
+Por otro lado, muchos candidatos se sienten inc√≥modos con los diversos filtros que aplica una empresa para seleccionar, a lo que consideran como un candidato ideal, debido a la necesidad de tener que solicitar permisos laborales para asistir presencialmente a cada una de las etapas del proceso de reclutamiento  y selecci√≥n, y teniendo que recuperar dicho tiempo en la oficina, o origin√°ndoles p√©rdidas de dinero por conceptos de transporte, impresi√≥n de curriculums, sacar copias a certificados o documentos, realizar pruebas de evaluaci√≥n, o cuando unos candidatos se presentan a una entrevista y la persona encarga de la empresa, no asiste o no puede atender a la persona en al hora pautada. Dichas causas originan que un candidato no desee continuar con un proceso de solicitud de empleo en una empresa, por considerarlos burocr√°tico, lento, costoso, molesto, entre otras razones.
 
-En cualquiera de los casos mencionados, la empresa reclutadora y el potencial candidato han perdido tiempo o dinero en dicho proceso, originando que adem·s se generen experiencias desagradables y que alguna de las 2 partes no tenga ganas de volver a participar en alg˙n otro proceso de selecciÛn con dichas empresa o candidato, y en el caso de las empresas, que generen referencias negativas hacia otros potenciales candidatos, y que ante el llamado de una empresa determinada los candidatos opten por no responderle.
+En cualquiera de los casos mencionados, la empresa reclutadora y el potencial candidato han perdido tiempo o dinero en dicho proceso, originando que adem√°s se generen experiencias desagradables y que alguna de las 2 partes no tenga ganas de volver a participar en alg√∫n otro proceso de selecci√≥n con dichas empresa o candidato, y en el caso de las empresas, que generen referencias negativas hacia otros potenciales candidatos, y que ante el llamado de una empresa determinada los candidatos opten por no responderle.
 
-FALTA COLOCAR EL P¡RRAFO DOND DICE lo que se quiere hacer, las interrogantes que se pretenden responder con la investigaciÛn, 
+FALTA COLOCAR EL P√ÅRRAFO DOND DICE lo que se quiere hacer, las interrogantes que se pretenden responder con la investigaci√≥n,
 
-De esta necesidad surge una propuesta que pretende mitigar el desperdicio de recursos y a su vez ofrecer una herramienta que beneficie a los involucrados, creando una aplicaciÛn Web configurable que Ö LUEGO COLOCAN LO QUE YA 
+De esta necesidad surge una propuesta que pretende mitigar el desperdicio de recursos y a su vez ofrecer una herramienta que beneficie a los involucrados, creando una aplicaci√≥n Web configurable que ‚Ä¶ LUEGO COLOCAN LO QUE YA
 UTILICEN LO que ya les redacte en el primer documento
 
-Para responder a estas interrogantes, se propone realizar un estudio de factibilidad del emprendimiento mencionado, a objeto de determinar, si la iniciativa de negocios propuesta es viable o no. 
+Para responder a estas interrogantes, se propone realizar un estudio de factibilidad del emprendimiento mencionado, a objeto de determinar, si la iniciativa de negocios propuesta es viable o no.
 
-4.2 Propuesta de TEG  
-FALTA MEJORAR  LA REDACCI”N
-En puntos previos del trabajo, se dice el tipo de aplicaciÛn Web que se desea construir y porque, su importancia, etc, Si mal no recuerdo esta en el planteamiento del problema   
-De acuerdo a lo expuesto anteriormente, surge la iniciativa y oportunidad de crear una aplicaciÛn web que permita a la empresa ofrecer informaciÛn sobre el puesto vacante y al aspirante poder postularse al proceso de selecciÛn y tener un seguimiento del mismo.
-Se pretende con este trabajo especial de grado crear un sistema conformado por una aplicaciÛn web (donde se visualice la informaciÛn, configurable por la empresa y el aspirante puede subir su informaciÛn) para apoyar el proceso de reclutamiento y selecciÛn de personal de cualquier empresa.
-Por una parte, cada empresa podr· configurar el portal de forma que provea a los aspirantes informaciÛn detallada del puesto vacante, explicar las etapas a efectuarse durante el proceso de selecciÛn y proveer feedback a cada aspirante en cada etapa del proceso.
-Por otra parte, el candidato podr· ingresar al portal y obtener informaciÛn detallada de las vacantes disponibles por la empresa y, en caso de que le interese una vacante, postularse desde dicho portal ingresando la informaciÛn necesaria como currÌculo, documentos, certificaciones. Adem·s el candidato interesado puede determinar su estado en el proceso de selecciÛn. 
-Lo anteriormente mencionado, permite al aspirante postularse sin la necesidad de realizar gastos en transporte e impresiÛn de documentos y realizar un seguimiento sobre el estado de su solicitud, y permite a la empresa automatizar algunas etapas del proceso de selecciÛn y proveer a todos sus aspirantes el estado de su solicitud de forma r·pida y contÌnua.
-Por otra parte, la aplicaciÛn web, se encarga de capturar la informaciÛn proporcionada por cada aspirante, y almacenarla utilizando un sistema de manejador de bases de datos. Adem·s de poder analizar y generar informaciÛn para facilitar a la empresa el proceso de selecciÛn.
+4.2 Propuesta de TEG
+FALTA MEJORAR  LA REDACCI√ìN
+En puntos previos del trabajo, se dice el tipo de aplicaci√≥n Web que se desea construir y porque, su importancia, etc, Si mal no recuerdo esta en el planteamiento del problema
+De acuerdo a lo expuesto anteriormente, surge la iniciativa y oportunidad de crear una aplicaci√≥n web que permita a la empresa ofrecer informaci√≥n sobre el puesto vacante y al aspirante poder postularse al proceso de selecci√≥n y tener un seguimiento del mismo.
+Se pretende con este trabajo especial de grado crear un sistema conformado por una aplicaci√≥n web (donde se visualice la informaci√≥n, configurable por la empresa y el aspirante puede subir su informaci√≥n) para apoyar el proceso de reclutamiento y selecci√≥n de personal de cualquier empresa.
+Por una parte, cada empresa podr√° configurar el portal de forma que provea a los aspirantes informaci√≥n detallada del puesto vacante, explicar las etapas a efectuarse durante el proceso de selecci√≥n y proveer feedback a cada aspirante en cada etapa del proceso.
+Por otra parte, el candidato podr√° ingresar al portal y obtener informaci√≥n detallada de las vacantes disponibles por la empresa y, en caso de que le interese una vacante, postularse desde dicho portal ingresando la informaci√≥n necesaria como curr√≠culo, documentos, certificaciones. Adem√°s el candidato interesado puede determinar su estado en el proceso de selecci√≥n.
+Lo anteriormente mencionado, permite al aspirante postularse sin la necesidad de realizar gastos en transporte e impresi√≥n de documentos y realizar un seguimiento sobre el estado de su solicitud, y permite a la empresa automatizar algunas etapas del proceso de selecci√≥n y proveer a todos sus aspirantes el estado de su solicitud de forma r√°pida y cont√≠nua.
+Por otra parte, la aplicaci√≥n web, se encarga de capturar la informaci√≥n proporcionada por cada aspirante, y almacenarla utilizando un sistema de manejador de bases de datos. Adem√°s de poder analizar y generar informaci√≥n para facilitar a la empresa el proceso de selecci√≥n.
 
-4.3 JustificaciÛn    
-ESTA ES LA JUSTIFICACI”N QUE COLOQUE YO
-El objetivo prioritario de la presente investigaciÛn, no es documentar ni informar cu·les son los gastos que afronta una empresa durante los procesos de reclutamiento, sino proponer una soluciÛn eficiente y de mayor flexibilidad que las herramientas convencionales que se encuentran en la actualidad, y demostrar que dichos procesos pueden ser optimizados de manera que, las empresas puedan agilizar sus procedimientos de contrataciÛn, y que a su vez les permite incrementar las posibilidades de seleccionar el candidato idÛneo para la empresa contratante, , y por otro lado eliminar o mitigar los inconvenientes mencionados anteriormente para los potenciales candidatos
+4.3 Justificaci√≥n
+ESTA ES LA JUSTIFICACI√ìN QUE COLOQUE YO
+El objetivo prioritario de la presente investigaci√≥n, no es documentar ni informar cu√°les son los gastos que afronta una empresa durante los procesos de reclutamiento, sino proponer una soluci√≥n eficiente y de mayor flexibilidad que las herramientas convencionales que se encuentran en la actualidad, y demostrar que dichos procesos pueden ser optimizados de manera que, las empresas puedan agilizar sus procedimientos de contrataci√≥n, y que a su vez les permite incrementar las posibilidades de seleccionar el candidato id√≥neo para la empresa contratante, , y por otro lado eliminar o mitigar los inconvenientes mencionados anteriormente para los potenciales candidatos
 
-Cabe resaltar que, la contrataciÛn de personal, es un proceso complejo donde existen una serie de pr·cticas que son de uso com˙n, y que probablemente no sean las m·s eficientes, y de serlo, dichas pr·cticas pueden ser obsoletas y no adaptarse al dinamismo y a las necesidades del mercado actual.
+Cabe resaltar que, la contrataci√≥n de personal, es un proceso complejo donde existen una serie de pr√°cticas que son de uso com√∫n, y que probablemente no sean las m√°s eficientes, y de serlo, dichas pr√°cticas pueden ser obsoletas y no adaptarse al dinamismo y a las necesidades del mercado actual.
 
-Una contrataciÛn errÛnea acarrea gastos significativos, pÈrdidas y consecuencias que no son sencillas de manejar, como emocionales, legales, morales, monetarias, entre otras; es por ello que cualquier aporte que contribuya a tomar mejores decisiones durante el proceso de reclutamiento debe ser aprovechado.
+Una contrataci√≥n err√≥nea acarrea gastos significativos, p√©rdidas y consecuencias que no son sencillas de manejar, como emocionales, legales, morales, monetarias, entre otras; es por ello que cualquier aporte que contribuya a tomar mejores decisiones durante el proceso de reclutamiento debe ser aprovechado.
 
-El realizar el presente estudio y recopilar datos relacionados al reclutamiento, va a permitir analizar patrones o pr·cticas comunes que ser·n de utilidad para el desarrollar un sistema eficiente para el beneficio de las personas que sean involucradas, beneficios como:
-Al reclutador, facilitar el proceso de toma de decisiÛn acerca de si llevar adelante o no la contrataciÛn de cierta persona, gracias a la informaciÛn y requerimientos recopilados.
-Analizar las fortalezas y debilidades de las estructuras de contrataciÛn actuales, sobre las cuales el presente proyecto se basa y de este modo proponer condiciones de mejora.
-Determinar mejoras o medidas a tomar para que los procesos de contrataciÛn que se planteen sean  lo m·s factible posible para los involucrados.
-Reducir el nivel de incertidumbre al que est· sometida la empresa que dispone de la vacante  y tambiÈn mantener informados a los interesados en el puesto.
-Justificar el uso de sistema bas·ndonos en los recursos que ahorra para sus usuarios .
-Determinar la plataforma tecnolÛgica, din·micas de trabajo, y los pasos que el sistema usar· para captaciÛn de informaciÛn de sus usuarios.
-Generar informaciÛn que permitir·n llevar a cabo la toma de decisiones sobre contrataciones con bases sÛlidas, producto de un estudio previo.
-Adquirir conocimientos que le ser·n de utilidad a los futuros gerentes de recursos humanos, sobretodo para evitar escenarios comunes que conlleva al desperdicio de recursos durante procesos de captaciÛn de personal obsoletos.
+El realizar el presente estudio y recopilar datos relacionados al reclutamiento, va a permitir analizar patrones o pr√°cticas comunes que ser√°n de utilidad para el desarrollar un sistema eficiente para el beneficio de las personas que sean involucradas, beneficios como:
+Al reclutador, facilitar el proceso de toma de decisi√≥n acerca de si llevar adelante o no la contrataci√≥n de cierta persona, gracias a la informaci√≥n y requerimientos recopilados.
+Analizar las fortalezas y debilidades de las estructuras de contrataci√≥n actuales, sobre las cuales el presente proyecto se basa y de este modo proponer condiciones de mejora.
+Determinar mejoras o medidas a tomar para que los procesos de contrataci√≥n que se planteen sean  lo m√°s factible posible para los involucrados.
+Reducir el nivel de incertidumbre al que est√° sometida la empresa que dispone de la vacante  y tambi√©n mantener informados a los interesados en el puesto.
+Justificar el uso de sistema bas√°ndonos en los recursos que ahorra para sus usuarios .
+Determinar la plataforma tecnol√≥gica, din√°micas de trabajo, y los pasos que el sistema usar√° para captaci√≥n de informaci√≥n de sus usuarios.
+Generar informaci√≥n que permitir√°n llevar a cabo la toma de decisiones sobre contrataciones con bases s√≥lidas, producto de un estudio previo.
+Adquirir conocimientos que le ser√°n de utilidad a los futuros gerentes de recursos humanos, sobretodo para evitar escenarios comunes que conlleva al desperdicio de recursos durante procesos de captaci√≥n de personal obsoletos.
 
-ESTA ES LA JUSTIFICACI”N QUE COLOCARON USTEDES:
-Todas las empresas requieren de realizar los procesos de evaluaciÛn y selecciÛn para poder progresar y expandir como negocio y compaÒÌa, pero dicho proceso requiere de tiempo y recursos de parte de ambas partes del proceso.
-Por lo antes expuesto, surge la necesidad de desarrollar una aplicaciÛn Web que permita a las empresas atender a una gran cantidad de candidatos de manera simult·nea, y que permita brindar respuesta a los potenciales candidatos, y que a su vez, le permitan a las empresas continuar o descartar a diversos candidatos, de forma r·pida y eficiente, y sin originar los inconvenientes descritos.
+ESTA ES LA JUSTIFICACI√ìN QUE COLOCARON USTEDES:
+Todas las empresas requieren de realizar los procesos de evaluaci√≥n y selecci√≥n para poder progresar y expandir como negocio y compa√±√≠a, pero dicho proceso requiere de tiempo y recursos de parte de ambas partes del proceso.
+Por lo antes expuesto, surge la necesidad de desarrollar una aplicaci√≥n Web que permita a las empresas atender a una gran cantidad de candidatos de manera simult√°nea, y que permita brindar respuesta a los potenciales candidatos, y que a su vez, le permitan a las empresas continuar o descartar a diversos candidatos, de forma r√°pida y eficiente, y sin originar los inconvenientes descritos.
 El uso de un portal configurable por la empresa permite:
-Crear o actualizar la informaciÛn de una vacante.
-Procesar las solicitudes de los candidatos que se postulen las 24 horas del dÌa.
-Crear o reutilizar cuestionarios o encuestas configurables, automatizando la puntuaciÛn obtenida por los candidatos que la realizan.
+Crear o actualizar la informaci√≥n de una vacante.
+Procesar las solicitudes de los candidatos que se postulen las 24 horas del d√≠a.
+Crear o reutilizar cuestionarios o encuestas configurables, automatizando la puntuaci√≥n obtenida por los candidatos que la realizan.
 Reducir los tiempos del personal de Recursos Humanos en evaluar a cada candidato.
 Enviar feedback en cada etapa del proceso al candidato de forma eficiente y constante.
 
 El uso de un portal por parte del candidato permite:
 Postularse desde el portal.
-Ingresar la informaciÛn de los documentos requeridos para ser evaluado por la empresa como currÌculos y certificados de forma digital.
+Ingresar la informaci√≥n de los documentos requeridos para ser evaluado por la empresa como curr√≠culos y certificados de forma digital.
 Reducir costos de transporte.
-Realizar las etapas las 24 horas del dÌa.
-Realizar un seguimiento del estado del proceso de selecciÛn eficiente.
+Realizar las etapas las 24 horas del d√≠a.
+Realizar un seguimiento del estado del proceso de selecci√≥n eficiente.
 
-Lo anterior mencionado da flexibilidad a los candidatos en realizar el proceso de selecciÛn y, a su vez, el seguimiento de su estado durante todo el proceso desde la comodidad de su casa, sin restricciones de tiempo, lo que evita que el candidato deba solicitar permisos para retirarse de la oficina para realizar entrevistas con la incertidumbre de saber si dicha entrevista es beneficiosa o no.
-Por otro lado, da flexibilidad a la empresa en realizar y configurar los cuestionarios para que estos sean evaluados de forma autom·tica sin participaciÛn del personal de Recursos Humanos, y encuestas que pueden ser reutilizados en m˙ltiples vacantes disponibles en la empresa. Adem·s puede proveer a todos sus candidatos el feedback sobre su estado durante el proceso de selecciÛn de forma eficiente eliminando la incertidumbre que dichos candidatos puedan generar durante el proceso.
- 
-FALTA QUE REVISEN ESTE TEXTO, Y QUE VEA QUE LES SIRVE Y QUE NO PARA JUSTIFICAR SU INVESTIGACI”N
+Lo anterior mencionado da flexibilidad a los candidatos en realizar el proceso de selecci√≥n y, a su vez, el seguimiento de su estado durante todo el proceso desde la comodidad de su casa, sin restricciones de tiempo, lo que evita que el candidato deba solicitar permisos para retirarse de la oficina para realizar entrevistas con la incertidumbre de saber si dicha entrevista es beneficiosa o no.
+Por otro lado, da flexibilidad a la empresa en realizar y configurar los cuestionarios para que estos sean evaluados de forma autom√°tica sin participaci√≥n del personal de Recursos Humanos, y encuestas que pueden ser reutilizados en m√∫ltiples vacantes disponibles en la empresa. Adem√°s puede proveer a todos sus candidatos el feedback sobre su estado durante el proceso de selecci√≥n de forma eficiente eliminando la incertidumbre que dichos candidatos puedan generar durante el proceso.
+
+FALTA QUE REVISEN ESTE TEXTO, Y QUE VEA QUE LES SIRVE Y QUE NO PARA JUSTIFICAR SU INVESTIGACI√ìN
 
 
-A continuaciÛn, se proporciona el objetivo general del proyecto y los objetivos especÌficos que son necesarios desarrollar para lograr el objetivo general.
+A continuaci√≥n, se proporciona el objetivo general del proyecto y los objetivos espec√≠ficos que son necesarios desarrollar para lograr el objetivo general.
 
 4.4 Objetivo General
-Desarrollar una aplicaciÛn Web configurable para apoyar el proceso de reclutamiento y selecciÛn de personal de cualquier empresa.
+Desarrollar una aplicaci√≥n Web configurable para apoyar el proceso de reclutamiento y selecci√≥n de personal de cualquier empresa.
 
-Para lograr dicho objetivo, es necesario definir las actividades que se llevaran a cabo, en forma de los objetivos especÌficos descritos a continuaciÛn:
+Para lograr dicho objetivo, es necesario definir las actividades que se llevaran a cabo, en forma de los objetivos espec√≠ficos descritos a continuaci√≥n:
 
-4.5 Objetivos especÌficos
+4.5 Objetivos espec√≠ficos
 
-Analizar y definir los requerimientos para la aplicaciÛn Web
-Trabajo a realizar: 
-Recopilar datos sobre los mÈtodos comunes de b˙squeda, evaluaciÛn y selecciÛn de personal utilizado por diversas empresas, utilizando  la tÈcnica de investigaciÛn documental (Google, Facebook, Microsoft, Crossover), y la tÈcnica de Focus Group (consiste en reunir a un grupo de 5 a 6 personas y conversar de manera informal, acerca de los mÈtodos de b˙squeda y selecciÛn de personal de empresas en los que hayan tenido experiencia), y utilizando la experiencia de los autores y el tutor del presente trabajo especial de grado
-Evaluar los focos de pÈrdidas para los actores tanto empresariales como personas empleables
-Elaborar una din·mica de b˙squeda evaluaciÛn y selecciÛn del personal que sea configurable que contribuya a automatizar el proceso de b˙squeda, selecciÛn y contrataciÛn de personal.
-Crear Diagramas que ilustran los datos b·sicos que se tienden a intercambiar durante la b˙squeda de empleo y su peso a la hora de estudiar un candidato.
-a-Realizar un levantamiento de requerimientos y elaborar una matriz de requerimientos a desarrollar en la aplicaciÛn, incluyendo requerimientos funcionales y no funcionales. Se anexa el documento de An·lisis de requerimientos preliminares para dar una idea de lo que se desea desarrollar.
+Analizar y definir los requerimientos para la aplicaci√≥n Web
+Trabajo a realizar:
+Recopilar datos sobre los m√©todos comunes de b√∫squeda, evaluaci√≥n y selecci√≥n de personal utilizado por diversas empresas, utilizando  la t√©cnica de investigaci√≥n documental (Google, Facebook, Microsoft, Crossover), y la t√©cnica de Focus Group (consiste en reunir a un grupo de 5 a 6 personas y conversar de manera informal, acerca de los m√©todos de b√∫squeda y selecci√≥n de personal de empresas en los que hayan tenido experiencia), y utilizando la experiencia de los autores y el tutor del presente trabajo especial de grado
+Evaluar los focos de p√©rdidas para los actores tanto empresariales como personas empleables
+Elaborar una din√°mica de b√∫squeda evaluaci√≥n y selecci√≥n del personal que sea configurable que contribuya a automatizar el proceso de b√∫squeda, selecci√≥n y contrataci√≥n de personal.
+Crear Diagramas que ilustran los datos b√°sicos que se tienden a intercambiar durante la b√∫squeda de empleo y su peso a la hora de estudiar un candidato.
+a-Realizar un levantamiento de requerimientos y elaborar una matriz de requerimientos a desarrollar en la aplicaci√≥n, incluyendo requerimientos funcionales y no funcionales. Se anexa el documento de An√°lisis de requerimientos preliminares para dar una idea de lo que se desea desarrollar.
 
-Realizar el diseÒo de la aplicaciÛn Web. 
+Realizar el dise√±o de la aplicaci√≥n Web.
 Trabajo a realizar:
 Estudiar posibles soluciones desde un punto de vista web que pemitan solventar los inconvenientes descritos en el planteamiento del problema
-Realizar procedimientos flexibles y configurables para que puedan adaptarse a cualquier empresa que requiera contrataciÛn de personal, sin importar su escala y complejidad.
-a- Elaborar Diagrama de casos de uso, diagrama de clases, diagrama de secuencia, el modelo de datos de la aplicaciÛn, diccionario de datos, e interfaces prototipo de la aplicaciÛn Web.
-b- Definir la arquitectura para el desarrollo de la aplicaciÛn Web, incluyendo los diversos mÛdulos de la aplicaciÛn.
-4 Definir los componentes de la aplicaciÛn Web que ser·n configurables o parametrizables de forma detallada.
+Realizar procedimientos flexibles y configurables para que puedan adaptarse a cualquier empresa que requiera contrataci√≥n de personal, sin importar su escala y complejidad.
+a- Elaborar Diagrama de casos de uso, diagrama de clases, diagrama de secuencia, el modelo de datos de la aplicaci√≥n, diccionario de datos, e interfaces prototipo de la aplicaci√≥n Web.
+b- Definir la arquitectura para el desarrollo de la aplicaci√≥n Web, incluyendo los diversos m√≥dulos de la aplicaci√≥n.
+4 Definir los componentes de la aplicaci√≥n Web que ser√°n configurables o parametrizables de forma detallada.
 Trabajo a realizar
-Definir los mÛdulos y funcionalidades de la aplicaciÛn de acuerdo a lo levantado en el objetivo anterior
-Definir quÈ se va a poder administrar, configurar o parametrizar de forma detallada, cÛmo lo van a parametrizar o administrar, como va a funcionar esto, identificando los flujos de trabajo de manera clara y sencilla 
-Seleccionar las tecnologÌas a utilizar para el desarrollo de las aplicaciones.
+Definir los m√≥dulos y funcionalidades de la aplicaci√≥n de acuerdo a lo levantado en el objetivo anterior
+Definir qu√© se va a poder administrar, configurar o parametrizar de forma detallada, c√≥mo lo van a parametrizar o administrar, como va a funcionar esto, identificando los flujos de trabajo de manera clara y sencilla
+Seleccionar las tecnolog√≠as a utilizar para el desarrollo de las aplicaciones.
 Definir un cronograma de trabajo para llevar a cabo el trabajo mencionado.
-Deben tener muy claro que se va a administrar, como lo van a administrar, y lo dem·s que he mencionado en este punto, porque es el eje central o la razÛn de ser del Trabajo Especial de Grado.
+Deben tener muy claro que se va a administrar, como lo van a administrar, y lo dem√°s que he mencionado en este punto, porque es el eje central o la raz√≥n de ser del Trabajo Especial de Grado.
 
-Desarrollar la aplicaciÛn Web
+Desarrollar la aplicaci√≥n Web
 Trabajo a realizar
-a- Desarrollar los requerimientos de la aplicaciÛn Web, utilizando las mejores pr·cticas de programaciÛn, incluyendo documentaciÛn de cÛdigo y uso de patrones de diseÒo, y tÈcnicas de InteracciÛn-Humano Computador, que contribuyan a agilizar los procesos de reclutamiento y selecciÛn de personal
+a- Desarrollar los requerimientos de la aplicaci√≥n Web, utilizando las mejores pr√°cticas de programaci√≥n, incluyendo documentaci√≥n de c√≥digo y uso de patrones de dise√±o, y t√©cnicas de Interacci√≥n-Humano Computador, que contribuyan a agilizar los procesos de reclutamiento y selecci√≥n de personal
 
-Realizar pruebas sobre la aplicaciÛn Web
+Realizar pruebas sobre la aplicaci√≥n Web
 Trabajo a realizar
-a-Realizar pruebas sobre la aplicaciÛn utilizando TDD (Test Driven Development)
+a-Realizar pruebas sobre la aplicaci√≥n utilizando TDD (Test Driven Development)
 b-Documentar el resultado de las pruebas obtenidas
-c-Generar lecciones aprendidas en relaciÛn al uso de TDD.
-Elaborar los manuales de instalaciÛn y de uso de las aplicaciones
+c-Generar lecciones aprendidas en relaci√≥n al uso de TDD.
+Elaborar los manuales de instalaci√≥n y de uso de las aplicaciones
 Trabajo a realizar
-a- Elaborar un manual detallado de instalaciÛn de la aplicaciÛn Web
-b- Elaborar manual detallado que permita al usuario utilizar la aplicaciÛn Web
+a- Elaborar un manual detallado de instalaci√≥n de la aplicaci√≥n Web
+b- Elaborar manual detallado que permita al usuario utilizar la aplicaci√≥n Web
 
-Realizar una demostraciÛn de uso de la aplicaciÛn
+Realizar una demostraci√≥n de uso de la aplicaci√≥n
 
 Resumen de objetivos
 
@@ -576,7 +587,7 @@ Resumen de objetivos
 Objetivo general
 
 
-Objetivos especÌficos
+Objetivos espec√≠ficos
 
 
 Actividades a realizar
@@ -584,183 +595,180 @@ Actividades a realizar
 
 4.6 Alcances y Limitaciones
 
-El trabajo a realizar y las limitaciones que los autores consideran que se pueden encontrar en dicha investigaciÛn, son las siguientes:
+El trabajo a realizar y las limitaciones que los autores consideran que se pueden encontrar en dicha investigaci√≥n, son las siguientes:
 
 4.6.1 Alcance
-El presente estudio tiene como alcance crear una aplicaciÛn web que permite a los usuarios de una determinada empresa, realizar la b˙squeda de oportunidades laborales y postularse, pasar por una serie de procedimientos que los ayuden a encontrar soluciones a sus necesidades.
+El presente estudio tiene como alcance crear una aplicaci√≥n web que permite a los usuarios de una determinada empresa, realizar la b√∫squeda de oportunidades laborales y postularse, pasar por una serie de procedimientos que los ayuden a encontrar soluciones a sus necesidades.
 
-Los aspectos puntuales que comprende la investigaciÛn est·n referidos a los estudios de los procedimientos que se aplican en ciertas pr·cticas de b˙squeda laboral y cÛmo evitar sus mayores defectos, de tal modo que se puedan plantear procedimientos que aprovechen mejor los recursos disponibles.
+Los aspectos puntuales que comprende la investigaci√≥n est√°n referidos a los estudios de los procedimientos que se aplican en ciertas pr√°cticas de b√∫squeda laboral y c√≥mo evitar sus mayores defectos, de tal modo que se puedan plantear procedimientos que aprovechen mejor los recursos disponibles.
 
-Cabe destacar que se analizaran diferentes mÈtodos comunes de reclutamiento, es imposible abarcar todas las pr·cticas ya que existen mÈtodos tan especÌficos de ciertas empresas, o que usan combinaciones de tÈcnicas tan ligeramente intercambiables que no vale la pena estudiarlas.  
+Cabe destacar que se analizaran diferentes m√©todos comunes de reclutamiento, es imposible abarcar todas las pr√°cticas ya que existen m√©todos tan espec√≠ficos de ciertas empresas, o que usan combinaciones de t√©cnicas tan ligeramente intercambiables que no vale la pena estudiarlas.
 
 4.6.2 Limitaciones
-El presente trabajo especial de grado se limita a la creaciÛn de una aplicaciÛn web que presenta una soluciÛn genÈrica, que sea utilizable y  configurable  por una empresa determinada, para agilizar los procesos de reclutamiento, evaluaciÛn, selecciÛn y contrataciÛn de personal; y para proporcionar flexibilidad y comodidad para las personas que deciden postularse a las vacantes planteadas por dichas empresas.
+El presente trabajo especial de grado se limita a la creaci√≥n de una aplicaci√≥n web que presenta una soluci√≥n gen√©rica, que sea utilizable y  configurable  por una empresa determinada, para agilizar los procesos de reclutamiento, evaluaci√≥n, selecci√≥n y contrataci√≥n de personal; y para proporcionar flexibilidad y comodidad para las personas que deciden postularse a las vacantes planteadas por dichas empresas.
 
-Entre las limitaciones que podrÌan afectar la calidad de la informaciÛn obtenida para proceder a elaborar el diseÒo, el desarrollo y utilizaciÛn de la aplicaciÛn Web, se mencionan las siguientes:
+Entre las limitaciones que podr√≠an afectar la calidad de la informaci√≥n obtenida para proceder a elaborar el dise√±o, el desarrollo y utilizaci√≥n de la aplicaci√≥n Web, se mencionan las siguientes:
 
-Factores culturales o sociales: Pueden darse casos en que la aplicaciÛn pueda que no satisfaga las necesidades organizacionales, porque existen ciertas vacantes que requieren la aplicaciÛn de pruebas de tipo presencial en cada una de las etapas del proceso de evaluaciÛn y selecciÛn de personal, como el caso del personal que labora en las embajadas, que en algunos casos son sometidos a ex·menes de drogas, y al polÌgrafo, para determinar la veracidad de sus respuestas a lo largo de cada una de las etapa del proceso de selecciÛn.
+Factores culturales o sociales: Pueden darse casos en que la aplicaci√≥n pueda que no satisfaga las necesidades organizacionales, porque existen ciertas vacantes que requieren la aplicaci√≥n de pruebas de tipo presencial en cada una de las etapas del proceso de evaluaci√≥n y selecci√≥n de personal, como el caso del personal que labora en las embajadas, que en algunos casos son sometidos a ex√°menes de drogas, y al pol√≠grafo, para determinar la veracidad de sus respuestas a lo largo de cada una de las etapa del proceso de selecci√≥n.
 Entre otros de los factores pueden mencionarse la preferencia de algunas empresas de mantener un contacto cara a cara con los potenciales candidatos, resistencia al cambio, entre otras.
-Falta de instrumentos para mediciones tÈcnicas: El comportamiento humano varÌa mucho entre individuo e individuo, por lo que el tomar conclusiones del estado emocional, nivel de frustraciÛn, y similares, es cuando poco, un reto nada trivial, por lo tanto, la mayorÌa de los datos ser·n netamente basados en la interacciÛn de las personas con la aplicaciÛn y es por ello que estos datos tienden a ser aproximados. 
-CaracterÌsticas de las muestras: los instrumentos y metodos de recoleccion de datos sobre la aplicaciÛn y sus caracterÌsticas, son por lo general, encuestas, comentarios, sugerencias, cuestionarios, etc. Estos dados a su vez por personas con diferentes estratos, como por ejemplo, docentes, obreros, jefes de familia, comerciantes, etc, esa muestra de sujetos producen una calidad de informaciÛn a recolectar probablemente heterogÈnea, y que necesitar· ser interpretada.
-Sesgo del Sujeto: las respuestas que se obtendr·n de las encuestas o entrevistas, dependen del grado de conocimiento que tengan los sujetos, de sus opiniones y al ser estas preguntas muy puntuales, la informaciÛn que obtendremos de ellas ser· muy discreta.
-DisposiciÛn por parte de las personas en brindar informaciÛn o limitaciones de tiempo en sus ocupaciones laborales para responder dichos instrumentos.
-(En este orden deberÌamos desarrollar los puntos del capÌtulo 1) (intentare colocar algo que limite estos puntos, cuando consiga un buen ejemplo)
+Falta de instrumentos para mediciones t√©cnicas: El comportamiento humano var√≠a mucho entre individuo e individuo, por lo que el tomar conclusiones del estado emocional, nivel de frustraci√≥n, y similares, es cuando poco, un reto nada trivial, por lo tanto, la mayor√≠a de los datos ser√°n netamente basados en la interacci√≥n de las personas con la aplicaci√≥n y es por ello que estos datos tienden a ser aproximados.
+Caracter√≠sticas de las muestras: los instrumentos y metodos de recoleccion de datos sobre la aplicaci√≥n y sus caracter√≠sticas, son por lo general, encuestas, comentarios, sugerencias, cuestionarios, etc. Estos dados a su vez por personas con diferentes estratos, como por ejemplo, docentes, obreros, jefes de familia, comerciantes, etc, esa muestra de sujetos producen una calidad de informaci√≥n a recolectar probablemente heterog√©nea, y que necesitar√° ser interpretada.
+Sesgo del Sujeto: las respuestas que se obtendr√°n de las encuestas o entrevistas, dependen del grado de conocimiento que tengan los sujetos, de sus opiniones y al ser estas preguntas muy puntuales, la informaci√≥n que obtendremos de ellas ser√° muy discreta.
+Disposici√≥n por parte de las personas en brindar informaci√≥n o limitaciones de tiempo en sus ocupaciones laborales para responder dichos instrumentos.
+(En este orden deber√≠amos desarrollar los puntos del cap√≠tulo 1) (intentare colocar algo que limite estos puntos, cuando consiga un buen ejemplo)
 
-4.7 TecnologÌas propuestas 
-En particular, los autores determinaron cuales serÌan las tecnologÌas a utilizar en la capa de presentaciÛn o front-end, y cu·les serÌan las tecnologÌas a utilizar para el desarrollo del n˙cleo de la aplicaciÛn, o back-end, descritas a continuaciÛn:
+4.7 Tecnolog√≠as propuestas
+En particular, los autores determinaron cuales ser√≠an las tecnolog√≠as a utilizar en la capa de presentaci√≥n o front-end, y cu√°les ser√≠an las tecnolog√≠as a utilizar para el desarrollo del n√∫cleo de la aplicaci√≥n, o back-end, descritas a continuaci√≥n:
 
-4.7.1 TecnologÌas del lado del cliente (Capa de presentaciÛn)
-ESTE ES EL TEXTO QUE TENÕAN USTEDES PARA ESTA PARTE
-Las tecnologÌas del lado del cliente son ejecutadas e interpretadas del lado del cliente en una aplicaciÛn web, es decir, en el navegador web. En muchos casos el buen funcionamiento de estas tecnologÌas va a depender del tipo de navegador web y de la versiÛn de cada uno de ellos.
-Por lo general estas tecnologÌas son utilizadas para mostrar informaciÛn, darle formato a dicha informaciÛn, solicitar datos, etc. Entre las tecnologÌas que se explican a continuaciÛn est·n: el Lenguaje de Marcas de Hipertexto, Hojas de Estilo en Cascada, JavaScript y jQuery.
+4.7.1 Tecnolog√≠as del lado del cliente (Capa de presentaci√≥n)
+ESTE ES EL TEXTO QUE TEN√çAN USTEDES PARA ESTA PARTE
+Las tecnolog√≠as del lado del cliente son ejecutadas e interpretadas del lado del cliente en una aplicaci√≥n web, es decir, en el navegador web. En muchos casos el buen funcionamiento de estas tecnolog√≠as va a depender del tipo de navegador web y de la versi√≥n de cada uno de ellos.
+Por lo general estas tecnolog√≠as son utilizadas para mostrar informaci√≥n, darle formato a dicha informaci√≥n, solicitar datos, etc. Entre las tecnolog√≠as que se explican a continuaci√≥n est√°n: el Lenguaje de Marcas de Hipertexto, Hojas de Estilo en Cascada, JavaScript y jQuery.
 
 4.7.1.1 HTML 5
-ESTE ES EL TEXTO QUE TENÕAN USTEDES PARA ESTA PARTE
+ESTE ES EL TEXTO QUE TEN√çAN USTEDES PARA ESTA PARTE
 Lenguaje de Marcas de Hipertexto
-El Lenguaje de Marcas de Hipertexto, mejor conocido como HTML (HiperText Markup Language), ìes el lenguaje con el que se escriben las p·ginas web, haciendo uso de marcas (etiquetas) para describir la forma en la que deberÌan aparecer los textos y los gr·ficos en un navegador webî (EcuRed, 2012).
+El Lenguaje de Marcas de Hipertexto, mejor conocido como HTML (HiperText Markup Language), ‚Äúes el lenguaje con el que se escriben las p√°ginas web, haciendo uso de marcas (etiquetas) para describir la forma en la que deber√≠an aparecer los textos y los gr√°ficos en un navegador web‚Äù (EcuRed, 2012).
 
-HTML fue diseÒado por el fÌsico Tim Berners Lee en 1989, se publicÛ en un documento formal en 1991 y se convirtiÛ en un est·ndar para el desarrollo de p·ginas web en 1995, ya que ofrece una estructura b·sica para la definiciÛn del contenido que por lo general se encuentra en una p·gina web, como im·genes, texto, entre otros.
+HTML fue dise√±ado por el f√≠sico Tim Berners Lee en 1989, se public√≥ en un documento formal en 1991 y se convirti√≥ en un est√°ndar para el desarrollo de p√°ginas web en 1995, ya que ofrece una estructura b√°sica para la definici√≥n del contenido que por lo general se encuentra en una p√°gina web, como im√°genes, texto, entre otros.
 
-A partir de 1996, la World Wide Web Consortium (W3C), que es la organizaciÛn que define la mayorÌa de los est·ndares para el desarrollo web, se ha encargado de publicar constantes revisiones (HTML 3.2, HTML 4, HTML 4.01) de este est·ndar, ampli·ndolo y depur·ndolo con cada versiÛn. HTML 5 fue la ˙ltima revisiÛn aprobada por esta organizaciÛn, en el aÒo 2014.
+A partir de 1996, la World Wide Web Consortium (W3C), que es la organizaci√≥n que define la mayor√≠a de los est√°ndares para el desarrollo web, se ha encargado de publicar constantes revisiones (HTML 3.2, HTML 4, HTML 4.01) de este est√°ndar, ampli√°ndolo y depur√°ndolo con cada versi√≥n. HTML 5 fue la √∫ltima revisi√≥n aprobada por esta organizaci√≥n, en el a√±o 2014.
 
-HTML 5 establece una serie de nuevos elementos y atributos que reflejan el uso tÌpico de los sitios web modernos. Incorpora nuevas etiquetas con mayor significado sem·ntico, mejora la integraciÛn con las tecnologÌas de desarrollo web actual, permite desplegar objetos y animaciones en formato 3D (tridimensional), tiene un mejor soporte multimedia y ahorra la necesidad de tener que procesar medios de audio o video a travÈs de complementos instalados en el navegador web.
+HTML 5 establece una serie de nuevos elementos y atributos que reflejan el uso t√≠pico de los sitios web modernos. Incorpora nuevas etiquetas con mayor significado sem√°ntico, mejora la integraci√≥n con las tecnolog√≠as de desarrollo web actual, permite desplegar objetos y animaciones en formato 3D (tridimensional), tiene un mejor soporte multimedia y ahorra la necesidad de tener que procesar medios de audio o video a trav√©s de complementos instalados en el navegador web.
 
 En la Figura 5: se muestran las principales diferencias entre las etiquetas de HTML 4.01 y HTML 5
- donde se puede observar que con HTML 5 se disminuye el uso de la etiqueta <div> (utilizada para definir un bloque de contenido), y se introducen etiquetas con mayor significado sem·ntico para que la estructura de una p·gina web sea m·s f·cil de entender.
+ donde se puede observar que con HTML 5 se disminuye el uso de la etiqueta <div> (utilizada para definir un bloque de contenido), y se introducen etiquetas con mayor significado sem√°ntico para que la estructura de una p√°gina web sea m√°s f√°cil de entender.
 
-4.7.1.2  CSS3 (punto que yo coloque, debajo te coloque lo que ustedes hicieron en relaciÛn al tema)
+4.7.1.2  CSS3 (punto que yo coloque, debajo te coloque lo que ustedes hicieron en relaci√≥n al tema)
 Hojas de Estilo en Cascada
-Mientras que HTML permite definir la estructura una p·gina web, las Hojas de Estilo en Cascada (Cascading Style Sheets - CSS) son las que ofrecen la posibilidad de definir las reglas y estilos de representaciÛn en diferentes dispositivos, ya sean pantallas de equipos de escritorio, port·tiles, tabletas, celulares u otros dispositivos capaces de mostrar contenidos web (De Luca Dami·n, 2010).
-CSS fue diseÒado por HÂkon Wium Lie y Bert Bos entre 1994 y 1995 y se convirtiÛ en un est·ndar en 1996, con el nombre de CSS 1. Al igual que con HTML, la W3C se ha encargado de publicar constantes revisiones de este lenguaje, siendo la versiÛn CSS 2.1 el est·ndar actual que ofrece gran compatibilidad con la mayorÌa de los navegadores web del mercado.
-En el aÒo 2005 se comenzÛ a definir el sucesor de la versiÛn CSS 2.1, al cual se lo conoce como CSS 3, pero actualmente sigue en desarrollo y sÛlo se han publicado algunos borradores. Esta versiÛn a pesar de que a˙n no es compatible con todos los navegadores, ofrece una gran variedad de opciones muy importantes para las necesidades del diseÒo web actual, como funciones avanzadas de movimiento y transformaciÛn, opciones de bordes redondeados, sombras en textos y cajas, entre otras opciones, sin la necesidad de usar un editor gr·fico (De Luca Dami·n, 2010).
-La sintaxis del lenguaje CSS consta de elementos llamados reglas, las cuales se dividen en selectores y declaraciones, donde el selector es el identificador al que se le quiere dar la declaraciÛn de un conjunto de propiedades con sus valores, como se puede ver en la
+Mientras que HTML permite definir la estructura una p√°gina web, las Hojas de Estilo en Cascada (Cascading Style Sheets - CSS) son las que ofrecen la posibilidad de definir las reglas y estilos de representaci√≥n en diferentes dispositivos, ya sean pantallas de equipos de escritorio, port√°tiles, tabletas, celulares u otros dispositivos capaces de mostrar contenidos web (De Luca Dami√°n, 2010).
+CSS fue dise√±ado por H√•kon Wium Lie y Bert Bos entre 1994 y 1995 y se convirti√≥ en un est√°ndar en 1996, con el nombre de CSS 1. Al igual que con HTML, la W3C se ha encargado de publicar constantes revisiones de este lenguaje, siendo la versi√≥n CSS 2.1 el est√°ndar actual que ofrece gran compatibilidad con la mayor√≠a de los navegadores web del mercado.
+En el a√±o 2005 se comenz√≥ a definir el sucesor de la versi√≥n CSS 2.1, al cual se lo conoce como CSS 3, pero actualmente sigue en desarrollo y s√≥lo se han publicado algunos borradores. Esta versi√≥n a pesar de que a√∫n no es compatible con todos los navegadores, ofrece una gran variedad de opciones muy importantes para las necesidades del dise√±o web actual, como funciones avanzadas de movimiento y transformaci√≥n, opciones de bordes redondeados, sombras en textos y cajas, entre otras opciones, sin la necesidad de usar un editor gr√°fico (De Luca Dami√°n, 2010).
+La sintaxis del lenguaje CSS consta de elementos llamados reglas, las cuales se dividen en selectores y declaraciones, donde el selector es el identificador al que se le quiere dar la declaraci√≥n de un conjunto de propiedades con sus valores, como se puede ver en la
 Figura 6.
 
 Figura 7.
 
 
- muestra un ejemplo de cÛdigo CSS incrustado en HTML, para cambiar el tipo, el tamaÒo y el color de la fuente de un tÌtulo y un p·rrafo.
+ muestra un ejemplo de c√≥digo CSS incrustado en HTML, para cambiar el tipo, el tama√±o y el color de la fuente de un t√≠tulo y un p√°rrafo.
 
 
 4.7.1.3  Bootstrap  (Coloque este punto, lo de abajo es de ustedes)
-Bootstrap, es un marco de trabajo (framework) que permite crear interfaces web con las tecnologÌas de CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaÒo del dispositivo en que se visualice. Es decir, el sitio web se adapta autom·ticamente al tamaÒo de una computadora de escritorio o port·til, una tablet u otro dispositivo. Esta tÈcnica de diseÒo y desarrollo se conoce como diseÒo adaptativo (responsive design) (Solis, 2014).
+Bootstrap, es un marco de trabajo (framework) que permite crear interfaces web con las tecnolog√≠as de CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tama√±o del dispositivo en que se visualice. Es decir, el sitio web se adapta autom√°ticamente al tama√±o de una computadora de escritorio o port√°til, una tablet u otro dispositivo. Esta t√©cnica de dise√±o y desarrollo se conoce como dise√±o adaptativo (responsive design) (Solis, 2014).
 
 JavaScript, Jquery o 1 Framework Javascript como react, nodes, etc
 
 4.7.1.5 Un framework PHP o un framework en Phyton
 
-4.7.2 TecnologÌas del lado del servidor (N˙cleo de la aplicaciÛn)
+4.7.2 Tecnolog√≠as del lado del servidor (N√∫cleo de la aplicaci√≥n)
 Falta texto introductorio
 
 4.7.2.1	PHP o Python
-AquÌ pueden indican cual eligieron, que ventajas y desventjas posee el lenguaje.
+Aqu√≠ pueden indican cual eligieron, que ventajas y desventjas posee el lenguaje.
 
-4.7.2.2 Funcionalidades del framework PHP o del framework Phyton que seleccionen (las funcionalidades que los ayudarÌan al desarrollo de la aplicaciÛn)
-AquÌ pueden decir cual es el framework PHP, o el framework Python que seleccionaron, el porque de su elecciÛn, y que funcionalidades o potencialidades detectaron que tiene el framework para ayudarlos a desarrollar la aplicaciÛn Web
+4.7.2.2 Funcionalidades del framework PHP o del framework Phyton que seleccionen (las funcionalidades que los ayudar√≠an al desarrollo de la aplicaci√≥n)
+Aqu√≠ pueden decir cual es el framework PHP, o el framework Python que seleccionaron, el porque de su elecci√≥n, y que funcionalidades o potencialidades detectaron que tiene el framework para ayudarlos a desarrollar la aplicaci√≥n Web
 
-4.8	Patrones de diseÒo
-5.4.1	DefiniciÛn
-5.4.2	øPorquÈ utilizar patrones de diseÒo?
-5.4.3	Desventajas de utilizar patrones de diseÒo
+4.8	Patrones de dise√±o
+5.4.1	Definici√≥n
+5.4.2	¬øPorqu√© utilizar patrones de dise√±o?
+5.4.3	Desventajas de utilizar patrones de dise√±o
 
 4.9 BASE DE DATOS (Decir si vas a utilizar SQL Server, postgreSQL,etc)
 5.3.1	Triggers
 5.3.2	Store Procedures
-5.3.3	øPorquÈ postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4 
-5.3.4	øPorquÈ no utilizar una base de datos relacional?
-    5.3.5 øPorque no usar un framework de base de datos como Hibernate o Ibatis?
+5.3.3	¬øPorqu√© postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4
+5.3.4	¬øPorqu√© no utilizar una base de datos relacional?
+    5.3.5 ¬øPorque no usar un framework de base de datos como Hibernate o Ibatis?
 
-LES COLOQUE AC¡ EL CONTENIDO QUE USTEDES HABÕAN INVESTIGADO, PARA QUE VEAN SI LES SER¡ ⁄TIL O NO PARA RELLENAR LA PARTE DE BASE DE DATOS
+LES COLOQUE AC√Å EL CONTENIDO QUE USTEDES HAB√çAN INVESTIGADO, PARA QUE VEAN SI LES SER√Å √öTIL O NO PARA RELLENAR LA PARTE DE BASE DE DATOS
 Sistemas Manejadores de Bases de Datos
-Seg˙n Silberschatz A. et al. (2002) un Sistema Manejador de Base de Datos (SMBD) ìconsiste en una colecciÛn de datos interrelacionados y un conjunto de programas para acceder a dichos datosî y su objetivo principal ìes proporcionar una forma de almacenar y recuperar la informaciÛn de una base de datos de manera que sea tanto pr·ctica como eficienteî.
-En la actualidad existe una gran variedad de sistemas manejadores de bases de datos, muchos de ellos son propietarios o comerciales como Oracle, Microsoft SQL Server, IBM Informix, Sybase, etc. y otros no comerciales o de cÛdigo abierto como MySQL o PostgreSQL, siendo Èste ˙ltimo el que se explica a continuaciÛn.
+Seg√∫n Silberschatz A. et al. (2002) un Sistema Manejador de Base de Datos (SMBD) ‚Äúconsiste en una colecci√≥n de datos interrelacionados y un conjunto de programas para acceder a dichos datos‚Äù y su objetivo principal ‚Äúes proporcionar una forma de almacenar y recuperar la informaci√≥n de una base de datos de manera que sea tanto pr√°ctica como eficiente‚Äù.
+En la actualidad existe una gran variedad de sistemas manejadores de bases de datos, muchos de ellos son propietarios o comerciales como Oracle, Microsoft SQL Server, IBM Informix, Sybase, etc. y otros no comerciales o de c√≥digo abierto como MySQL o PostgreSQL, siendo √©ste √∫ltimo el que se explica a continuaci√≥n.
 PostgreSQL
-PostgreSQL es un potente Sistema Manejador de Base de Datos objeto-relacional, de cÛdigo abierto, que cuenta con m·s de 15 aÒos de desarrollo activo y una arquitectura probada que se ha ganado una sÛlida reputaciÛn por su fiabilidad, integridad de datos y correcciÛn (The PostgreSQL Global Development Group, 1996-2015).
-Trabaja muy bien con grandes cantidades de datos y una alta concurrencia de usuarios accediendo a la vez al sistema, por lo que se considera una herramienta que favorece a los usuarios con sistemas empresariales de gran tamaÒo.
-PostgreSQL se ha enfocado tradicionalmente en la fiabilidad, integridad de datos y caracterÌsticas integradas enfocadas al desarrollador. Tiene un planificador de consultas extremadamente sofisticado, que es capaz de unir cantidades relativamente grandes de tablas eficientemente (2ndQuadrant Ltd, 2001-2015).
-Se distribuye bajo la Licencia PostgreSQL, que es una licencia similar a la de la DistribuciÛn de Software de Berkeley (BSD) y a la del Instituto de TecnologÌa de Massachusetts (MIT), que permite a los usuarios hacer cualquier cosa que quieran con el cÛdigo, incluyendo la reventa de los binarios sin el cÛdigo (2ndQuadrant Ltd, 2001-2015).
+PostgreSQL es un potente Sistema Manejador de Base de Datos objeto-relacional, de c√≥digo abierto, que cuenta con m√°s de 15 a√±os de desarrollo activo y una arquitectura probada que se ha ganado una s√≥lida reputaci√≥n por su fiabilidad, integridad de datos y correcci√≥n (The PostgreSQL Global Development Group, 1996-2015).
+Trabaja muy bien con grandes cantidades de datos y una alta concurrencia de usuarios accediendo a la vez al sistema, por lo que se considera una herramienta que favorece a los usuarios con sistemas empresariales de gran tama√±o.
+PostgreSQL se ha enfocado tradicionalmente en la fiabilidad, integridad de datos y caracter√≠sticas integradas enfocadas al desarrollador. Tiene un planificador de consultas extremadamente sofisticado, que es capaz de unir cantidades relativamente grandes de tablas eficientemente (2ndQuadrant Ltd, 2001-2015).
+Se distribuye bajo la Licencia PostgreSQL, que es una licencia similar a la de la Distribuci√≥n de Software de Berkeley (BSD) y a la del Instituto de Tecnolog√≠a de Massachusetts (MIT), que permite a los usuarios hacer cualquier cosa que quieran con el c√≥digo, incluyendo la reventa de los binarios sin el c√≥digo (2ndQuadrant Ltd, 2001-2015).
 Algunas de las ventajas de PostgreSQL son:
-ï	Es cÛdigo abierto.
-ï	La velocidad de respuesta se mantiene al aumentar el tamaÒo de la base de datos, cosa que no sucede con otros programas que se suelen poner lentos.
-ï	Proporciona estabilidad y confiabilidad.
-ï	Tiene una gran capacidad de almacenamiento.
-ï	Soporta gran n˙mero de peticiones simult·neas a la base de datos de forma correcta.
-ï	Puede operar sobre distintas plataformas, incluyendo Linux, Windows, Unix, Solaris y MacOS X.
-ï	Provee un buen sistema de seguridad mediante la gestiÛn de usuarios, grupos de usuarios y contraseÒas.
-ï	Soporta los tipos de datos, cl·usulas, funciones y comandos de tipo est·ndar SQL92/SQL99 y extendidos propios de PostgreSQL.
+‚Ä¢	Es c√≥digo abierto.
+‚Ä¢	La velocidad de respuesta se mantiene al aumentar el tama√±o de la base de datos, cosa que no sucede con otros programas que se suelen poner lentos.
+‚Ä¢	Proporciona estabilidad y confiabilidad.
+‚Ä¢	Tiene una gran capacidad de almacenamiento.
+‚Ä¢	Soporta gran n√∫mero de peticiones simult√°neas a la base de datos de forma correcta.
+‚Ä¢	Puede operar sobre distintas plataformas, incluyendo Linux, Windows, Unix, Solaris y MacOS X.
+‚Ä¢	Provee un buen sistema de seguridad mediante la gesti√≥n de usuarios, grupos de usuarios y contrase√±as.
+‚Ä¢	Soporta los tipos de datos, cl√°usulas, funciones y comandos de tipo est√°ndar SQL92/SQL99 y extendidos propios de PostgreSQL.
 Algunas de las desventajas son:
-ï	En comparaciÛn con otros sistemas manejadores de base de datos, como por ejemplo MySQL, es m·s lento en inserciones y actualizaciones, ya que cuenta con cabeceras de intersecciÛn.
-ï	Cuenta con muchos foros oficiales de ayuda, pero no con una documentaciÛn de ayuda obligatoria.
-ï	La sintaxis de algunos comandos o sentencias no es tan intuitiva.
+‚Ä¢	En comparaci√≥n con otros sistemas manejadores de base de datos, como por ejemplo MySQL, es m√°s lento en inserciones y actualizaciones, ya que cuenta con cabeceras de intersecci√≥n.
+‚Ä¢	Cuenta con muchos foros oficiales de ayuda, pero no con una documentaci√≥n de ayuda obligatoria.
+‚Ä¢	La sintaxis de algunos comandos o sentencias no es tan intuitiva.
 
 Servicios Web
-5.4.1	øREST, SOAP, Restful, API rest?  
-5.4.2	øPorquÈ REST y no SOAP? 
+5.4.1	¬øREST, SOAP, Restful, API rest?
+5.4.2	¬øPorqu√© REST y no SOAP?
 5.4.3	Ventajas y desventajas
- 
- 
+
+
 6. Pruebas de las aplicaciones
-6.1	MetodologÌa a utilizar: TDD(Test Driven Development)
-6.1.1	DefiniciÛn
+6.1	Metodolog√≠a a utilizar: TDD(Test Driven Development)
+6.1.1	Definici√≥n
 6.1.2	Historia
-6.1.3	øPorquÈ seleccionar TDD?
-6.1.4	øCÛmo se instala?
-6.1.5	øCÛmo se utiliza?
+6.1.3	¬øPorqu√© seleccionar TDD?
+6.1.4	¬øC√≥mo se instala?
+6.1.5	¬øC√≥mo se utiliza?
 6.1.6	Depurar errores en TDD
 6.1.7	Ventajas
 6.1.8	Desventajas
- 
+
 7. Entregables preliminares
-7.1 Diagrama de casos de uso:  
+7.1 Diagrama de casos de uso:
 7.2 Diagrama de clases
- 7.3 Modelo de datos: 
+ 7.3 Modelo de datos:
 7.4 Diccionario de datos
-7.5 Manual de instalaciÛn
+7.5 Manual de instalaci√≥n
 7.6 Manual de usuario
-7.7 øPor quÈ no considerar m·s entregables?
- 
-8. BibliografÌa
+7.7 ¬øPor qu√© no considerar m√°s entregables?
+
+8. Bibliograf√≠a
 
 
-BibliografÌa
-(recomiendo que veas el documento correccion 1 que est· en la misma carpeta de este documento, est· full de referencias facilitadas por el tutor)
+Bibliograf√≠a
+(recomiendo que veas el documento correccion 1 que est√° en la misma carpeta de este documento, est√° full de referencias facilitadas por el tutor)
 (acontinuacion son otras que podrian ser de utilidad)
-REFERENCIAS BIBLIOGR¡FICAS Y DIGITALES
-Acosta A. (2011). AgilUs: un mÈtodo ·gil de desarrollo de software que incorpora la usabilidad. Centro de IngenierÌa de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela.
-Adobe Dreamweaver. (2015). Aspectos b·sicos de las aplicaciones Web. Recuperado en junio de 2015, de: https://helpx.adobe.com/es/dreamweaver/using/web-applications.html
-Beck K. et al. (2001). Manifiesto por el Desarrollo ¡gil de Software. Recuperado en junio 2015, de: http://www.agilemanifesto.org/iso/es/
-Borges C. y Rivero A. (2006). Generador de Sitios Web de Centros de InvestigaciÛn. Centro de IngenierÌa de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela. Recuperado en julio 2015, de: http://www.coordinv.ciens.ucv.ve/investigacion/genci/index.php
-C·ceres P. et al. (2001). Procesos ·giles para el desarrollo de aplicaciones web. Departamento de Ciencias Experimentales e IngenierÌa, Universidad Rey Juan Carlos, Madrid, EspaÒa. Recuperado en junio 2015, de: http://www.dlsi.ua.es/~jaime/webe/articulos/s112.pdf
-Calzada R. (2001). IntroducciÛn al Servicio de Directorio. Universidad Carlos III de Madrid, EspaÒa. Recuperado en mayo 2016, de: http://www.rediris.es/ldap/doc/ldap- intro.pdf
-CanÛs J., Letelier P. y PenadÈs M. (2003). MetodologÌas ¡giles en el Desarrollo de Software. Universidad PolitÈcnica de Valencia, EspaÒa. Recuperado en junio 2015, de: http://www.carlosfau.com.ar/nqi/nqifiles/XP_Agil.pdf
-Consejo Directivo del Observatorio Nacional de Ciencia, TecnologÌa e InnovaciÛn (ONCTI). (2015). Reglamento del Programa de EstÌmulo a la InnovaciÛn e InvestigaciÛn (PEII). Caracas, Venezuela. Recuperado en julio 2015, de: http://www.oncti.gob.ve/index.php?option=com_phocadownload&view=category&download =119:reglamento-del-programa-de-estimulo-a-la-innovacion-e-investigacion- peii&id=11:documentos&Itemid=92
-CoordinaciÛn de InvestigaciÛn. (2011). øQuiÈnes Somos?. Caracas, Venezuela: Facultad de Ciencias de la Universidad Central de Venezuela. Recuperado en julio 2015, de http://www.coordinv.ciens.ucv.ve/investigacion/quienes.php
+REFERENCIAS BIBLIOGR√ÅFICAS Y DIGITALES
+Acosta A. (2011). AgilUs: un m√©todo √°gil de desarrollo de software que incorpora la usabilidad. Centro de Ingenier√≠a de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela.
+Adobe Dreamweaver. (2015). Aspectos b√°sicos de las aplicaciones Web. Recuperado en junio de 2015, de: https://helpx.adobe.com/es/dreamweaver/using/web-applications.html
+Beck K. et al. (2001). Manifiesto por el Desarrollo √Ågil de Software. Recuperado en junio 2015, de: http://www.agilemanifesto.org/iso/es/
+Borges C. y Rivero A. (2006). Generador de Sitios Web de Centros de Investigaci√≥n. Centro de Ingenier√≠a de Software y Sistemas, Facultad de Ciencias, Universidad Central de Venezuela, Caracas, Venezuela. Recuperado en julio 2015, de: http://www.coordinv.ciens.ucv.ve/investigacion/genci/index.php
+C√°ceres P. et al. (2001). Procesos √°giles para el desarrollo de aplicaciones web. Departamento de Ciencias Experimentales e Ingenier√≠a, Universidad Rey Juan Carlos, Madrid, Espa√±a. Recuperado en junio 2015, de: http://www.dlsi.ua.es/~jaime/webe/articulos/s112.pdf
+Calzada R. (2001). Introducci√≥n al Servicio de Directorio. Universidad Carlos III de Madrid, Espa√±a. Recuperado en mayo 2016, de: http://www.rediris.es/ldap/doc/ldap- intro.pdf
+Can√≥s J., Letelier P. y Penad√©s M. (2003). Metodolog√≠as √Ågiles en el Desarrollo de Software. Universidad Polit√©cnica de Valencia, Espa√±a. Recuperado en junio 2015, de: http://www.carlosfau.com.ar/nqi/nqifiles/XP_Agil.pdf
+Consejo Directivo del Observatorio Nacional de Ciencia, Tecnolog√≠a e Innovaci√≥n (ONCTI). (2015). Reglamento del Programa de Est√≠mulo a la Innovaci√≥n e Investigaci√≥n (PEII). Caracas, Venezuela. Recuperado en julio 2015, de: http://www.oncti.gob.ve/index.php?option=com_phocadownload&view=category&download =119:reglamento-del-programa-de-estimulo-a-la-innovacion-e-investigacion- peii&id=11:documentos&Itemid=92
+Coordinaci√≥n de Investigaci√≥n. (2011). ¬øQui√©nes Somos?. Caracas, Venezuela: Facultad de Ciencias de la Universidad Central de Venezuela. Recuperado en julio 2015, de http://www.coordinv.ciens.ucv.ve/investigacion/quienes.php
 108
-Referencias bibliogr·ficas y digitales
-De Luca D. (2010). øQuÈ es CSS3? [Mensaje en un blog]. Recuperado en julio 2015, de: http://html5.dwebapps.com/que-es-css3/
-Directorio Nacional de Investigadores e Innovadores (DINA). (2015). øQuiÈnes somos?. Lima, Per˙. Recuperado en diciembre 2015, de http://dina.concytec.gob.pe/
+Referencias bibliogr√°ficas y digitales
+De Luca D. (2010). ¬øQu√© es CSS3? [Mensaje en un blog]. Recuperado en julio 2015, de: http://html5.dwebapps.com/que-es-css3/
+Directorio Nacional de Investigadores e Innovadores (DINA). (2015). ¬øQui√©nes somos?. Lima, Per√∫. Recuperado en diciembre 2015, de http://dina.concytec.gob.pe/
 EcuRed. (2012). Lenguaje de Marcado de Hipertexto. Cuba. Recuperado en julio 2015, de: http://www.ecured.cu/index.php/Lenguaje_de_Marcado_de_Hipertexto
 EcuRed. (2012). Directorio Activo. Recuperado en mayo 2016, de: http://www.ecured.cu/Directorio_Activo
-EspaÒa M. (2003). Servicios Avanzados de telecomunicaciÛn. Madrid, EspaÒa: Editorial DÌaz de Santos S.A.
-Graterol L., MagrÌ S y MarÌn S. (2014). PHP, Python o Ruby øQuÈ son y para quÈ sirve cada uno? [Mensaje en un blog]. Recuperado en julio 2015, de: http://blog.escuelaweb.net/php-python-o-ruby-para-que-sirve-cada-uno/
-Laudon K. y Laudon J. (2004). Sistemas de InformaciÛn Gerencial. MÈxico: Editorial Pearson EducaciÛn.
-Ministerio del Poder Popular para Ciencia, TecnologÌa e InnovaciÛn (MCTI). (21 de marzo de 2011). Gobierno Revolucionario fortalecer· las actividades cientÌfico tecnolÛgicas del paÌs. Caracas, Venezuela. Recuperado en julio 2015 de: http://www.mcti.gob.ve/actualidad/noticias/gobierno-revolucionario-fortalecera-las- actividades-cientifico-tecnologicas-del
+Espa√±a M. (2003). Servicios Avanzados de telecomunicaci√≥n. Madrid, Espa√±a: Editorial D√≠az de Santos S.A.
+Graterol L., Magr√≠ S y Mar√≠n S. (2014). PHP, Python o Ruby ¬øQu√© son y para qu√© sirve cada uno? [Mensaje en un blog]. Recuperado en julio 2015, de: http://blog.escuelaweb.net/php-python-o-ruby-para-que-sirve-cada-uno/
+Laudon K. y Laudon J. (2004). Sistemas de Informaci√≥n Gerencial. M√©xico: Editorial Pearson Educaci√≥n.
+Ministerio del Poder Popular para Ciencia, Tecnolog√≠a e Innovaci√≥n (MCTI). (21 de marzo de 2011). Gobierno Revolucionario fortalecer√° las actividades cient√≠fico tecnol√≥gicas del pa√≠s. Caracas, Venezuela. Recuperado en julio 2015 de: http://www.mcti.gob.ve/actualidad/noticias/gobierno-revolucionario-fortalecera-las- actividades-cientifico-tecnologicas-del
 Nielsen J. (1995). 10 Usability Heuristics for User Interface Design. Recuperado en mayo 2016, de: http://www.useit.com/papers/heuristic/heuristic_list.html
-Olivares C. (2012). GENCIñ2 Gestor de Contenido Modular Para la CoordinaciÛn de InvestigaciÛn De la Facultad de Ciencias de la UCV (tesis de pregrado). Escuela de ComputaciÛn, Facultad de Ciencias de la Universidad Central de Venezuela, Caracas, Venezuela.
+Olivares C. (2012). GENCI‚Äì2 Gestor de Contenido Modular Para la Coordinaci√≥n de Investigaci√≥n De la Facultad de Ciencias de la UCV (tesis de pregrado). Escuela de Computaci√≥n, Facultad de Ciencias de la Universidad Central de Venezuela, Caracas, Venezuela.
 Pentaho. (2012). PENTAHO. Recuperado en mayo de 2016, de http://www.pentaho.com/
-Piattini M. (1996). An·lisis y DiseÒo Detallado de Aplicaciones Inform·ticas de GestiÛn. Madrid, EspaÒa: Editorial Ra-Ma.
+Piattini M. (1996). An√°lisis y Dise√±o Detallado de Aplicaciones Inform√°ticas de Gesti√≥n. Madrid, Espa√±a: Editorial Ra-Ma.
 Rails Guides. (2015). Ruby on Rails Guides (v4.2.4). Recuperado en julio 2015, de: http://guides.rubyonrails.org/
 109
-Referencias bibliogr·ficas y digitales
+Referencias bibliogr√°ficas y digitales
 Rivera J. (2012). Pentaho Data Integration (Kettle). Recuperado en mayo 2016, de: http://www.docfoc.com/pentaho-data-integration-56338932d4bf0
 Ruby Lang Org. (2015). Acerca de Ruby. Recuperado en julio 2015, de: https://www.ruby-lang.org/es/
-Sistema de AcreditaciÛn de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). Instrucciones. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
-Sistema de AcreditaciÛn de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). PAIC-UDO. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
-Silberschatz A., Korth H. y Sudarshan S. (2002). Fundamentos de Bases de Datos. (4ta ed.). Madrid, EspaÒa: Mc Graw Hill.
-Solis J. (2014). øQuÈ es bootstrap y cÛmo funciona en el diseÒo web?. Recuperado en mayo 2016, de: http://www.arweb.com/chucherias/editorial/%C2%BFque-es-bootstrap-y- como-funciona-en-el-diseno-web.htm
+Sistema de Acreditaci√≥n de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). Instrucciones. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
+Sistema de Acreditaci√≥n de los Investigadores de la Universidad de Oriente (SAI-UDO). (2011). PAIC-UDO. Venezuela. Recuperado en julio 2015, de: http://www.saiudo.ci- udo.com.ve/
+Silberschatz A., Korth H. y Sudarshan S. (2002). Fundamentos de Bases de Datos. (4ta ed.). Madrid, Espa√±a: Mc Graw Hill.
+Solis J. (2014). ¬øQu√© es bootstrap y c√≥mo funciona en el dise√±o web?. Recuperado en mayo 2016, de: http://www.arweb.com/chucherias/editorial/%C2%BFque-es-bootstrap-y- como-funciona-en-el-diseno-web.htm
 The PostgreSQL Global Development Group. (1996-2015). PostgreSQL. Recuperado en julio 2015, de: http://www.postgresql.org/about/
 W3Schools. (2015). AJAX Introduction. Recuperado en julio 2015, de: http://www.w3schools.com/Ajax/ajax_intro.asp
 2ndQuadrant Ltd (2001-2015). 2ndQuadrant Professional PostgreSQL. Recuperado en julio 2015, de: http://2ndquadrant.com/es/postgresql/
-
-
-
