@@ -698,15 +698,16 @@ Bootstrap, es un marco de trabajo (framework) que permite crear interfaces web c
 JavaScript, Jquery o 1 Framework Javascript como react, nodes, etc
 
 4.7.1.5 Un framework PHP o un framework en Phyton
-
+	Vamos a usar laravel, es estable, facil de diseñar en ambos lados cliente y servidor, y posee un ORM descente (manejador de base de datos) y el bastante popular asi que tiene bastante documentacion (se parece a ruby on rails asi que puedo adaptarme facil y tengo experiencia en este framework asi que ayuda a nuestros tiempos de desarrollo), es en PHP, 
 4.7.2 Tecnologías del lado del servidor (Núcleo de la aplicación)
 Falta texto introductorio
+laravel, chef, postgres, (tengo que buscar el equivalente a npm de php, se me olvido)
 
 4.7.2.1	PHP o Python
-Aquí pueden indican cual eligieron, que ventajas y desventjas posee el lenguaje.
+Aquí pueden indican cual eligieron, que ventajas y desventjas posee el lenguaje. (php, a menos que quieras django y python kevin. no  hay deventajas ni ventajas claras para el alcanze de nuestro proyecto ambos son lenguajes interpretados, pero python es mas preciso con los numeros, pero php tiene mas librerias por su antiguedad.)
 
 4.7.2.2 Funcionalidades del framework PHP o del framework Phyton que seleccionen (las funcionalidades que los ayudarían al desarrollo de la aplicación)
-Aquí pueden decir cual es el framework PHP, o el framework Python que seleccionaron, el porque de su elección, y que funcionalidades o potencialidades detectaron que tiene el framework para ayudarlos a desarrollar la aplicación Web
+Aquí pueden decir cual es el framework PHP, o el framework Python que seleccionaron, el porque de su elección, y que funcionalidades o potencialidades detectaron que tiene el framework para ayudarlos a desarrollar la aplicación Web (laravel, casi todo lo que trae por defecto es suficiente para nosotros de momento.)
 
 4.8	Patrones de diseño
 5.4.1	Definición
@@ -745,21 +746,30 @@ Algunas de las desventajas son:
 
 Servicios Web
 5.4.1	¿REST, SOAP, Restful, API rest?  
+	experiencia, rest
 5.4.2	¿Porqué REST y no SOAP? 
+el como trabajan los servicios e intuitividad, y orden
 5.4.3	Ventajas y desventajas
- 
+	
  
 6. Pruebas de las aplicaciones
 6.1	Metodología a utilizar: TDD(Test Driven Development)
 6.1.1	Definición
+	piensas como probar lo que vas a desarrollar, lo desarrollas y haces que la prueba pase, despues de que el codigo lo hagas funcionar, lo refactorizas
 6.1.2	Historia
 6.1.3	¿Porqué seleccionar TDD?
+	desarrollas mas lento, (por el trabajo extra), pero consigues bugs a la velocidad de la luz y el tiempo de desarrollo se hace mas predecible
 6.1.4	¿Cómo se instala?
+no se instala es una metodologia, solo necesitas que sea un framework lo suficientemente avanzado para que permita un suite de pruebas.
 6.1.5	¿Cómo se utiliza?
+	haces una bateria de pruebas para todo el sistema y pruebas al levantar el sistema de que todo este en orden
 6.1.6	Depurar errores en TDD
+	las pruebas te dicen que esta fallando.
 6.1.7	Ventajas
+	consigues bugs rapido, obtienes estabilidad y paz mental con cada nuevo modulo que desarrollas pues sabes de una vez cada vez que pruebas si algo falla 
 6.1.8	Desventajas
- 
+	tiendes a extender el tiempo de desarrollo pues prediseñas los modulos para ser testeables.
+ 	
 7. Entregables preliminares
 7.1 Diagrama de casos de uso:  
 7.2 Diagrama de clases
