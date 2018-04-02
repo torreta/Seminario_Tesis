@@ -12,7 +12,7 @@ Seminario
 Tópicos a considerar para el desarrollo de una aplicación Web orientada al área de Recursos humanos de cualquier organización
 
 
-Seminario 
+Seminario
 presentado ante la ilustre
 Universidad Central de Venezuela
 por los bachilleres
@@ -27,7 +27,7 @@ Caracas, Octubre de 2017
 Te recomiendo que veas por youtube como crear el template de estilos para APA, así no nos toca configurar manualmente las líneas, etc, ya que estos estilos pueden cargarse desde una plantilla.
 hay maneras de generar automáticamente los índices, ergo, igual, averigua cómo se hace porque es útil saberlo, (son cosas principalmente de Word y no de google doc, pero podemos importar este documento desde aquí y colocarle todos los formatos en un word 2010 o algo asi, seria cuestion de tener el documento casi listo)
 si encuentras información en internet que nos pueda servir (las referencias que nos dio el profesor por ejemplo, guardalas en marcadores y copialas en las referencias de este documento) te recomiendo que lo hagas cada vez que copies un segmento de lo que sea desde otro sitio ya que después es complicado recordar las referencias
-cada vez que copies algo desde otro sitio colocar esta marca <Ref (numero)> asi podemos poner el hipervínculo al glosario / referencia que le corresponde, eso le da dinamismo al documento 
+cada vez que copies algo desde otro sitio colocar esta marca <Ref (numero)> asi podemos poner el hipervínculo al glosario / referencia que le corresponde, eso le da dinamismo al documento
 links, cosas que consigas, copialas en referencias
 si escribiste algo nuevo y quieres que lo revise, hazle una nota o subraya con un color cualquiera que se note para saber que tengo que prestarle atención a la redacción o algo.
 si te sientes inspirado, escribe, después nos encargamos (me encargo) de que tenga el formato appa
@@ -46,11 +46,11 @@ cosas anotadas en azul, por lo general fueron observaciones hechas por el profes
 Índice General.........................................................................................................1
 Índice de figuras.....................................................................................................3
 Índice de cuadros										4
-I.	Introducción
-II. Capítulo I. Marco teórico
+I	Introducción
+II  Marco teórico
 
-2.1 Programación XP (Extremme Programming)¸AgilUs, o Scrum
-Prácticas básicas
+2.1 Programación XP (Extremme Programming)
+Prácticas básicas:
 Todo el equipo
 Planificación del esquema de trabajo
 Iteración de planificación
@@ -89,14 +89,14 @@ Propuesta económica al candidato
 
 5. Sistemas de recursos humanos
 
-6. Portales Web que proporcionan la búsqueda de empleo 
+6. Portales Web que proporcionan la búsqueda de empleo
 Bumeran.com
 LinkedIn.com
 Computrabajo.com
 
 7. Frameworks de desarrollo Web
 
-8. Sistemas manejadores de contenido 
+8. Sistemas manejadores de contenido
 
 9. Aplicaciones configurables o parametrizables
 
@@ -130,15 +130,15 @@ Propuesta económica
 Manuales de inducción de la empresa
 
 
-4.2 Propuesta de TEG                                                                                      
-4.3 Justificación                                                                                                
-4.4 Objetivo general                                                                                          
-4.5 Objetivos específicos    
-4.6 Alcance y limitaciones     
+4.2 Propuesta de TEG
+4.3 Justificación
+4.4 Objetivo general
+4.5 Objetivos específicos
+4.6 Alcance y limitaciones
 4.6.1 Alcance
 4.6.2 Limitaciones
-                                                                        
-Tecnologías propuestas 
+
+Tecnologías propuestas
 Tecnologías del lado del cliente (Capa de presentación)
 HTML 5
 CSS3
@@ -155,18 +155,18 @@ Un framework PHP o un framework en Phyton
 5.4.2	¿Porqué utilizar patrones de diseño?
 5.4.3	Desventajas de utilizar patrones de diseño
 
-4.9	Base de Datos (Decir si vas a utilizar SQL Server, postgreSQL,etc) 
+4.9	Base de Datos (Decir si vas a utilizar SQL Server, postgreSQL,etc)
 4.9.1	Triggers (hablar de si vas a utilizar triggers o store procedures)
 4.9.2	Store Procedures (hablar de si vas a utilizar triggers o store procedures)
-4.9.3	¿Porqué postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4 
-4.9.4	¿Porqué no utilizar una base de datos relacional?                                                              
+4.9.3	¿Porqué postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4
+4.9.4	¿Porqué no utilizar una base de datos relacional?
 ¿Porque no usar un framework de base de datos como Hibernate o Ibatis?
 
 5. Servicios Web
-5.1.	¿REST, SOAP, Restful, API rest?  
-5.2	¿Porqué REST y no SOAP? 
+5.1.	¿REST, SOAP, Restful, API rest?
+5.2	¿Porqué REST y no SOAP?
 5.3	Ventajas y desventajas
- 
+
 6. Pruebas de las aplicaciones
 6.1	Metodología a utilizar: TDD(Test Driven Development)
 6.1.1	Definición
@@ -179,16 +179,24 @@ Un framework PHP o un framework en Phyton
 6.1.8	Desventajas
 
 7. Entregables preliminares
-7.1 Diagrama de casos de uso:  
+7.1 Diagrama de casos de uso:
 7.2 Diagrama de clases
- 7.3 Modelo de datos: 
+ 7.3 Modelo de datos:
 7.4 Diccionario de datos
 7.5 Manual de instalación
 7.6 Manual de usuario
 7.7 ¿Por qué no considerar más entregables?
- 
 
-8. Bibliografía  	
+
+8. Bibliografía
+
+
+
+
+
+
+
+
 
 
 
@@ -205,7 +213,7 @@ Un framework PHP o un framework en Phyton
 
 
 
-	
+
 
 
 
@@ -230,17 +238,40 @@ Resultados por sexo ……………………………………………………
 
 
 
-
 
+
+
+
+
+
+Parte I
+
+ Introducción
+
+
+
+
+
+
+Capítulo 1
 Introducción
-Utilice lo que ustedes tenían y agregue algunas cosas de mi parte, otras las quite:
-Falta mejora la redacción
-La necesidad de contratar personal en las empresas viene dado por diferentes causas como expansión de la empresa, generación de nuevos puestos de trabajo, rotación de personal, un requerimiento o simple necesidad de fuerza laboral, y lo cual depende de las capacidades y aptitudes del talento humano, por lo cual es de vital importancia realizar una selección adecuada de aspirantes que contribuyan al éxito de las organizaciones.
+
+La necesidad de contratar personal en las empresas viene dado por diferentes causas como expansión de la empresa, generación de nuevos puestos de trabajo, rotación de personal, un requerimiento o simple necesidad de fuerza laboral, y lo cual depende de las capacidades y aptitudes del talento humano, por lo cual es de vital importancia realizar una selección adecuada de candidatos que contribuyan al éxito de las organizaciones.
+
 En la actualidad, la mayoría de los usuarios revisan portales de empleo a través de internet, y pueden visualizar información en relación a las vacantes de su interés. El usuario decide postularse, y de ser seleccionado comienza un proceso de evaluación por parte de la empresa.
+
 Dicho proceso involucra la interacción de la empresa y del usuario, y en el cual se origina una serie de inconvenientes para ambas partes, originando pérdidas de tiempo, dinero, de recursos humanos aptos para dichas vacantes, frustración, problemas de competitividad en las empresas, entre otras.
+
+
+
+
+
 Entre las causas se puede determinar la creación de procesos ineficiente en la selección, evaluación y contratación de talento humano que se encuentra en la búsqueda de oportunidades laborales; y en donde algunas empresas deciden crear sus propios procesos de selección, evaluación  y contratación de personal, y en otros casos, contratan a otras empresas para realizar dichas labores, pero incluso, las empresas especializadas en la búsqueda y selección de talento, han perdido a excelentes profesionales, por utilizar procesos convencionales que no les permite manejar un volumen considerable de candidatos, de forma eficaz.
-Por lo antes expuesto, se propone el desarrollo de una aplicación web, que sea configurable, que permita generar y ofrecer información acerca de las diferentes vacantes ofrecidas por una empresa, que permita definir y personalizar las diferentes etapas de de selección y evaluación de potenciales candidatos, que permitiendo atender a una gran cantidad de candidatos de manera simultánea, y proporcionales una respuesta rápida; en cada una de las etapas del proceso de selección; permitiendo que las empresas puedan descartar a diversos candidatos, de forma rápida y eficiente, sin originar los inconvenientes descritos; y que administre la información obtenida de los aspirantes de manera que permita generar métricas que la empresa pueda utilizar para tomar mejores decisiones acerca de sus procesos de selección. 
-Por dicha razón se ha optado por la propuesta de utilizar tecnologías del lado del cliente como Bootstrap, JavaScript, y jQuery; así como tecnologías del lado del servidor como el lenguaje de programación Java, y el Framework Java JSF(Java Server Faces), utilizado el patrón MCV, y patrones de diseño para su construcción, utilizando la metodología de desarrollo agilUs creada por la profesora Alecia Eleonora Acosta, profesora jubilada de la Universidad Central de Venezuela, ya que permiten un desarrollo ágil, divertido, robusto y con mucho soporte, además de proveer una abstracción entre la interfaz y la lógica de negocio de la aplicación, la portabilidad en sistemas UNIX y MAC, la reusabilidad, y facilidad de instalación de componentes sin costo alguno, aunado a que las tareas de programación a menudo involucran actividades muy engorrosas y difíciles de llevar a cabo y coordinar.
+
+Por lo antes expuesto, se propone el desarrollo de una aplicación web, que sea configurable, que permita generar y ofrecer información acerca de las diferentes vacantes ofrecidas por una empresa, que permita definir y personalizar las diferentes etapas de de selección y evaluación de potenciales candidatos, que permitiendo atender a una gran cantidad de candidatos de manera simultánea, y proporcionales una respuesta rápida; en cada una de las etapas del proceso de selección; permitiendo que las empresas puedan descartar a diversos candidatos, de forma rápida y eficiente, sin originar los inconvenientes descritos; y que administre la información obtenida de los candidatos de manera que permita generar métricas que la empresa pueda utilizar para tomar mejores decisiones acerca de sus procesos de selección.
+
+Por dicha razón se ha optado por la propuesta de utilizar tecnologías del lado del cliente como Bootstrap, JavaScript, y jQuery; así como tecnologías del lado del servidor como el lenguaje de programación Php, y el Framework Laravel, utilizado el patrón MCV, y patrones de diseño para su construcción, utilizando la metodología de desarrollo Extremo XP, ya que permiten un desarrollo rápido robusto y con mucho soporte documental de como aplicarlo, además de proveer una abstracciones útiles entre las fases del proyecto, aplicables al desarrollo y progreso de la aplicación, y que puede escalar sin importar la cantidad de personas e independientemente del propósito u de negocio de la aplicación.
+
 Adicionalmente,  se considera, el utilizar la metodología de gerencia de proyectos establecida por el PMI (Project Management Institute), para generar conocimientos y experiencia en dicha metodología para los autores del presente trabajo; y para permitir un control y seguimiento del desarrollo de la presente investigación y del trabajo especial de grado, que permita incrementar la posibilidad de que los trabajos establecidos finalicen en los tiempos estimados.
 El presente documento está estructurado de la siguiente manera:
 Parte I - Introducción: Sección en la que se expone el problema, de los métodos convencionales de reclutamiento y sus procesos. En resumen, la propuesta para solucionar dichos problemas.
@@ -252,18 +283,21 @@ Parte III - Propuesta de TEG: Se plantea el contexto del problema, la situación
 
 
 
+Parte II
+ Marco teórico
 
 
 
 
-Capítulo I. Marco teórico
-La presente sección ilustra los antecedentes y las bases conceptuales que sirven como base para el desarrollo del trabajo de investigación, lo cual es de vital importancia útil para elaborar en las una ideas que van naciendo de la investigación; por tal motivo, en el presente capítulo se trata en detalle el estado actual de aplicaciones relacionadas con la gestión de las personas como recursos humanos, conceptos sobre características de la aplicación propuesta  y conceptos relacionados.
-En este capítulo se hizo referencia a investigaciones realizadas por diversos autores, que sustentaron y contribuyeron al desarrollo del presente TEG, por aspectos teóricos que ayudaron a FALTA UN TEXTO ACA; a facilitar la comprensión de la información presentada en capítulos posteriores; y aspectos legales asociados al estudio del presente emprendimiento; descritos a continuación:
+
+
+La presente sección ilustra los antecedentes y las bases conceptuales que sirven como base para el desarrollo del trabajo de investigación, lo cual es de vital importancia útil para elaborar ideas que van naciendo de la investigación; por tal motivo, se trata en detalle el estado actual de aplicaciones relacionadas con la gestión de las personas como recursos humanos, conceptos sobre características de la aplicación propuesta  y conceptos relacionados, haciendo referencia a investigaciones realizadas por diversos autores, que sustentaron y contribuyeron al desarrollo del presente TEG, por aspectos teóricos que ayudaron a facilitar la comprensión de la información presentada en capítulos posteriores; y aspectos legales asociados al estudio del presente emprendimiento; descritos a continuación:
+
 Antecedentes
 En Venezuela y en otras partes del mundo se han realizado diversas aplicaciones web relacionadas con la gestión de contrataciones y filtrado de personas por capacidades profesionales. Por ejemplo, en Venezuela se cuenta con páginas web como Bumeran, compuTrabajo, Beebee, etc.
-Que son plataformas que ayudan a sus usuarios a encontrar empleo, tienen bastante cosas en común, pero en general se destacan por tener procedimientos cerrados e invariantes, que no ofrecen flexibilidad y que pueden resultar tediosos por la cantidad requerida de información bajo cualquier rol que se utilicen esas plataformas. 
+Que son plataformas que ayudan a sus usuarios a encontrar empleo, tienen bastante cosas en común, pero en general se destacan por tener procedimientos cerrados e invariantes, que no ofrecen flexibilidad y que pueden resultar tediosos por la cantidad requerida de información bajo cualquier rol que se utilicen esas plataformas.
 
-Características positivas y negativas de los antecedentes 
+Características positivas y negativas de los antecedentes
 Estos portales en su mayoría, por su largo tiempo de existencia ya han segmentado un gran número de usuarios, poseen diseños atractivos y funcionales,  así como también, recolectado una gran cantidad de información de miles de usuarios, poseen filtros, motores de búsqueda y clasificaciones por categorías, todos ellos, con el propósito de hacerle a los usuarios las búsquedas más simples, todos esas características son inspiración y guía de cómo ayudar a los usuarios a conseguir lo que quieren, en este caso empleo.
 Aunque, cabe destacar que, poseen algunas características que causan controversia, como lo sería la rigidez de sus estructuras, no permiten ninguna personalización, teniendo como característica común ser repositorios de curriculums y formularios de datos personales, y por la parte empresarial, poco más que un anuncio de periódico, no ofrecen herramientas como: pruebas, formularios hechos a la medida para el puesto de trabajo, preguntas cruciales, etc. eso justo es lo que queremos aportar con nuestra propuesta de trabajo de grado, hacer herramientas flexibles, que ayuden a seleccionar con mayor precisión los postulantes que desean una vacante y posean los requisitos necesarios para llenarla satisfactoriamente. ref.[1] (hice un txt con las ref aparte)
 
@@ -277,149 +311,670 @@ Velar porque las actividades que se publiquen en la aplicación sean legítimas 
 Estudiar y evaluar las proposiciones de cualquier institución que pueda aportar una significativa mejora a los procesos de contratación de personal, y hacer las mejoras correspondientes a los recursos y herramientas  del sistema.
 Divulgar el potencial investigativo y creador de la Facultad de Ciencias, así como los resultados de investigaciones ya realizadas, y los aportes que la universidad puede hacer para solucionar problemas de reclutamiento de personal.
 
-2.1 Programación XP (Extremme Programming)¸AgilUs, o Scrum
-3.1	Prácticas básicas
-3.1.1	Todo el equipo
-3.1.2	Planificación del esquema de trabajo
-3.1.3	Iteración de planificación
-3.1.4	Pruebas al cliente
-3.1.5	Pequeños entregables
-3.1.6.	Diseño simple
-3.1.7	Programación en parejas
-31.8 Pruebas de desarrollo
-3.1.9	Mejora de diseño
-3.1.10	Integración continúa
-3.1.11	Código de la propiedad colectiva
-3.1.12	Codificación standard
-3.1.13	Metáfora
-3.1.13	Desarrollo sostenible
-3.2 ¿En qué se diferencia de otras metodologías?
 
-3. Seguimiento y control del presente estudio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 2
+Programación Extrema XP
+2.1	Prácticas básicas XP
+Extreme Programming por su descripcion en ingles (XP) es un marco de desarrollo de software ágil que tiene como objetivo producir software de mayor calidad y una mejor calidad de vida para el equipo de desarrollo. XP es el más específico de los marcos ágiles con respecto a las prácticas de ingeniería apropiadas para el desarrollo de software.
+
+2.1.1	Todo el equipo
+Todos los contribuyentes a un proyecto de XP se sientan juntos, miembros de un equipo. Este equipo debe incluir un representante comercial, el "Cliente", que proporciona los requisitos, establece las prioridades y dirige el proyecto. Lo mejor es que el Cliente o uno de sus asistentes sea un usuario final real que conozca el dominio y lo que se necesita. El equipo, por supuesto, tendrá programadores. El equipo puede incluir probadores, que ayudan al Cliente a definir las pruebas de aceptación del cliente. Los analistas pueden servir como ayudantes para el Cliente, ayudando a definir los requisitos. Por lo general, hay un entrenador que ayuda al equipo a seguir el camino y facilita el proceso. Puede haber un gerente, proporcionando recursos, manejando la comunicación externa, coordinando actividades. Ninguno de estos roles es necesariamente propiedad exclusiva de un solo individuo: todos los miembros de un equipo de XP contribuyen de cualquier forma que puedan. Los mejores equipos no tienen especialistas, solo colaboradores generales con habilidades especiales.
+
+2.1.2	Planificación del esquema de trabajo
+La planificación de XP aborda dos preguntas clave en el desarrollo de software: predecir lo que se logrará antes de la fecha de vencimiento y determinar qué hacer a continuación. El énfasis está en dirigir el proyecto, lo que es bastante sencillo, más que en una predicción exacta de lo que se necesitará y cuánto tiempo tomará, lo cual es bastante difícil. Hay dos pasos clave de planificación en XP, que abordan estas dos preguntas:
+
+La planificación de versiones es una práctica en la que el cliente presenta las características deseadas a los programadores, y los programadores estiman su dificultad. Con las estimaciones de costos disponibles, y con el conocimiento de la importancia de las características, el Cliente establece un plan para el proyecto. Los planes de lanzamiento inicial son necesariamente imprecisos: ni las prioridades ni las estimaciones son realmente sólidas, y hasta que el equipo comience a trabajar, no sabremos cuán rápido irán. Sin embargo, incluso el primer plan de lanzamiento es lo suficientemente preciso para la toma de decisiones y los equipos de XP revisan el plan de lanzamiento regularmente.
+
+
+2.1.3	Iteración de planificación
+La planificación por iteración es la práctica mediante la cual el equipo recibe instrucciones cada dos semanas. Los equipos de XP crean software en "iteraciones" de dos semanas, entregando software útil en funcionamiento al final de cada iteración. Durante la Planificación de iteración, el Cliente presenta las características deseadas para las próximas dos semanas. Los programadores los dividen en tareas y estiman su costo (en un nivel de detalle más detallado que en la Planificación de versiones). En función de la cantidad de trabajo realizado en la iteración anterior, el equipo se registra para lo que se llevará a cabo en la iteración actual.
+Estos pasos de planificación son muy simples, sin embargo, brindan muy buena información y un excelente control de la dirección en manos del cliente. Cada dos semanas, la cantidad de progreso es completamente visible. No hay "noventa por ciento hecho" en XP: una historia característica se completó, o no fue. Este enfoque en la visibilidad da como resultado una pequeña y agradable paradoja: por un lado, con tanta visibilidad, el Cliente está en posición de cancelar el proyecto si el progreso no es suficiente. Por otro lado, el progreso es tan visible, y la capacidad de decidir qué se hará a continuación es tan completa, que los proyectos de XP tienden a ofrecer más de lo que se necesita, con menos presión y menos estrés
+
+2.1.4	Pruebas al cliente
+Como parte de la presentación de cada característica deseada, el cliente de XP define una o más pruebas de aceptación automatizadas para mostrar que la función está funcionando. El equipo crea estas pruebas y las usa para demostrarse a sí mismas, y al cliente, que la función se implementó correctamente. La automatización es importante porque con el paso del tiempo, las pruebas manuales se saltan. Eso es como apagar las luces cuando la noche se pone más oscura.
+
+Los mejores equipos de XP tratan las pruebas de sus clientes de la misma manera que lo hacen con las pruebas de programación: una vez que la prueba se ejecuta, el equipo la sigue funcionando correctamente a partir de entonces. Esto significa que el sistema solo mejora, siempre entallando hacia adelante, nunca retrocediendo.
+
+
+
+2.1.5	Pequeños entregables
+Los equipos de XP practican versiones pequeñas de dos maneras importantes:
+
+En primer lugar, el equipo lanza un software en ejecución y probado, que proporciona el valor comercial elegido por el Cliente en cada iteración. El Cliente puede utilizar este software para cualquier propósito, ya sea de evaluación o incluso de lanzamiento a usuarios finales (altamente recomendado). El aspecto más importante es que el software es visible y se entrega al cliente al final de cada iteración. Esto mantiene todo abierto y tangible.
+
+En segundo lugar, los equipos de XP también lanzan a sus usuarios finales con frecuencia. Los proyectos de XP Web se publican con la misma frecuencia que todos los días, en proyectos internos mensualmente o con mayor frecuencia. Incluso los productos envueltos se envían cada tres meses.
+
+Puede parecer imposible crear buenas versiones tan a menudo, pero los equipos de XP de todo el mundo lo hacen todo el tiempo. Consulte la integración continua para obtener más información al respecto, y tenga en cuenta que estos lanzamientos frecuentes se mantienen confiables debido a la obsesión de XP con las pruebas, como se describe aquí en Pruebas de clientes y Desarrollo.
+
+2.1.6.	Diseño simple
+Los equipos de XP crean software para un diseño simple pero siempre adecuado. Comienzan de manera simple, y a través de las pruebas de los programadores y la mejora del diseño, lo mantienen de esa manera. Un equipo de XP mantiene el diseño exactamente adecuado para la funcionalidad actual del sistema. No hay movimiento perdido, y el software siempre está listo para lo que viene después.
+El diseño en XP no es algo que ocurre una sola vez, o una cosa inicial, es algo que ocurre todo el tiempo. Hay pasos de diseño en la planificación de versiones y la planificación de iteraciones, además de que los equipos participan en sesiones de diseño rápido y revisiones de diseño a través de la refactorización, durante el transcurso de todo el proyecto. En un proceso incremental e iterativo como Extreme Programming, un buen diseño es esencial. Es por eso que hay tanto enfoque en el diseño a lo largo de todo el desarrollo.
+
+2.1.7	Programación en parejas
+Todo el software de producción en XP está construido por dos programadores, sentados uno al lado del otro, en la misma máquina. Esta práctica garantiza que todos los códigos de producción sean revisados ​​por al menos otro programador, y resulta en un mejor diseño, mejores pruebas y mejores códigos.
+
+Puede parecer ineficiente tener a dos programadores haciendo el "trabajo de un programador", pero lo contrario es cierto. La investigación sobre la programación de pares muestra que el emparejamiento produce mejores códigos casi al mismo tiempo que los programadores que trabajan solos. Así es: ¡dos cabezas realmente son mejores que una!
+
+Algunos programadores se oponen a emparejar la programación sin siquiera intentarlo. Toma algo de práctica hacerlo bien, y debes hacerlo bien durante unas semanas para ver los resultados. El noventa por ciento de los programadores que aprenden programación de pares lo prefiere, por lo que lo recomendamos a todos los equipos.
+
+El emparejamiento, además de proporcionar mejores códigos y pruebas, también sirve para comunicar el conocimiento en todo el equipo. Al cambiar de pareja, todos obtienen los beneficios del conocimiento especializado de todos. Los programadores aprenden, sus habilidades mejoran, se vuelven más valiosas para el equipo y la empresa. El emparejamiento, incluso por sí solo fuera de XP, es una gran victoria para todos.
+
+2.1.8 Pruebas de desarrollo
+La Programación Extrema está obsesionada con la retroalimentación, y en el desarrollo de software, una buena retroalimentación requiere buenas pruebas. Los mejores equipos de XP practican el "desarrollo basado en pruebas", trabajando en ciclos muy cortos para agregar una prueba y luego hacerla funcionar. Casi sin esfuerzo, los equipos producen código con casi el 100% de cobertura de prueba, lo que es un gran paso adelante en la mayoría de las tiendas. (Si sus programadores ya están haciendo pruebas más sofisticadas, más potencia para usted. ¡Sigan así, solo puede ayudar!)
+
+No es suficiente escribir pruebas: tienes que ejecutarlas. Aquí, también, la Programación Extrema es extrema. Estas "pruebas de programador" o "pruebas unitarias" se recopilan todas juntas, y cada vez que un programador publica algún código en el repositorio (y las parejas suelen publicar dos veces al día o más), cada una de las pruebas del programador debe ejecutarse correctamente. Cien por ciento, todo el tiempo! Esto significa que los programadores obtienen retroalimentación inmediata sobre cómo les está yendo. Además, estas pruebas proporcionan una ayuda inestimable a medida que se mejora el diseño del software.
+
+2.1.9	Mejora de diseño
+Extreme Programming se enfoca en entregar valor comercial en cada iteración. Para lograr esto en el transcurso de todo el proyecto, el software debe estar bien diseñado. La alternativa sería reducir la velocidad y finalmente atascarse. Así que XP usa un proceso de mejora continua del diseño llamado Refactoring, del título del libro de Martin Fowler, "Refactorización: mejorar el diseño del código existente".
+
+El proceso de refactorización se centra en la eliminación de la duplicación (una señal segura de diseño deficiente) y en aumentar la "cohesión" del código, al tiempo que reduce el "acoplamiento". La alta cohesión y el bajo acoplamiento han sido reconocidos como los sellos de un código bien diseñado durante al menos treinta años. El resultado es que los equipos de XP comienzan con un diseño bueno y simple, y siempre tienen un diseño bueno y simple para el software. Esto les permite mantener su velocidad de desarrollo, y de hecho generalmente aumenta la velocidad a medida que avanza el proyecto.
+
+Refactoring es, por supuesto, fuertemente respaldado por pruebas exhaustivas para asegurarse de que a medida que el diseño evoluciona, nada se rompe. Por lo tanto, las pruebas de los clientes y las pruebas del programador son un factor habilitador crítico. Las prácticas de XP se apoyan mutuamente: son más fuertes juntas que por separado.
+
+2.1.10	Integración continúa
+Los equipos de Extreme Programming mantienen el sistema completamente integrado en todo momento. Decimos que las construcciones diarias son para los débiles: los equipos de XP construyen varias veces al día.
+El beneficio de esta práctica se puede ver al pensar en proyectos de los que quizás hayas oído hablar (o incluso haber participado) en los que el proceso de compilación fue semanal o menos frecuente y generalmente condujeron al "infierno de la integración", donde todo se rompió y no uno sabía por qué.
+La poca integración conduce a problemas serios en un proyecto de software. En primer lugar, aunque la integración es fundamental para el envío de un buen código de trabajo, el equipo no tiene experiencia en ello y, a menudo, se delega a personas que no están familiarizadas con todo el sistema. En segundo lugar, el código integrado con poca frecuencia suele ser, diría normalmente, un código defectuoso. Los problemas se infiltran en el tiempo de integración y no son detectados por ninguna de las pruebas que tienen lugar en un sistema no integrado. En tercer lugar, el proceso de integración débil conduce a largas congelaciones de código. La congelación de códigos significa que tiene largos períodos de tiempo en los que los programadores podrían estar trabajando en funciones importantes que pueden enviarse, pero que esas funciones deben retenerse. Esto debilita su posición en el mercado o con sus usuarios finales.
+
+2.1.11	Código de la propiedad colectiva
+En un proyecto de Programación Extrema, cualquier par de programadores puede mejorar cualquier código en cualquier momento. Esto significa que todo el código obtiene el beneficio de la atención de muchas personas, lo que aumenta la calidad del código y reduce los defectos. También hay otro beneficio importante: cuando el código es propiedad de individuos, las características requeridas a menudo se colocan en el lugar equivocado, ya que un programador descubre que necesita una función en algún lugar del código que no le pertenece. El propietario está demasiado ocupado para hacerlo, por lo que el programador coloca la función en su propio código, donde no pertenece. Esto lleva a un código feo y difícil de mantener, lleno de duplicaciones y con baja (mala) cohesión.
+
+
+
+La propiedad colectiva puede ser un problema si las personas trabajan ciegamente en un código que no entendieron. XP evita estos problemas a través de dos técnicas clave: el programador prueba los errores de captura, y la programación de pares significa que la mejor manera de trabajar con códigos desconocidos es emparejarse con el experto. Además de garantizar buenas modificaciones cuando sea necesario, esta práctica difunde el conocimiento en todo el equipo.
+
+2.1.12	Codificación standard
+Los equipos de XP siguen un estándar de codificación común, por lo que todo el código del sistema se ve como si hubiera sido escrito por una única persona (muy competente). Los detalles del estándar no son importantes: lo importante es que todo el código parece familiar, en apoyo de la propiedad colectiva.
+
+2.1.13	Metáfora
+Los equipos de Extreme Programming desarrollan una visión común de cómo funciona el programa, lo que llamamos la "metáfora". En el mejor de los casos, la metáfora es una simple descripción evocativa de cómo funciona el programa, como "este programa funciona como una colmena de abejas, sale al polen y lo trae de vuelta a la colmena" como una descripción de una información basada en agentes sistema de recuperación.
+
+Algunas veces una metáfora suficientemente poética no surge. En cualquier caso, con o sin imágenes vívidas, los equipos de XP utilizan un sistema común de nombres para asegurarse de que todos entiendan cómo funciona el sistema y dónde buscar la funcionalidad que está buscando, o para encontrar el lugar adecuado para poner. la funcionalidad que está a punto de agregar
+
+2.1.14	Desarrollo sostenible
+Los equipos de Extreme Programming están a largo plazo. Trabajan duro y a un ritmo que puede mantenerse indefinidamente. Esto significa que trabajan horas extras cuando es efectivo, y que normalmente trabajan de tal manera que maximicen la productividad semana tras semana. En estos días se comprende bastante bien que los proyectos de la marcha de la muerte no son productivos ni producen software de calidad. Los equipos de XP están ahí para ganar, no para morir.
+
+2.2 ¿En qué se diferencia de otras metodologías?
+Extreme Programming es una disciplina de desarrollo de software basada en valores de simplicidad, comunicación, retroalimentación y valentía. Funciona al reunir a todo el equipo en presencia de prácticas simples, con suficientes comentarios para que el equipo pueda ver dónde están y para ajustar las prácticas a su situación única.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capitulo 3
+Seguimiento y control del presente estudio
+
+En el presente capítulo se explican los conceptos y metodologías referentes al estándar PMBOK (Project Management Body of Knowledge) para la administración de proyectos.
+
 3.1 Proyecto
 Un proyecto es un conjunto de objetivos que se llevan a cabo con la finalidad de crear un producto, servicio o resultado único que puede ser tangible o intangible que sea duradero. Los proyectos son temporales, es decir, que existe un principio y un final bien definidos, dicho final es alcanzado cuando se cumplen todos los objetivos o cuando se alcanzan los objetivos que pueden cumplirse. Esto se debe a que, durante la realización del proyecto, se puede determinar que algunos objetivos no pueden ser cumplidos, no podrán cumplirse a tiempo o ya no se consideran necesarios para el proyecto. Igualmente, un proyecto puede culminar sin cumplir los objetivos cuando el cliente o la persona que solicitó el proyecto decide terminar con el mismo al considerar que ya no es necesario su existencia.
 
 3.2 Gerencia del proyecto
 La Gerencia de proyectos es la disciplina de organizar y administrar los recursos de forma tal que un proyecto dado sea terminado completamente dentro de las restricciones de alcance, tiempo y coste planteados a su inicio.
-Dada la naturaleza única de un proyecto, en contraste con los procesos u operaciones de una organización, administrar un proyecto requiere de habilidades y competencias específicas. 
+Dada la naturaleza única de un proyecto, en contraste con los procesos u operaciones de una organización, administrar un proyecto requiere de habilidades y competencias específicas.
 
 
 3.3 Metodología de gestión de proyectos a utilizar
-La Metodología a utilizar para el desarrollo del proyecto es el Project Management Institute, constituido por un conjunto de fundamentos, estándares y pautas para la dirección de proyectos utilizando buenas prácticas o soluciones evaluadas por varias organizaciones cuyo consenso validan el valor y la utilidad de las mismas. 
+La Metodología a utilizar para el desarrollo del proyecto es el Project Management Institute, constituido por un conjunto de fundamentos, estándares y pautas para la dirección de proyectos utilizando buenas prácticas o soluciones evaluadas por varias organizaciones cuyo consenso validan el valor y la utilidad de las mismas.
 Del proceso de gestión del proyecto se realizarán los siguientes:
 
 3.3.1 Gestión del alcance del proyecto
 En este se determinan los procesos necesarios para definir y controlar qué objetivos serán incluidas para completar el proyecto de forma exitosa.
 La Gestión del alcance del proyecto se divide en seis procesos las cuales son:
 
-1.-Planificar Gestión del Alcance: en este proceso, se crea un plan de gestión de alcance en el que se documenta cómo es definido, validado y controlado el alcance del proyecto; ésta proporciona una guía y dirección sobre cómo será gestionado el alcance durante el desarrollo de un proyecto. Este proceso inicia con el análisis de la información contenida en la constitución del proyecto, plan y procesos de la organización y cualquier otro factor ambiental que pueda afectar a la organización, con la finalidad de reducir los riesgos de que ocurra una modificación de los alcances del proyecto.
+3.3.1.1 Planificar Gestión del Alcance
+En este proceso, se crea un plan de gestión de alcance en el que se documenta cómo es definido, validado y controlado el alcance del proyecto; ésta proporciona una guía y dirección sobre cómo será gestionado el alcance durante el desarrollo de un proyecto. Este proceso inicia con el análisis de la información contenida en la constitución del proyecto, plan y procesos de la organización y cualquier otro factor ambiental que pueda afectar a la organización, con la finalidad de reducir los riesgos de que ocurra una modificación de los alcances del proyecto.
 
-2.-Recopilar Requisitos: en este proceso es se identifican, documentan y gestionan todas las necesidades y requisitos del personal interesado para alcanzar los objetivos del proyecto; ésta proporciona la base para definir el alcance del proyecto incluyendo el del producto. En general, las organizaciones clasifican los requisitos en diferentes tipos dependiendo de las necesidades, tales como requisitos de negocio, técnicos, de transición, funcionales y no funcionales, etc.
-3.-Definir el Alcance: en este proceso se desarrolla una descripción detallada como los límites del producto o servicio mediante el análisis de los requisitos recopilados para especificar cuáles de dichos requisitos son incluidos y cuáles son excluidos del alcance del proyecto. Este proceso se desarrolla inicialmente describiendo en alto nivel la visión para el proyecto global y a medida que se realice iteraciones, se describen la planificación y requisito de forma detalladas.
 
-4.-Crear la EDT/WBS: en este proceso se subdividen los entregables y el trabajo del proyecto en componentes pequeños y fáciles de manejar usando EDT o Estructura de Descomposición del Trabajo lo que permite proporcionar una visión más estructurada de lo que debe entregarse. Dichos componentes son denominados paquetes de trabajo y en ellas se agrupan los artefactos, productos o entregables que son el resultado de un conjunto de actividades realizadas y no la actividad específica.
 
-5.-Validar Alcance: en este proceso se formaliza la aceptación de los entregables que se hayan completado, lo que aporta objetividad y mejor posibilidad de que el producto o servicio sea aceptado por medio de la evaluación de cada entregable individual. A diferencia del Control de Calidad, las salidas obtenidas como lo son la documentación de requisitos, datos de desempeño y bases del alcance son las que constituyen la base para realizar la validación y aceptación final.
 
-6.-Controlar el Alcance: en este proceso se monitorea el estado del alcance y las gestión de los cambios que puedan presentarse, lo que permite asegurar que todos los cambios, acciones preventivas o acciones correctivas se procesen a través del proceso de Control de Cambios.
 
+
+
+3.3.1.2 Recopilar Requisitos
+En este proceso es se identifican, documentan y gestionan todas las necesidades y requisitos del personal interesado para alcanzar los objetivos del proyecto; ésta proporciona la base para definir el alcance del proyecto incluyendo el del producto. En general, las organizaciones clasifican los requisitos en diferentes tipos dependiendo de las necesidades, tales como requisitos de negocio, técnicos, de transición, funcionales y no funcionales, etc.
+
+3.3.1.3 Definir el Alcance
+En este proceso se desarrolla una descripción detallada como los límites del producto o servicio mediante el análisis de los requisitos recopilados para especificar cuáles de dichos requisitos son incluidos y cuáles son excluidos del alcance del proyecto. Este proceso se desarrolla inicialmente describiendo en alto nivel la visión para el proyecto global y a medida que se realice iteraciones, se describen la planificación y requisito de forma detalladas.
+
+3.3.1.4 Crear la EDT/WBS
+En este proceso se subdividen los entregables y el trabajo del proyecto en componentes pequeños y fáciles de manejar usando EDT o Estructura de Descomposición del Trabajo lo que permite proporcionar una visión más estructurada de lo que debe entregarse. Dichos componentes son denominados paquetes de trabajo y en ellas se agrupan los artefactos, productos o entregables que son el resultado de un conjunto de actividades realizadas y no la actividad específica.
+
+
+
+
+3.3.1.5 Validar Alcance
+En este proceso se formaliza la aceptación de los entregables que se hayan completado, lo que aporta objetividad y mejor posibilidad de que el producto o servicio sea aceptado por medio de la evaluación de cada entregable individual. A diferencia del Control de Calidad, las salidas obtenidas como lo son la documentación de requisitos, datos de desempeño y bases del alcance son las que constituyen la base para realizar la validación y aceptación final.
+
+3.3.1.6 Controlar el Alcance
+En este proceso se monitorea el estado del alcance y las gestión de los cambios que puedan presentarse, lo que permite asegurar que todos los cambios, acciones preventivas o acciones correctivas se procesen a través del proceso de Control de Cambios.
 
 3.3.2 Gestión del tiempo
 En este se determinan los procesos necesarios para gestionar la terminación en el plazo del proyecto.
 La gestión del tiempo se divide en siete procesos las cuales son:
 
-1.-Planificar la Gestión del Cronograma: en este proceso se establecen los procedimientos, políticas y documentación para planificar, desarrollar, ejecutar y controlar el cronograma del proyecto, a su vez se establecen la forma en que se informa sobre posibles contingencias relativas al cronograma y cómo se manejan las mismas, proporcionando una guía y dirección de cómo se gestiona el proyecto durante el desarrollo del mismo.
+3.3.2.1 Planificar la Gestión del Cronograma
+En este proceso se establecen los procedimientos, políticas y documentación para planificar, desarrollar, ejecutar y controlar el cronograma del proyecto, a su vez se establecen la forma en que se informa sobre posibles contingencias relativas al cronograma y cómo se manejan las mismas, proporcionando una guía y dirección de cómo se gestiona el proyecto durante el desarrollo del mismo.
 
-2.-Definir las actividades: en este proceso se identifican y documentan las acciones a realizar para generar los entregables del proyecto lo que permite el desglose de los paquetes de trabajo generado con los EDT en actividades que proporcionan una base para estimar, programar, ejecutar, monitorear y controlar el trabajo del proyecto.
 
-3.-Secuenciar las actividades: en este proceso se identifican y documentan las relaciones entre las actividades a desarrollar del proyecto, generando una secuencia lógica para obtener la máxima eficiencia al tener en cuenta todas las restricciones del proyecto.
 
-4.-Estimar los recursos de las actividades: en este proceso se estiman el tipo, cantidades y características de materiales, personal, equipos, suministros y complementos requeridos para llevar a cabo cada una de las actividades, para estimar los costos y duración de la manera más precisa.
+3.3.2.2 Definir las actividades
+En este proceso se identifican y documentan las acciones a realizar para generar los entregables del proyecto lo que permite el desglose de los paquetes de trabajo generado con los EDT en actividades que proporcionan una base para estimar, programar, ejecutar, monitorear y controlar el trabajo del proyecto.
 
-5.-Estimar la duración de las actividades: en este proceso se estiman la cantidad de períodos de trabajos necesarios para finalizar las actividades individuales con los recursos ya asignados, esta constituye una entrada fundamental 	del desarrollo del cronograma ya que establece la cantidad de tiempo necesario para finalizar cada una de las actividades.
+3.3.2.3 Secuenciar las actividades
+En este proceso se identifican y documentan las relaciones entre las actividades a desarrollar del proyecto, generando una secuencia lógica para obtener la máxima eficiencia al tener en cuenta todas las restricciones del proyecto.
 
-6.-Desarrollar el Cronograma: en este proceso se analizan las secuencias de actividades, los requisitos de recursos y personal, duraciones y restricciones del cronograma para generar el modelo de programación del proyecto con fechas planificadas para completar las actividades del proyecto. Este proceso es iterativo ya que requiere el repaso y revisión de las estimaciones de duración y recursos para que el personal asignado pueda confirmar la fecha de inicio y fin para así evitar conflictos con los cronogramas de los recursos o actividades asignadas en otros ámbitos del proyecto.
+3.3.2.4Estimar los recursos de las actividades
+En este proceso se estiman el tipo, cantidades y características de materiales, personal, equipos, suministros y complementos requeridos para llevar a cabo cada una de las actividades, para estimar los costos y duración de la manera más precisa.
 
-7.-Controlar el Cronograma: en este proceso se monitorea el estado de las actividades del proyecto para actualizar y gestionar los cambios del cronograma dado el caso que sea necesario para cumplir el plan del proyecto, lo que permite detectar desviaciones y establecer las acciones correctivas y preventivas para minimizar el riesgo.
+3.3.2.5 Estimar la duración de las actividades
+En este proceso se estiman la cantidad de períodos de trabajos necesarios para finalizar las actividades individuales con los recursos ya asignados, esta constituye una entrada fundamental 	del desarrollo del cronograma ya que establece la cantidad de tiempo necesario para finalizar cada una de las actividades.
+
+3.3.2.6 Desarrollar el Cronograma
+En este proceso se analizan las secuencias de actividades, los requisitos de recursos y personal, duraciones y restricciones del cronograma para generar el modelo de programación del proyecto con fechas planificadas para completar las actividades del proyecto. Este proceso es iterativo ya que requiere el repaso y revisión de las estimaciones de duración y recursos para que el personal asignado pueda confirmar la fecha de inicio y fin para así evitar conflictos con los cronogramas de los recursos o actividades asignadas en otros ámbitos del proyecto.
+
+3.3.2.7 Controlar el Cronograma
+En este proceso se monitorea el estado de las actividades del proyecto para actualizar y gestionar los cambios del cronograma dado el caso que sea necesario para cumplir el plan del proyecto, lo que permite detectar desviaciones y establecer las acciones correctivas y preventivas para minimizar el riesgo.
 
 3.3.3 Gestión del costo del proyecto
 En este se determinan los procesos necesarios para planificar, estimar, presupuestar, financiar, gestionar y controlar los costos de modo que el proyecto finalice dentro del presupuesto aprobado.
  La gestión del costo del proyecto se divide en cuatro procesos las cuales son:
 
+3.3.3.1 Planificar la Gestión de los Costos
+En este proceso se establece las políticas, procedimientos y documentación requerido para planificar, gestionar, ejecutar el gasto y controlar los costos del proyecto proporcionando una guía y dirección sobre cómo se gestiona los costos del proyecto a lo largo del desarrollo.
 
-1.-Planificar la Gestión de los Costos: en este proceso se establece las políticas, procedimientos y documentación requerido para planificar, gestionar, ejecutar el gasto y controlar los costos del proyecto proporcionando una guía y dirección sobre cómo se gestiona los costos del proyecto a lo largo del desarrollo.
+3.3.3.2 Estimar los Costos
+En este proceso se desarrolla una estimación aproximada de los recursos monetarios requeridos para completar las actividades del proyecto. Esta estimación de costo se basan en la información existente de un momento determinado teniendo en cuenta el balance entre costo y riesgos, compartición de recursos y alquiler de equipos en caso de ser necesario.
 
-2.-Estimar los Costos: en este proceso se desarrolla una estimación aproximada de los recursos monetarios requeridos para completar las actividades del proyecto. Esta estimación de costo se basan en la información existente de un momento determinado teniendo en cuenta el balance entre costo y riesgos, compartición de recursos y alquiler de equipos en caso de ser necesario.
+3.3.3.3 Determinar el presupuesto
+En este proceso se suman los costos estimados de las actividades o paquetes de trabajo para establecer una línea de costos autorizados contemplando todos los fondos para ejecutar el proyecto, al establecer dicha línea, se puede controlar y monitorear el desempeño del proyecto.
 
-3.-Determinar el presupuesto: en este proceso se suman los costos estimados de las actividades o paquetes de trabajo para establecer una línea de costos autorizados contemplando todos los fondos para ejecutar el proyecto, al establecer dicha línea, se puede controlar y monitorear el desempeño del proyecto.
-
-4.-Controlar los Costos: en este proceso se monitorea el estado del proyecto para actualizar sus costos y gestionar cambios lo que permite detectar desviaciones con respecto al plan con el objetivo de tomar acciones preventivas y correctivas para minimizar el riesgo. 
+3.3.3.4 Controlar los Costos
+En este proceso se monitorea el estado del proyecto para actualizar sus costos y gestionar cambios lo que permite detectar desviaciones con respecto al plan con el objetivo de tomar acciones preventivas y correctivas para minimizar el riesgo.
 
 3.3.4 Gestión de calidad
 En este se determinan los procesos que establecen las políticas de calidad, objetivos y responsabilidades de calidad para que el proyecto cumpla con las necesidades.
  La gestión de calidad se divide en tres procesos las cuales son:
 
+3.3.4.1 Planificar Gestión de Calidad
+En este proceso se identifican los requisitos y estándares de calidad para los entregables del proyecto así como también la documentación de cómo se demuestra que el proyecto cumple con dichos requisitos y estándares lo que proporcio guía a los participantes del proyecto a cómo se gestiona y valida la calidad a lo largo del desarrollo. El desarrollo de este plan debe realizarse en paralelo a los planes de cronograma y costos.
 
-1.-Planificar Gestión de Calidad: en este proceso se identifican los requisitos y estándares de calidad para los entregables del proyecto así como también la documentación de cómo se demuestra que el proyecto cumple con dichos requisitos y estándares lo que proporcio guía a los participantes del proyecto a cómo se gestiona y valida la calidad a lo largo del desarrollo. El desarrollo de este plan debe realizarse en paralelo a los planes de cronograma y costos.
+3.3.4.2 Realizar Aseguramiento de Calidad
+En este proceso se realiza la auditoría de los requisitos de calidad y los resultados obtenidos por medio de las medidas de control de calidad lo que facilita la mejora de los procesos de calidad para garantizar que se utilicen los estándares de calidad adecuadas. Este proceso para garantizar la calidad busca construir confianza en que las salidas futuras o en curso se completarán de forma que cumplan los requisitos y expectativas establecidos.
 
-2.-Realizar Aseguramiento de Calidad: en este proceso se realiza la auditoría de los requisitos de calidad y los resultados obtenidos por medio de las medidas de control de calidad lo que facilita la mejora de los procesos de calidad para garantizar que se utilicen los estándares de calidad adecuadas. Este proceso para garantizar la calidad busca construir confianza en que las salidas futuras o en curso se completarán de forma que cumplan los requisitos y expectativas establecidos.
-
-3.-Controlar la Calidad: en este proceso se monitorea y registran los resultados de la ejecución de las actividades de calidad para evaluar el desempeño y sugerir cambios necesarios lo que permite identificar las causas de una calidad ineficiente del proceso o entregable y aplicar acciones para eliminarlas, y valida que los entregables cumple con los requisitos del personal interesado para la aceptación final.
+3.3.4.3 Controlar la Calidad
+En este proceso se monitorea y registra los resultados de la ejecución de las actividades de calidad para evaluar el desempeño y sugerir cambios necesarios lo que permite identificar las causas de una calidad ineficiente del proceso o entregable y aplicar acciones para eliminarlas, y valida que los entregables cumple con los requisitos del personal interesado para la aceptación final.
 
 3.2.5 Gestión de las comunicaciones
 En este se determinan los procesos necesarios para asegurar que la planificación, recopilación, creación, distribución, almacenamiento, recuperación, gestión, control, monitoreo y disposición final de la información del proyecto sean oportunos y adecuados, la comunicación genera puentes entre los diferentes interesados que pueden tener diferentes antecedentes y experiencias cuyas perspectivas impactan o influyen en la ejecución o resultado del proyecto.
  La gestión de las comunicaciones se divide en tres procesos las cuales son:
 
-1.-Planificar la Gestión de las Comunicaciones: en este proceso se desarrolla un enfoque y plan adecuados para la comunicación tomando en cuenta las necesidades y requisitos de información del personal interesado, identificando el enfoque a utilizar para comunicarse de forma eficaz y eficiente.
 
-2.-Gestionar las Comunicaciones: en este proceso se recopilan, distribuyen, almacenan, recuperan y realizan las disposición final de la información del proyecto lo que permite un flujo de comunicación eficaz y eficientes entre los interesados, adicionalmente, este proceso permite al personal interesado generar solicitudes de información adicional, en caso de ser necesario, de aclaración y debate usando el modelo de Emisor-Receptor que incorpora ciclos de retroalimentación para dar oportunidades de interacción o participación a los interesados.
 
-3.-Controlar las Comunicaciones: en este proceso se monitorean y controlan las comunicaciones a lo largo del ciclo de vida del proyecto para garantizar que la necesidad de información de los interesados se cumpla de forma eficaz y eficiente lo que asegura un flujo óptimo de información entre todos los participantes.
 
-4.Proceso de contratación de personal en las organizaciones
+
+3.2.5.1 Planificar la Gestión de las Comunicaciones
+En este proceso se desarrolla un enfoque y plan adecuados para la comunicación tomando en cuenta las necesidades y requisitos de información del personal interesado, identificando el enfoque a utilizar para comunicarse de forma eficaz y eficiente.
+
+3.2.5.2 Gestionar las Comunicaciones
+En este proceso se recopilan, distribuyen, almacenan, recuperan y realizan las disposición final de la información del proyecto lo que permite un flujo de comunicación eficaz y eficientes entre los interesados, adicionalmente, este proceso permite al personal interesado generar solicitudes de información adicional, en caso de ser necesario, de aclaración y debate usando el modelo de Emisor-Receptor que incorpora ciclos de retroalimentación para dar oportunidades de interacción o participación a los interesados.
+
+3.2.5.3 Controlar las Comunicaciones
+En este proceso se monitorean y controlan las comunicaciones a lo largo del ciclo de vida del proyecto para garantizar que la necesidad de información de los interesados se cumpla de forma eficaz y eficiente lo que asegura un flujo óptimo de información entre todos los participantes.
+
+
+
+
+
+
+
+
+Capitulo 4
+Proceso de contratación de personal en las organizaciones.
+En este capítulo se explica el proceso de contratación de personal aplicada por las organizaciones.
+
+4.1 Organización
+Una organización es un conjunto de personas y tareas estructuradas administrativamente para lograr metas u objetivos.
 Para las organizaciones, una de las prioridades es establecer fuentes de suministros de recursos humanos para ejecutar las funciones requeridas por la organización, por ello, las fuentes de recursos humanos se denominan fuentes de reclutamiento ya que una de sus funciones es representar los objetivos los cuales determinarán las técnicas de reclutamiento que se van a aplicar.
 
+4.2 Proceso de Contratación
 El proceso de contratación de personal en las organizaciones inicia con la identificación de los requerimientos necesarios que deben satisfacer los candidatos para que ocupen los puestos eficientemente denominado Perfil del Puesto. Este perfil se define elaborando profesiogramas, el cual es un documento técnico que organiza la relación, actuación y dependencia desde el punto de vista de gestión de talento humano, seguridad ocupacional y salud laboral, donde se representan los requisitos para el puesto de trabajo y se señalan de forma cuantitativa y cualitativa.
 
 Posterior a la definición de los requisitos se procede a realizar el reclutamiento, donde se identifica, selecciona y se mantiene las fuentes por el cual los candidatos pueden encontrar información sobre la organización, el puesto vacante, los requisitos y aptitudes para que éste pueda aplicar al puesto. Este reclutamiento puede ser por medio del reclutamiento interno, donde la organización intenta llenar las vacantes reubicando, ya sea ascendiendo o transfiriendo a los empleados que ya se encuentren en la organización; o por medio del reclutamiento externo donde la organización intenta llenar las vacantes utilizando las técnicas de reclutamiento como lo son folletos, carteles, contactando universidades, conferencias, publicación en revistas, etc.
 
-Luego, se procede a la fase de selección, el cual consiste en conocer de los candidatos potenciales sus aptitudes y cualidades con el fin de asignarle el puesto vacante acorde a sus características o rechazar al candidato si no posee las características necesarias.
+Luego, se procede a la fase de selección, el cual consiste en conocer de los candidatos potenciales, sus aptitudes y cualidades con el fin de asignarle el puesto vacante acorde a sus características o rechazar al candidato si no posee las características necesarias.
 
-La fase de selección inicia principalmente cuando el departamento de recursos humanos recibe los curriculums de los candidatos potenciales y estas son analizados para determinar las características y aptitudes en base a nivel de educación, experiencias laborales, cursos, títulos adquiridos, referencias laborales, entre otros. 
+4.2 Proceso de selección
+La fase de selección inicia principalmente cuando el departamento de recursos humanos recibe los curriculums de los candidatos potenciales y estas son analizados para determinar las características y aptitudes en base a nivel de educación, experiencias laborales, cursos, títulos adquiridos, referencias laborales, entre otros.
 
 Una vez seleccionado los candidatos cuyas aptitudes correspondan al perfil del puesto de la organización se procede a las entrevistas, donde por medio de una comunicación interpersonal (Entrevistador-entrevistado) permite al reclutador obtener información valiosa sobre el candidato, a través de preguntas, demostraciones, simulaciones o cualquier técnica aplicada por la organización que permita categorizar y evaluar la idoneidad del candidato para el puesto de trabajo.
 
-Posterior a la entrevista, se realizan pruebas psicológicas a los candidatos que continúan en el proceso, estas pruebas se dividen en: Psicométricos donde se evalúan las cualidades psíquicas del individuo como medición de inteligencia (comparación de la edad mental con la edad cronológica), rasgos de personalidad (reacción ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); Personalidad donde se evalúan las principales características del carácter del candidato para determinar factores como la adaptación a los cambios, capacidades de iniciativa, reacción ante situaciones de presión, motivación, estabilidad emocional, etc; Psicotécnicos donde se evalúan las capacidades y aptitudes intelectuales del candidato en relación al puesto ofertado por la organización, aptitudes como la memoria, percepción, capacidad de comunicarse, capacidad numérica, etc. 
+Posterior a la entrevista, se realizan pruebas psicológicas a los candidatos que continúan en el proceso, estas pruebas se dividen en: Psicométricos donde se evalúan las cualidades psíquicas del individuo como medición de inteligencia (comparación de la edad mental con la edad cronológica), rasgos de personalidad (reacción ante distintas situaciones), y rasgos proyectivos (aspiraciones futuras); de Personalidad donde se evalúan las principales características del carácter del candidato para determinar factores como la adaptación a los cambios, capacidades de iniciativa, reacción ante situaciones de presión, motivación, estabilidad emocional, etc; Psicotécnicos donde se evalúan las capacidades y aptitudes intelectuales del candidato en relación al puesto ofertado por la organización, aptitudes como la memoria, percepción, capacidad de comunicarse, capacidad numérica, etc.
 
-A su vez, dependiendo del tipo de vacante que se está ofertando, las se realizan pruebas de capacidad, donde se evalúa la capacidad intelectual por medio de pruebas técnicas, donde el candidato puede demostrar su experiencia y conocimientos de un tópico, prueba con simulaciones, donde se evalúa la capacidad del candidato de ejecutar sus funciones ante ciertas situaciones o acontecimientos que pudiesen ocurrir al ocupar el cargo.
+A su vez, dependiendo del tipo de vacante que se está ofertando, se realizan pruebas de capacidad, donde se evalúa la capacidad intelectual por medio de pruebas técnicas, donde el candidato puede demostrar su experiencia y conocimientos de un tópico, prueba con simulaciones para ejecutar sus funciones ante ciertas situaciones o acontecimientos que pudiesen ocurrir al ocupar el cargo.
 
 Finalmente, aquel o aquellos candidatos que fueron seleccionados se les hace entrega de una propuesta salarial, esta propuesta realizada por la organización presenta el salario, beneficios sociales, seguros o cualquier otro tipo de beneficios hecha habitualmente por escrito con la intención de incorporar al candidato a la organización. En este punto el candidato analiza la propuesta y evalúa las condiciones para determinar si la acepta o opta por retirarse de la selección al no cumplir con su expectativa.
+Capítulo 5
+Sistemas de recursos humanos
+En el presente capítulo se explican el sistema de recursos humanos, como participa dicho sistema en la organización y se describen las funciones claves que cumplen.
+
+5.1 Sistema de Recursos Humanos
+El sistemas de recursos humanos inicialmente eran encargados únicamente al área de contratación y gestión de contratos dentro de las organizaciones pero surgió la necesidad de un sistema para la selección, formación personal y nóminas. En la actualidad el sistema de recursos humanos se encargan de múltiples actividades además de las mencionadas desarrollando nuevas herramientas para la gestión del personal, como es la evaluación de desempeño, competencias. gestión de talentos, bonificaciones, retroalimentación con el personal de la empresa y el reclutamiento y selección de nuevo personal para ocupar los puestos vacantes de la organización.
+
+5.2 Funciones Claves del Sistema de Recursos Humanos
+5.2.1 Reclutamiento y Selección
+Se planifica con anticipación las necesidades para analizar los puestos vacantes y determinar las características y requisitos mínimos necesarios que debe poseer los candidatos potenciales que opten por postularse donde, utilizando técnicas de reclutamiento como el análisis del currículum vitae de los postulados, cuestionarios, entrevistas, test aptitudinales y revisión de referencias, se selecciona a aquellos candidatos que cumplan con los criterios para realizar las ofertas salariales y beneficios cuyo fin es incluir el nuevo recurso humano en el puesto vacante.
+
+5.2.2 Inducción
+Se realiza un acompañamiento durante los primeros días para transmitir la cultura de la organización, presentar el equipo de trabajo y el ambiente donde va a ejecutar sus actividades, presentar las medidas de seguridad aplicadas por la organización en caso de alguna emergencia, repasar las funciones y actividades que se esperan y finalmente aclarar las dudas del nuevo empleado en la organización.
+
+5.2.3 Capacitación
+El personal perteneciente a la organización puede requerir formación adicional ya sea para mejorar el desempeño de sus funciones o para realizar nuevas funciones, el sistema de recursos humanos debe planificar y ofrecer sindicatos, charlas, centros o profesores particulares que ofrecen cursos aplicados en el negocio de diversos como puede ser idiomas, herramientas informáticas, técnicas de ventas, nuevas tecnologías o redes sociales.
+
+5.2.4 Remuneraciones
+Se definen los sueldos y liquidación según las normas correspondientes y además determina las compensaciones de forma que sean equitativas, reflejen resultados y ayude a mantener la motivación de sus empleados.
+
+5.2.5 Motivación y clima laboral
+En este se asegura que el ambiente de trabajo sea agradable para todos los empleados que pertenecen a ella para mantener la motivaciòn y moral alta.
 
 
-Búsqueda de personal
-Entrevistas
-Pruebas psicológicas
-Procesos de evaluación
-Propuesta económica al candidato
-¿Porqué los candidatos aceptan o deciden rechazar propuestas laborales?
 
-5. Sistemas de recursos humanos
+Capítulo 6
+Portales Web que proporcionan la búsqueda de empleo
 
-6. Portales Web que proporcionan la búsqueda de empleo 
+Estos ejemplos en especial son válidos para el territorio Venezolano, y poseen buena reputación, a continuación una breve descripción de cada una, basándose en su reputación y algunas reseñas.
+
+
+
+
+
+
+
+
+Figura X - Interfaz del sitio web bumeran.com
 Bumeran
-LinkedIn 
-Computrabajo, etc
+Una opción donde cargar tu Currículum Vitae online y visualizar ofertas de empleo por cargo o provincia (entre otros filtros) es Búmeran. Con una interfaz bastante sencilla, solo tienes que marcar la opción de si prefieres cargar tu CV o si eres una empresa para comenzar a utilizarlo. Además de las ofertas normales, también puedes buscar por filtros como “part-time”, “full-time” o “pasantías”, entre otros.
 
-7. Frameworks de desarrollo Web
 
-8. Sistemas manejadores de contenido 
 
-9. Aplicaciones configurables o parametrizables
 
-10. Frameworks de desarrollo Web vs Sistemas manejadores de contenido para crear aplicaciones Web que sean configurables
- 
 
-Capítulo III. Marco metodológico
+
+
+
+Figura X - Interfaz del sitio web computrabajo.com
+CompuTrabajo
+Desde su página web CompuTrabajo se denomina como “la mayor red de trabajo de habla hispana”, y lo cierto es que cuenta con presencia en varios países. Puedes registrarte y buscar empleo por localización, cargos profesionales y categorías; además de que te llegarán las ofertas más ajustadas a tu perfil a tu propio correo electrónico. Con más de 12.000 ofertas de trabajo en Venezuela, el registro en esta web es completamente gratuito.
+
+
+
+
+
+
+
+Figura X - Interfaz del sitio web empleate.com
+Empléate
+Con más de 2.000.000 de usuarios y 80.000 empresas suscritas, esta web cuenta con miles de ofertas de empleo que se actualizan todo el tiempo. Regístrate en la plataforma y busca tu próximo trabajo por palabras clave, ciudad, cargo, estado y más categorías. Además de la posibilidad de buscar trabajo, Empléate cuenta con otros recursos como la capacitación a través de cursos online de pago.
+
+
+
+
+
+
+
+
+Figura X - Interfaz del sitio web buscojobs.com
+
+BuscoJobs
+Con presencia en más de veinte países, otra de las webs de búsqueda de empleo líderes en su rubro es BuscoJobs. Aquí también puedes buscar trabajo según las categorías de cargo o área profesional y ciudad, además de ofrecer otras interesantes herramientas que te ayudarán a posicionarte entre las empresas como el “Test de perfil laboral”.
+
+
+
+
+
+
+
+Figura X - Interfaz del sitio web trabajando.com
+Trabajando.com
+Con presencia en 10 países de habla hispana, la misión de Trabajando.com  su moto es “Dar mayor eficiencia, flexibilidad y transparencia al mercado laboral, generando día a día más oportunidades de trabajo para las personas y mejores candidatos para las empresas.”.  a pesar de ser una pagina de diseño sencillo, es funcional y ampliamente usado como plataforma de ayuda.
+
+
+
+
+
+Capitulo 7
+Framework de Desarrollo Web
+
+En el presente capítulo se explican los conceptos y objetivos de los frameworks de desarrollo web.
+
+7.1 Framework
+Un framework es una estructura de software que se componen de librerías y componentes personalizables para facilitar el desarrollo de una aplicación o componente de software.
+
+7.2 Framework de Desarrollo Web
+Análogamente, un framework de desarrollo Web es un tipo de framework cuyos componentes apoyan al desarrollo de sitios, aplicaciones y servicios webs dinámicos por medio de librerías que ofrecen funcionalidades estándares como la conexión con base de datos y mecanismos para facilitar la integración con otras herramientas para implementar las capas de negocio y presentación.
+
+7.3 Componentes de un Framework de Desarrollo Web
+Todo framework incluye un conjunto de componentes que facilitan el desarrollo de características y funcionalidades a la aplicación web, detalladas a continuación.
+
+
+
+
+
+7.3.1 Librerías
+Las librerías son una colección de recursos utilizados para el desarrollo de aplicaciones donde se incluye configuración de datos, documentación, código preescrito y rutinas, clases o tipos de datos.
+
+7.3.2 APIs (Application Program Interface)
+Un API o interfaz de programación de aplicaciones es un conjunto de rutinas, funciones y procedimientos útiles para conectar dos software entre sí para realizar la comunicación con la fuente de datos (back-end) con los datos a mostrar (front-end) ya sea en formato XML o JSON.
+
+7.3.3 Scaffolding
+Scaffolding es una técnica de programación soportado por los frameworks MVC (Modelo, Vista, Controlador) donde se especifica como y cuando se tiene acceso a la fuente de datos.
+
+7.3.4 AJAX
+La mayoría de los frameworks de desarrollo web incorporan la tecnología Asynchronous JavaScript And XML, mejor conocido como AJAX, el cual permite a los sitios web actualizarse de forma asíncrona realizando un intercambio de datos con el servidor sin la necesidad de recargar la página.
+
+Figura X - Ejemplo de una llamada AJAX
+
+7.3.5 Caching
+El proceso de Caching consiste en el almacenamiento de datos en la memoria caché, la memoria cache es un área de almacenamiento temporal que guarda archivos cargados de sitios webs de forma que al momento de abrir el mismo sitio nuevamente, esta cargue de forma más rápida incrementando el rendimiento.
+
+7.3.6 Seguridad
+Todo framework de desarrollo web provee mecanismos de seguridad, estos mecanismos buscan resguardar la información de personajes que no tengan acceso a ella, como información privada de los usuarios registrados, de la aplicación u organización en general.
+
+7.4 Objetivos Principales de un Framework
+Acelerar los tiempos de desarrollo de software por medio de librerías integradas con funcionalidades ya implementadas y probadas de forma exitosa.
+Facilita la reutilización de código a lo largo del desarrollo.
+Promover a la utilización de buenas prácticas de desarrollo de software, como lo son el uso de patrones de diseños.
+
+
+
+
+
+
+
+
+Capitulo 8
+Sistemas manejadores de contenido
+
+En el presente capítulo se explican que es sistema de manejador de contenido o CMS (Content Management System), como funciona y las ventajas que proveen el uso de dicho sistema.
+
+8.1 Sistema Manejador de Contenido
+Un sistema manejador de contenido o CMS (Content Management System) es un programa o aplicación alojado en línea que permite administrar, editar, crear y eliminar contenidos en un sitio web, permitiendo al usuario controlar el contenido que se muestra. Los datos o contenidos mostrados en el sitio web se alojan en una o varias bases de datos permitiendo:
+Modificar el contenido sin la necesidad de realizar modificaciones dentro  aplicación.
+Facilita la reutilización del contenido en distintas vistas, reduciendo los costos de mantenimiento y tasa de errores.
+Facilita el crecimiento de la aplicación.
+
+Los sistemas manejadores de contenido permiten proveer a usuarios con distintos roles y permisos de cualquier nivel para realizar modificaciones de contenido, datos o información que se muestra dando la ventaja de adaptarse a los nuevos formatos o tecnología de forma eficiente.
+
+
+
+8.2 Organización y Estructura de un CMS
+La información se encuentra organizadas en documentos y archivos, y a su vez, cada documento y archivo se encuentra dividido en uno o varios esquemas, esto permite clasificar la información o contenido que puede ser recuperado con facilidad para aplicarse en una plantilla o vista.
+
+La estructura de estos datos permiten que se puedan desarrollar procesos automatizados de mantenimiento de forma periódica o ante eventos que desencadenan el proceso.
+
+Todo el contenido se almacena en un formato nativo que permite a los desarrolladores utilizar herramientas de software para para la creación del contenido y mantenimiento del mismo. Cuando se recupera la información, el proceso de ensamblaje agrupa el contenido del documento o archivo de acuerdo al esquema asociado y lo formatea de acuerdo a la plantilla o vista en la que se muestre.
+
+8.3 Flujo de Trabajo de un CMS
+Los CMS se basan en el uso de flujos de trabajos para la administración de la información. En general todos los CMS incluyen flujos de trabajo por defecto, sin embargo, es posible realizar los flujos de forma personalizada de acuerdo a las necesidades de la organización.
+
+Los Flujos de Trabajo nos permiten determinar cómo se estructura el contenido, quién la estructura, como se sincroniza y finalmente como fluye el contenido en nuestra aplicación.
+
+
+8.3.1 Flujo de un CMS
+En todo CMS existe un Flujo de trabajo fundamental para la administración del contenido, como se muestra en la siguiente imagen.
+
+Figura X - Flujo de trabajo, funcionamiento de un CMS
+
+El jefe del diseño es quien se encarga de realizar el diseño, estructura, funcionalidades y accesibilidad creando un conjunto de plantillas donde se incluyen campos y regiones editables, características personalizables de navegación y de diseño dentro del sistema manejador de contenido. Debido a esto, el jefe de diseño tiene todos los derechos para la creación, edición y eliminación de los contenidos.
+
+Los contribuyentes de contenido son quienes se encargan de tomar las plantillas generadas por el jefe de diseño e incluyen el contenido o información en ellas para ser mostrado hacia el usuario. Debido a esto, los contribuyentes tienen derechos limitados en los que se incluye la edición y eliminación de elementos contenidos en las plantillas.
+
+Los editores son quienes se encargan de hacer revisiones a al conjunto de contenidos generados por contribuyentes y realizan ediciones tanto estructural como de diseño en caso de ser necesario. Debido a esto, los editores tienen únicamente derechos de moderación para realizar la edición de los elementos contenidos en las plantillas generadas por los contribuyentes.
+
+Los aprobadores son quienes se encargan de realizar la última revisión del contenido y, por medio de los lineamientos dictados por la empresa, se evalúa si dicho contenido es aceptable o no para mostrarse en el sitio web. Debido a esto, los aprobadores tienen derechos de moderación para aceptar o rechazar el contenido generado en las fases anteriores.
+
+Una vez que el contenido es diseñado, editado y revisado, cualquier usuario podrá acceder al recurso por medio del URL
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capitulo 9
+Aplicaciones configurables o parametrizables
+
+En toda aplicación ya sea simple o compleja como administración de aprendizaje, procesamiento de información, ingeniería de software y otras herramientas similares, es común proporcionar a los usuarios que interactúen con la aplicación la flexibilidad y libertad de realizar modificaciones a nivel de interfaz de usuario, para satisfacer las necesidades de accesibilidad y usabilidad a cada tipo de usuario que ingrese a la aplicación.
+
+Uno de los principales objetivos de un desarrollador al momento de realizar un proyecto es asegurarse que la experiencia sea óptima para cualquier tipo de usuario, realizando la aplicación de forma que sea fácil para los usuarios configurar el producto como lo deseen tomando en cuenta el impacto que la personalización, individualización y configuración específica tendrá en la experiencia final del usuario.
+
+9.1 Aplicaciones configurables para organizaciones o clientes
+
+Es importante en una aplicación configurable en el que una organización o cliente requiera de realizar cambios o personalizar la aplicación tenga acceso a los siguientes aspectos:
+
+
+
+
+
+9.1.1 Apariencia
+En cuanto a apariencia, para una organización es importante tener la posibilidad de realizar cambios en la forma que se muestra el contenido basado en datos, atributos de usuario (roles, clientes con mayores beneficios) o dominios, a su vez, las aplicaciones utilizados como servicios permiten el cambio de la marca o logotipo por la de la organización.
+
+
+Figura X - Ejemplo de Aplicación configurable en apariencia
+
+
+
+
+
+
+
+
+
+
+
+Figura X - Ejemplo de aplicación configurable en apariencia
+
+9.1.2 Plantilla o diseño
+En este aspecto, se dan alternativas al usuario de modificar la posición en que las diferentes funcionalidades o características de la aplicación se muestran, a su vez modificar la forma en que se muestra el contenido ya sea por cantidad de contenido en pantalla, o posición.
+
+Adicionalmente, en este aspecto se tiene la compatibilidad del diseño de la aplicación entre los distintos tamaños de los dispositivos y ambientes de trabajo.
+
+Es importante resaltar que todo cambio realizado por la organización o cliente debe ser guardado entre cada sesión y debe existir la posibilidad de revertir los cambios a una plantilla estándar o una versión anterior.
+
+
+Figura X - Ejemplo de como Google permite distribuir sus características
+
+
+Figura X - Ejemplo de una aplicación cuyo contenido puede ser desplazado
+9.1.3 Contenido
+En este aspecto se permite a la organización generar su propio contenido para ser mostrado en la aplicación. Esto se logra proporcionando una plantilla o interfaz en el que la organización pueda llenar un conjunto de campos u opciones de acuerdo a las necesidades y configurar el lenguaje en el que se muestra el contenido por medio de configuraciones de etiquetas globales .
+
+La complejidad de este aspecto parte de que la interfaz tiene que ser usable para que la organización pueda generar el contenido, esto se logra implementando soporte durante la creación de contenido, como entrenamiento, instrucciones en cada paso durante la creación, tutoriales cortos, y a su vez, realizando todas las validaciones necesarias para garantizar que lo que se esté creando cumpla con lo establecido; teniendo en cuenta de la dependencia lógica de los datos que pueden o no estar disponibles para la organización al momento generar el contenido.
+
+Figura X -Ejemplo configuración de etiquetas al generar un contenido
+
+
+Figura X - Ejemplo de configuración de prioridad y tamaño de las etiquetas
+
+9.1.4 Navegación
+Para las organizaciones es importante que las reglas de negocio y las terminologías se vean reflejadas en la navegación a través de la aplicación, por lo que la organización debe tener la posibilidad de dividir a los usuarios por roles.
+
+Los roles de usuario son componentes de una aplicación que definen qué es lo que se puede ver y qué tipo de modificación puede realizar, como borrar, modificar y generar contenidos y permiten asignar acceso a un conjunto de módulos según las funciones del rol.
+
+
+
+
+
+
+Figura X - Ejemplo de navegación dependiendo del rol de usuario
+
+
+9.1.5 Interacciones
+En este aspecto se define el flujo de la información de forma que se pueda configurar como los usuarios, dependiendo del rol asignado, ven la información. Esto se realiza generando flujos de información (parecido a un flujo de trabajo) donde se define qué información se ve, bajo qué condiciones la información será mostrada y en qué orden se muestra.
+
+Además del flujo, también se proveen herramientas para generar mensajes y notificaciones que serán enviados a usuarios suscritos a la aplicación por medio de correo electrónico o mensajes push en el caso de dispositivos móviles.
+
+Finalmente se definen las reglas de negocio, donde se asigna qué información recibe un usuario ante ciertos acontecimientos o eventos que ocurran en la aplicación.
+
+
+
+
+
+Figura X - Ejemplo de definición de flujo de información
+
+Figura X - Ejemplo de definición de reglas de negocio
+
+
+9.2 Evaluar cuando una aplicación debe ser configurable
+Una vez analizado todos los aspectos, hay que tomar en consideración el beneficio que trae si se desarrolla características que permitan al usuario personalizar la interfaz.
+
+Esta evaluación se realiza analizando los costos de implementación versus el beneficio obtenido, el valor que añade la personalización al usuario final de acuerdo al objetivo final de la aplicación y la seguridad de la información que los usuarios pueden manejar al momento de personalizar la aplicación.
+
+Para el tópico de este trabajo de Seminario es imprescindible que la aplicación final sea configurable, ya que las organizaciones que ingresen a ella deben tener la posibilidad de generar evaluaciones, información detallada sobre las ofertas de trabajo, inducciones, requerimientos y propuestas salariales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 10
+Frameworks de desarrollo Web vs Sistemas manejadores de contenido
+
+En este capítulo se analiza las ventajas y desventajas tanto de un framework de desarrollo Web como el de un sistema manejador de contenido (CMS) para el desarrollo de aplicaciones configurables.
+
+10.1 Framework de Desarrollo web para el desarrollo de aplicaciones configurables
+Un framework es un conjunto de librerías que hacen posible la generación de una aplicación utilizando código creado y probado de forma exitosa, esto nos trae una variedad de ventajas y desventajas detallados a continuación.
+
+10.1.1 Ventajas
+Por medio de un un framework, es más rápido el desarrollo de la Interfaz de programación de aplicaciones, esto facilita la forma en que se transfiere los datos de la aplicación y el cómo se procesa ya que el framework provee control total sobre los datos y provee compatibilidad con múltiples formatos. Todo esto provee facilidad al momento de generar plantillas configurables por los usuarios, determinando el qué y cómo puede personalizar su interfaz y cómo se maneja el pase de mensajes o información entre el servidor y la aplicación.
+
+
+
+
+
+Al usar un framework se tiene más flexibilidad al momento de desarrollar las funcionalidades de la aplicación, las librerías contenidas en un framework son adaptables a las necesidades de cada desarrollador y proveen funcionalidades bases que pueden expandirse por medio de complementos o addons desarrollados por el propio desarrollador o proporcionado por la comunidad.
+
+
+Finalmente un framework provee múltiples ambientes de desarrollo, estos ambientes refieren a dónde se ejecuta una aplicación de software. En el desarrollo de una aplicación, es importante separar los ambientes de desarrollos con el fin de tener control y asegurar la calidad del producto final. Entre los ambientes de desarrollo más utilizados tenemos el ambiente de desarrollo, donde los desarrolladores implementan características o funcionalidades a la aplicación; ambiente de pruebas o QA testing donde un conjunto de tester por medio de pruebas unitarias controladas prueban la aplicación validando la funcionalidad y los estándares de calidad; y finalmente el ambiente de producción donde el usuario final podrá ingresar a la aplicación final e interactuar con ella.
+
+Estos ambientes se pueden generar con facilidad gracias a la compatibilidad integrada de los framework con distintos manejadores de base de datos como MySQL, Postgress, etc. y browsers web como Google Chrome, Firefox, etc.
+
+
+
+
+
+
+10.1.2 Desventajas
+Una de las desventajas de un framework es el hecho de realizar constantes mantenimientos a la aplicación de acuerdo a las actualizaciones y mejoras del framework. Estas actualizaciones traen mejoras de rendimiento y velocidad de respuesta, funciones adicionales añadidas o provee nuevas implementaciones para facilitar el desarrollo de una aplicación, sin embargo, muchos de estas actualizaciones pueden causar que ciertas funciones dejen de funcionar y se tiene que realizar cambios importantes del código ya implementado y probado.
+
+A pesar de la libertad y flexibilidad que otorga un framework al momento de realizar el desarrollo de una aplicación, es importante que el desarrollador tenga un nivel alto de experticia para sacar provecho a todas la propiedades que el framework tiene para ofrecer.
+
+10.2 Sistema manejador de contenidos para el desarrollo de aplicaciones configurables
+Un sistema manejador de contenido es una aplicación web que se construye sobre una plataforma para administrar contenidos que pueden ser configurables, esto trae una variedad de ventajas y desventajas detalladas a continuación
+
+10.2.1 Ventajas
+Generar una aplicación Web utilizando un sistema manejador de contenido es rápido ya que la instalación de las mismas incluye un conjunto de plantillas y temas predefinidos preparados para ser utilizados por el desarrollador, permitiendo definir qué campos son configurables por el usuario final.
+
+
+
+Gracias a la comunidad de los diferentes sistemas manejadores de contenidos se pueden descargar e integrar todo tipo de addons y plugin de forma automática fácilmente configurables.
+
+El uso de un sistema manejador de contenido no requiere experiencia previa por lo que no es necesario tener experiencia alguna del sistema para usarlo e integrarlo con la aplicación web a desarrollar.
+
+10.2.2 Desventajas
+Una de las desventajas principales al utilizar un sistema manejador de contenido es la poca escalabilidad de las aplicaciones que se desarrollan en ella. Esto se debe a que las plantillas y plugin integradas en la aplicación no son escalables, es decir, añadir nuevas funcionalidades a un plugin existente es difícil o en algunos casos imposibles de lograr debido a las limitaciones inherentes de cada una de ellas.
+
+Otra desventaja es la seguridad del sistema manejador de contenido, en especial los que son open-source (código abierto), ya que al aumentar la popularidad puede generar interés a ladrones informáticos o hackers para analizar y buscar vulnerabilidades en el sistema. Estas vulnerabilidades pueden ocurrir no solo por el sistema en general, si no por los plugins desarrollado por la comunidad.
+
+
+
+
+
+
+10.3 Framework de desarrollo Web vs Sistema manejador de contenido para el desarrollo de aplicaciones configurables
+Luego de realizar el análisis de cada sistema junto a sus ventajas y desventajas, se pueden tomar varios aspectos que se debe tomar en consideración al momento de desarrollar una aplicación configurable, detallados a continuación.
+
+10.3.1 Seguridad
+Uno de los factores más importantes a tomar en cuenta a la hora de desarrollar una aplicación configurable es la seguridad de la información que se transmite en ella.
+
+Debido a que los sistemas manejadores de contenidos, en su mayoría, son open-source, los hackers o ladrones informáticos realizan el análisis del código fuente para encontrar vulnerabilidades, por lo que es necesario realizar un monitoreo constante de la versión del CMS ya que es importante realizar actualizaciones y parches a tiempo.
+
+Por otro lado los frameworks tienen su propio código personalizado es mucho más difícil encontrar fallas de seguridad, adicionalmente, los frameworks vienen con funciones integradas como parametrización de consultas SQL para proteger contra ataques de SQL Injection y scripts que permiten el cifrado y protección de datos contra los ataques más comunes.
+
+
+
+
+
+
+10.3.2 Personalización
+La instalación de un sistema manejador de contenido viene con un conjunto de funcionalidades y características que puedes fácilmente integrar en la aplicación web, sin embargo, puede existir limitaciones en dichas características causando complicaciones entre lo que se quiere hacer y lo que permite el CMS, por lo que se debe adaptar las funcionalidades a las necesidades específicas como por ejemplo limitar lo que el usuario puede personalizar en la aplicación.
+
+Con un framework se debe construir todo desde cero y requiere un alto nivel de experticia para implementarlas, sin embargo, permite crear características distintivas y únicas por lo que se puede moldear las funcionalidades para que cubran las expectativas del desarrollador dando libertad para permitir la personalización esperada de la aplicación por parte del usuario final.
+
+10.3.3 Flexibilidad
+Dependiendo del tipo de aplicación web, puede existir la necesidad de incorporar características o funcionalidades que no son comunes en un desarrollo de aplicación web.
+
+En el caso del sistema manejador de contenidos, si el componente no existe en los temas o plugins desarrollados por la comunidad es necesario realizar un desarrollo personalizado, ese desarrollo debe ser resuelto internamente o por medio de freelancing o agencias, incrementando los costos y tiempo de desarrollo.
+
+En cambio, un framework puede moldearse a las necesidades del desarrollador, por lo que un framework es más flexible para la integración de funcionalidades o características configurables para la aplicación web.
+10.3.4 Actualizaciones
+Finalmente, los sistema manejadores de contenidos suelen recibir actualizaciones que incluyen mejoras de rendimiento, seguridad, añadido de plantillas, plugins, funcionalidades y características. Dicha actualización se realiza de forma automática por medio de setups liberados por los creadores, facilitando la compatibilidad entre versiones.
+
+En cambio los frameworks de desarrollo web son actualizados con menor regularidad, y sin embargo, luego de cada actualización es importante validar la compatibilidad con versiones anteriores ya que ciertas funciones quedan obsoletas y por lo tanto retiradas del framework, causando que la aplicación deje de funcionar hasta que se realice una refactorización del código que sea compatible con la nueva versión del framework.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parte III. Marco metodológico
 Tipo de investigación
 Diseño de investigación
 Nivel de la investigación
@@ -437,41 +992,43 @@ Recursos
 En cuanto a la información documental consultada, se tuvo especial cuidado y respeto de los derechos de autor en diversos tópicos de interés emitidos por terceras personas, por lo que se hace referencia al autor original de las mencionadas.
 Cabe mencionar que aunado a lo expuesto anteriormente, se hace uso de las normas APA para la escritura de las referencias bibliográficas, y se indica el aporte de diversos autores que contribuyen a la realización de la presente investigación.
 
- 
- 
-Capítulo IV. Propuesta de Trabajo Especial de Grado
-En el presente capítulo se menciona el contexto de problema o situación actual, las interrogantes que surgieron de dicha situación, el objetivo general, los objetivos específicos, la justificación de la investigación, el alcance y limitaciones de dicha investigación, y la propuesta de trabajo especial de grado, expuestos a continuación
-Análisis y propuesta                                                                                           
-4.1 Contexto del problema
-     Caso de estudio 01: Sistemas de recursos humanos
-     Caso de estudio 02: Proceso de reclutamiento y selección de personal en las empresas
-Entrevistas
-Evaluación
-Selección
-Propuesta económica
-Manuales de inducción de la empresa
-TEXTO QUE SE HA REDACTADO PARA ESTA PARTE HASTA AHORA
-Caso de estudio: Sistemas de recursos humanos, y el proceso de reclutamiento y selección de personal en las empresas.
-Aquí pueden hablar del tema de las entrevistas, los procesos de evaluación, la selección del candidato, la presentación de la propuesta económica a la empresa, y los manuales de inducción a las empresas. 
-Además pueden hablar de lar rigidez de sistemas como Bumeran, computrabajo, empleate, y demás aplicaciones utilizadas para la búsqueda y selección de personal.
-LO QUE USTEDES COLOCARON:
-El proceso de reclutamiento y selección de empresas consta de una serie de etapas que se aplica a cada candidato que desee aplicar para el cargo ofrecido.
-Inicialmente, la empresa debe agendar y manejar el tiempo de tal forma que puedan atender a la mayor cantidad de candidatos en un día determinado, sin embargo, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en el menor tiempo posible debido a que, generalmente, dichas evaluaciones se realiza por una sola persona que dedica parte de su tiempo a aplicar el proceso de selección, evaluación y contratación de a un candidato a la vez lo que causa que el proceso sea lento lo que puede ocasionar que los candidatos decidan retirarse del proceso. 
-Las empresas realizan impresiones de cuestionarios y encuestas que son aplicados a cada candidato generando pérdidas económicas si el candidato decide abandonar el proceso de selección, o si no es seleccionado para continuar, y si el candidato es seleccionado, se encuentre con el escenario de que dicho candidato ya aceptó una propuesta laboral de otra empresa debido a la lentitud del proceso y falta de feedback a lo largo del proceso. La lentitud del proceso y falta de feedback deja al candidato en incertidumbre en determinar la posibilidad que tiene en ser seleccionado y poder incursionar en el vacante lo que causa que la empresa pierda candidatos potenciales durante el proceso.
-Las empresas, para reclutar al candidato ideal para la vacante, realizan diversos filtros que son aplicados a cada candidato a evaluar, lo que ocasiona que los candidatos se sientan incómodos ya que deben solicitar permisos laborales para asistir presencialmente a cada una de las etapas en el proceso de reclutamiento y selección, permisos que, son recuperados en tiempo de oficina o generan pérdidas monetarias en transporte, impresión de documentos como currículos, certificados, títulos, entre otros; esto ocasiona que los candidatos se retiren del proceso de selección por considerarlo lento, costoso y molesto.
-Finalmente, en algunas empresas, el candidato seleccionado es invitado a proponer la propuesta económica, esto es, conocer del candidato la adquisición salarial que considera ganar, o la misma empresa realiza la propuesta económica además de darle a conocer los beneficios laborales que la empresa provee a sus empleados y el ambiente de trabajo. En este punto la empresa debe decidir si las consideraciones salariales son accesibles para la empresa y proceder con el reclutamiento del candidato, o en el caso de que la aspiraciones del candidato son mayores a los que la empresa puede ofrecer el candidato es retirado del proceso de selección.
-En cualquiera de los casos donde el candidato fue contratado o no, la empresa ha perdido tiempo y dinero realizando dicho proceso, donde según el resultado, puede generar experiencias desagradables que motiva a futuros aspirantes a rechazar participación en el proceso de selección de otras vacantes ofrecidas por la empresa y generen referencias negativas hacia otros potenciales candidatos.
 
 
-Mejorar la redacción. 
-Aparte, necesitan decir cosas que tengan más importancia.
-Les recomiendo revisar el documento que les envíe, donde les coloco la estructura del seminario y la tesis. Hay una parte que dice Contexto del problema. Ahí hay cosas que ya pueden utilizar para el contexto del problema, y que serían un copiar y pegar, y además de las ideas que ustedes agreguen.
 
-ESTE FUE MI PRIMER APORTE  PARA ESTA PARTE
-Situación actual, o Contexto del problema
-Hoy en día, el éxito de las organizaciones y empresas depende en gran medida de una buena selección de aspirantes que desean aportar sus conocimientos, experiencias y aptitudes para mejorar el funcionamiento y desarrollo de las tareas de la empresa.
-La necesidad de reclutar nuevos aspirantes en las empresas viene dado por diferentes causas como requerir personal que contribuya a realizar, de forma eficaz y eficiente, una serie de actividades que contribuyan al logro de las diversas áreas de una organización y así alcanzar la misión y visión de dicha organización, o debido a factores externos tales como expansión de la empresa, lo que genera nuevos puestos de trabajos, pérdida de persona o despido, entre otros. 
-El proceso de reclutamiento de personal comienza a raíz de un requerimiento o solicitud que posee la empresa en desarrollar una serie de actividades, en un área determinada, donde la empresa carece de personal calificado para ejecutar dicha labor, donde posteriormente se procede a determinar: 
+
+
+
+
+
+
+
+
+
+Parte IV.
+
+Propuesta de Trabajo Especial de Grado
+
+
+
+
+
+
+
+
+Capítulo 10
+Análisis y Propuesta
+
+10.1 Caso de estudio
+Sistemas de recursos humanos, y el proceso de reclutamiento y selección de personal en las empresas.
+
+10.2 Situación actual
+Hoy en día, el éxito de las organizaciones y empresas depende en gran medida de una buena selección de candidatos que desean aportar sus conocimientos, experiencias y aptitudes para mejorar el funcionamiento y desarrollo de las tareas de la empresa.
+
+La necesidad de reclutar nuevos candidatos en las empresas viene dado por diferentes causas como requerir personal que contribuya a realizar, de forma eficaz y eficiente, una serie de actividades que contribuyan al logro de las diversas áreas de una organización y así alcanzar la misión y visión de dicha organización, o debido a factores externos tales como expansión de la empresa, lo que genera nuevos puestos de trabajos, pérdida de persona o despido, entre otros.
+
+El proceso de reclutamiento de personal comienza a raíz de un requerimiento o solicitud que posee la empresa en desarrollar una serie de actividades, en un área determinada, donde la empresa carece de personal calificado para ejecutar dicha labor, donde posteriormente se procede a determinar:
+
+
 El nombre de la vacante.
 Las actividades y responsabilidades que deben desempeñarse en la vacante.
 Requerimientos técnicos mínimos necesarios.
@@ -481,167 +1038,153 @@ Salarios
 Número de vacantes.
 
 Una vez que la empresa determina dichos datos sobre la vacante se procede a realizar la publicación de la vacante ya sea en el sitio web de la empresa o en sitios web donde potenciales candidatos pueden encontrar información de la vacante, donde posteriormente, se inicia un proceso de solicitud de una serie de candidatos para ocupar una vacante.
-Dicho proceso, se ejecuta de forma presencial donde el candidato consulta información del puesto y entrega los documentos para su postulación. De esta forma, la empresa debe emplear tiempo en atender a cada candidato que desee postularse, y el aspirante debe dirigirse a la empresa a entregar los documentos para su postulación, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos aspirantes serán seleccionados para continuar con el proceso de reclutamiento, donde se harán evaluaciones, entrevistas para conocer las expectativas del aspirante en la empresa, etc.
 
-Todos estos procesos consumen recursos (tiempo y costos) para ambos lados del proceso; la empresa suele realizar impresiones de cuestionarios o exámenes lo que genera pérdidas económicas si el aspirante decide retirarse del proceso o no es seleccionado para continuar, requiere de mayor personal para poder proveer un feedback a cada aspirante sobre el estado en el proceso de selección en un tiempo suficiente que no genere incertidumbre en el aspirante sobre su selección, y por otro lado, cada aspirante se siente incómodo con las diversas etapas que debe realizar durante el proceso de selección ya que deben solicitar permisos laborales para poder asistir a dichas etapas, todo esto causa una pérdida de dinero en transportes, impresión de los documentos necesarios por la empresa como currículos, certificaciones, títulos, entre otros lo que origina que un candidato abandone el proceso por ser muy lento y costoso.
-poco a poco ire quitando la redacción informal
+Dicho proceso, se ejecuta de forma presencial donde el candidato consulta información del puesto y entrega los documentos para su postulación. De esta forma, la empresa debe emplear tiempo en atender a cada candidato que desee postularse, y el candidato debe dirigirse a la empresa a entregar los documentos para su postulación, posterior a ello, de acuerdo a las necesidades de la empresa, ciertos candidatos serán seleccionados para continuar con el proceso de reclutamiento, donde se harán evaluaciones, entrevistas para conocer las expectativas del candidato en la empresa, etc.
 
-Para cualquier empresa está sobreentendida la necesidad de contratar nuevo personal constantemente, sobre todo si se tiene un crecimiento de cualquier magnitud, o cualquier tarea sin atender que podría ser crucial para el desarrollo y progreso de la empresa, es por eso que se tiene la necesidad no solo de contratar, sino de captar candidatos que llenen dichos roles de la manera más eficiente posible, es simple estadística, mientras más candidatos se puedan procesar procesar, más probabilidades se tienen de contratar a un candidato que satisfaga las expectativas de la organización.
+Todos estos procesos consumen recursos (tiempo y costos) para ambos lados del proceso; la empresa suele realizar impresiones de cuestionarios o exámenes lo que genera pérdidas económicas si el candidato decide retirarse del proceso o no es seleccionado para continuar, requiere de mayor personal para poder proveer un feedback a cada candidato sobre el estado en el proceso de selección en un tiempo suficiente que no genere incertidumbre en el candidato sobre su selección, y por otro lado, cada candidato se siente incómodo con las diversas etapas que debe realizar durante el proceso de selección ya que deben solicitar permisos laborales para poder asistir a dichas etapas, todo esto causa una pérdida de dinero en transportes, impresión de los documentos necesarios por la empresa como currículos, certificaciones, títulos, entre otros lo que origina que un candidato abandone el proceso por ser lento y costoso.
 
-Pero captar una gran cantidad de candidatos implica una gran cantidad de gasto de recursos para todos los involucrados, sea desde la empresa o desde el punto de vista de los candidatos, cualquiera que sea el gasto tiempo, dinero o material. 
-Entre algunos de los inconvenientes para los usuarios y para las empresas, se pueden mencionar los siguientes:
-Para el usuario:
-En algunos casos, es necesario que proporcione una documentación previa a la empresa, tales como: Currículum vitae impreso, copia de diplomas o títulos obtenidos, referencias laborales entre otras
-El usuario debe invertir tiempo y dinero en trasladarse a la sede de la empresa, y donde puede llevar consigo, o no recaudos de interés para la empresa contratante, según sea el caso.
-El usuario puede que en la primera entrevista no sea de su agrado lo que la empresa le comente, tales como: Temas asociados al horario laboral, la flexibilidad de horarios para poder laborar y estudiar en la organización, que el candidato considere que la duración del proceso de selección o evaluación es largo o   tedioso, y aún más cuando la empresa, no especifica los beneficios y expectativas económicas que puede ofrecerle; originandole pérdidas de tiempo, y dinero por conceptos de transporte, o costos inherentes a la impresión de curriculums, sacar copias de los títulos, diplomas o certificados.
-Si el usuario decide continuar con los procesos restantes establecidos por la empresa, o la empresa ha seleccionado a dicho candidato para continuar con el proceso, generalmente involucra que deberá realizar una serie de evaluaciones técnicas, psicologicas, y de demás aspectos de interés inherentes a la empresa contratante; para lo cual deberá trasladarse nuevamente al lugar de ubicación de la empresa, originándole gastos por conceptos de transporte, invertir tiempo en horas laborales, lo cual, en la mayoría de los casos, implica que los candidatos deberán solicitar permisos laborales para asistir a dichos procesos, y luego recuperar o poner su trabajo al día.
-Algunas empresas demora tiempos considerables en proporcionar una respuesta al potencial candidato, acerca de si supero una etapa del proceso de selección, o si fue seleccionado en definitiva, y a lo cual los usuarios asumen que no han sido seleccionados, y deciden realizar procesos de selección con otras organizaciones
+Para cualquier empresa está sobreentendida la necesidad de contratar nuevo personal constantemente, sobre todo si se tiene un crecimiento de cualquier magnitud, o cualquier tarea sin atender que podría ser crucial para el desarrollo y progreso de la empresa, es por eso que se tiene la necesidad no solo de contratar, sino de captar candidatos que llenen dichos roles de la manera más eficiente posible, es simple estadística, mientras más candidatos se puedan procesar procesar, más probabilidades se tienen de contratar a un candidato que satisfaga las expectativas de la organización. Sin embargo, muchas organizaciones no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en tiempo eficiente, debido a que, generalmente dichas evaluaciones son realizadas por una sola persona que suele dedicar parte de su tiempo para aplicar estos procesos de selección, evaluación y contratación, generando tiempos de respuestas poco útiles para los candidatos.
 
-Para las empresas:
+Pero captar una gran cantidad de candidatos implica una gran cantidad de gasto de recursos para todos los involucrados, sea desde la empresa o desde el punto de vista de los candidatos, cualquiera que sea el gasto tiempo, dinero o material.
+Entre algunos de los inconvenientes para los usuarios y para las empresas, se pueden mencionar los siguientes.
+
+10.2.1 Inconvenientes para el candidato
+En la mayoría de los casos, es necesario que el candidato proporcione una documentación previa a la empresa, entre ellas se incluye el Currículum vitae impreso, copia de diplomas o títulos obtenidos, referencias laborales, certificaciones, entre otras.
+
+Cada candidato que desee postularse debe invertir tiempo y dinero en realizar el traslado a la sede de la empresa, donde dependiendo la distancia entre el postulante y la sede, puede incurrir en costos adicionales de transporte.
+
+Al momento de realizar la primera entrevista, el postulante puede retirarse del proceso al recibir información como temas asociados al horario laboral, la flexibilidad de dicho horario para permitir laborar y estudiar mientras emplea sus funciones en la organización, considerar el proceso largo y tedioso cuando la organización no especifica los beneficios y expectativas económicas que pueden ofrecer; todo esto acarreando una pérdida de dinero y tiempo importante por conceptos de transportes e impresión de documentos requeridos.
+
+Posterior a la primera entrevista, las organizaciones suelen realizar una serie de evaluaciones técnicas, psicológicas, espaciales y demás aspectos que son importantes para la organización conocer del postulado antes de decidir, esto acarrea costos adicionales de transporte y tiempo de horas laborales que implica realizar solicitudes para asistir a dichos procesos para posteriormente recuperar el trabajo del día.
+
+
+
+
+Luego de realizar los procesos realizados por la organización hacia cada postulados, cada una toma una cantidad de tiempo considerable en proporcionar una respuesta que le de información al postulado si fue seleccionado o no, generando incertidumbre lo que causa que los postulados abandonen el seguimiento y decidan realizar procesos de selección con otras organizaciones.
+
+10.2.2 Inconvenientes para las organizaciones
+En la mayoría de los casos, la información detallada de la vacante es proporcionado al candidato de forma oral, por lo que la organización debe
 En algunos casos proporcionan información de la vacante al potencial candidato, de forma oral, y para lo cual deben invertir un tiempo considerable por cada candidato.
-Si el candidato no supera la primera etapa del proceso de selección, debido a razones como que las expectativas salariales no estuvieron acordes al presupuesto de la empresa, o que no se pudo llegar a un acuerdo de flexibilidad de horario de trabajo entre la empresa y el potencial candidato, o porque el reclutador considero que la persona no es idonea para continuar con las demás etapa del proceso de selección, entre otras. Lo expuesto requiere que ambas partes inviertan un tiempo considerable de al menos 1 hora por cada candidato, a lo cual si existen 10, 20, o 100 candidatos para una vacante, dicho proceso puede llegar a ser muy ineficiente para las organizaciones. 
-Si el candidato supera la primera etapa del proceso de selección, generalmente las empresas, procederían a realizar evaluaciones para conocer las destrezas profesionales de los aspirantes, su nivel de inteligencia emocional, capacidad de resolución de problemas, trabajo en equipo, entre otras; o entrevistas para conocer el núcleo familiar, valores, personalidad, y demás aspectos de interés para el reclutador. Dicho proceso de evaluación y selección de candidatos puede llevar meses en algunas organizaciones, a lo cual muchos usuarios no desean esperar dicho tiempo para obtener una respuesta por parte de la empresa, y a lo cual deciden postularse a otras vacantes laborales, o inclusive laborar en otras organizaciones.
-La empresa no pregunta las expectativas salariales a los potenciales candidatos, y a lo cual, luego de pasar por un largo proceso de evaluación y selección, les ofrece una propuesta que es rechazada por el candidato seleccionado, originando que la empresa haya perdido tiempo y dinero en dicho proceso. Lo mismo sucede con el candidato.
-En la mayoría de los casos, las empresas no le notifican a los potenciales candidatos, si superaron o no, una etapa determinada del proceso de contratación, de forma rápida y práctica, a lo cual, muchos candidatos suponen que no superaron el proceso establecido por la empresa, y deciden postularse a otras vacantes, o continuar procesos de selección en otras organizaciones.
 
-Aquí también tienen los problemas que les había enviado en el primer documento para que lo revisen, a ver si les sirve o no
-En muchas organizaciones, los procesos de captación, reclutamiento y selección de personal suelen demorar mucho tiempo, originando impaciencia en los candidatos, y originando que comiencen a participar en otros procesos relacionados con la búsqueda de empleo, motivado a necesidades económicas, deseos de cambiar de empleo por malos jefes, la falta de crecimiento profesional y actualización constante, situaciones delicadas dentro de las organizaciones, entre otras 
+Existe la posibilidad que el candidato decida retirarse del proceso debido a que no se cumple con las expectativas salariales, flexibilidad en los horarios laborales o fijación de horario que beneficie tanto al candidato como a la organización; como también la organización puede determinar que el candidato no cumple con los requisitos para la vacante. Todo este proceso requiere una inversión de tiempo mínimo de una hora por cada candidato, por lo que sí existe una cantidad elevada de candidatos, el costo en tiempo llega a ser muy ineficiente para las organizaciones.
 
-Por otro lado, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de cantidad de candidatos en menor tiempo, debido a que, generalmente dichas evaluaciones son realizadas por una sola persona que suele dedicar parte de su tiempo a aplicar un proceso de selección, evaluación y contratación de candidatos, originando que otros potenciales candidatos se encuentren en una especie de cola de espera, y que, no se aprovechen otras del día, donde se podrían agilizar dichos procesos, ni se cuenten con las herramientas que contribuyan, a que el personal encargado de seleccionar,  y evaluar a dichos candidatos, puedan trabajar de una forma más eficaz y eficiente.
+Siempre que un candidato supera la primera etapa del proceso y este decide continuar con el proceso de selección, las organizaciones proceden a realizar evaluaciones para conocer las destrezas profesionales de los candidatos, su nivel capacidad lógica y resolución de problemas, trabajo en equipo y bajo presión, entre otras; o entrevistas realizadas para conocer los valores, personalidad y aspectos de interés para el reclutador. Todo este proceso puede tomar hasta meses en algunas organizaciones, por lo que muchos candidatos no deciden esperar ese tiempo para tener una respuesta y se postulan a otras vacantes laborales en otras organizaciones.
 
-Las empresas por otro lado, suelen realizar impresiones de cuestionarios, o encuestas cada vez que entrevistan a un candidato, originando pérdidas económicas para la empresa, si dicho candidato decide no continuar con dicho proceso, o si no es seleccionado, y, en caso de ser seleccionado, se encuentra con el escenario de que el candidato ya acepto una propuesta laboral de otra empresa, debido a falta de feedback por parte de la empresa en las diversas etapas del proceso de selección, tales como indicar si un candidato aprobó o no una etapa determinada del proceso de selección, dejando al potencial candidatos en una incertidumbre acerca de si tiene posibilidades, o no, de incursionar en dicha empresa; por la lentitud de las empresas en brindar respuesta en cada una de las etapas del proceso de selección, y cuando es seleccionado, realizar propuestas económicas y de demás beneficios laborales, que no se encuentran acorde a las aspiraciones del candidato seleccionado. 
+Habitualmente, las organizaciones no preguntan a los potenciales candidatos las expectativas salariales, a lo cual, luego de pasar el largo proceso de evaluación y selección, la propuesta salarial determinada por la organización puede ser rechazada por el candidato, originando que, tanto la organización como el postulante, haya perdido tiempo y dinero en continuar todo el proceso hasta el final.
 
-Por otro lado, muchos candidatos se sienten incómodos con los diversos filtros que aplica una empresa para seleccionar, a lo que consideran como un candidato ideal, debido a la necesidad de tener que solicitar permisos laborales para asistir presencialmente a cada una de las etapas del proceso de reclutamiento  y selección, y teniendo que recuperar dicho tiempo en la oficina, o originándoles pérdidas de dinero por conceptos de transporte, impresión de curriculums, sacar copias a certificados o documentos, realizar pruebas de evaluación, o cuando unos candidatos se presentan a una entrevista y la persona encarga de la empresa, no asiste o no puede atender a la persona en al hora pautada. Dichas causas originan que un candidato no desee continuar con un proceso de solicitud de empleo en una empresa, por considerarlos burocrático, lento, costoso, molesto, entre otras razones.
+Por último, en la mayoría de los casos, las organizaciones fallan en notificar a los potenciales candidato si lograron superar una etapa o no de forma rápida y práctica, por lo que los candidatos asumen que no superaron el proceso y deciden postularse a otras vacantes o continuar procesos de selección en otras organizaciones.
 
-En cualquiera de los casos mencionados, la empresa reclutadora y el potencial candidato han perdido tiempo o dinero en dicho proceso, originando que además se generen experiencias desagradables y que alguna de las 2 partes no tenga ganas de volver a participar en algún otro proceso de selección con dichas empresa o candidato, y en el caso de las empresas, que generen referencias negativas hacia otros potenciales candidatos, y que ante el llamado de una empresa determinada los candidatos opten por no responderle.
+De esta necesidad surge una propuesta que pretende mitigar el desperdicio de recursos y a su vez ofrecer una herramienta que beneficie a los involucrados, creando una aplicación web configurable que permita a las organizaciones definir la vacantes que requiere la organización, las responsabilidades asociadas a dicha vacante, determinar a qué persona reporta la vacante, los requisitos y cualidades tanto indispensables como optativos, información sobre flexibilidad y horarios de trabajo, propuesta salarial de dicha vacante. A su vez, definir las evaluaciones asociadas a la vacante junto a la puntuación de cada respuesta a modo de automatizar el proceso de evaluación y finalmente, realizar entrevistas en línea para adquirir información adicional sobre los candidatos.
 
-FALTA COLOCAR EL PÁRRAFO DOND DICE lo que se quiere hacer, las interrogantes que se pretenden responder con la investigación, 
+En cuanto a los candidatos dar la posibilidad de postularse a las vacantes, realizar las evaluaciones relacionadas a la vacante que se desea ocupar  y monitorear de forma activa la etapa en el que se encuentra, y el estado del mismo durante todo el proceso de selección. Por lo que se propone realizar un estudio de factibilidad del emprendimiento mencionado, a objeto de determinar, si la iniciativa de negocios propuesta es viable o no.
 
-De esta necesidad surge una propuesta que pretende mitigar el desperdicio de recursos y a su vez ofrecer una herramienta que beneficie a los involucrados, creando una aplicación Web configurable que … LUEGO COLOCAN LO QUE YA 
-UTILICEN LO que ya les redacte en el primer documento
+4.2 Propuesta de Trabajo Especial de Grado
+De lo expuesto anteriormente, surge la iniciativa y oportunidad de diseñar y desarrollar una aplicación web que permita a la empresa ofrecer información detallada de la vacante, y a los candidatos de postularse al proceso de selección y obtener respuesta de forma oportuna sobre el estado de su postulación durante todo el proceso.
 
-Para responder a estas interrogantes, se propone realizar un estudio de factibilidad del emprendimiento mencionado, a objeto de determinar, si la iniciativa de negocios propuesta es viable o no. 
+Por parte de la organización, cada una tiene la posibilidad configurar en el portal la publicación de las vacantes disponibles, incluyendo información detallada donde se incluye la descripción completa, los requisitos específicos y opcionales, las responsabilidades y objetivos asociado y la propuesta salarial. Esto le permite a la organización exponer toda la información junto a la descripción de cada una de las etapas que conforman el proceso de selección para el puesto vacante, por lo que cada candidato, al revisar dicha publicación puede determinar, si la vacante se adecua a su aspiración del puesto que quisiera obtener y la disposición a participar en todo el proceso.
 
-4.2 Propuesta de TEG  
-FALTA MEJORAR  LA REDACCIÓN
-En puntos previos del trabajo, se dice el tipo de aplicación Web que se desea construir y porque, su importancia, etc, Si mal no recuerdo esta en el planteamiento del problema   
-De acuerdo a lo expuesto anteriormente, surge la iniciativa y oportunidad de crear una aplicación web que permita a la empresa ofrecer información sobre el puesto vacante y al aspirante poder postularse al proceso de selección y tener un seguimiento del mismo.
-Se pretende con este trabajo especial de grado crear un sistema conformado por una aplicación web (donde se visualice la información, configurable por la empresa y el aspirante puede subir su información) para apoyar el proceso de reclutamiento y selección de personal de cualquier empresa.
-Por una parte, cada empresa podrá configurar el portal de forma que provea a los aspirantes información detallada del puesto vacante, explicar las etapas a efectuarse durante el proceso de selección y proveer feedback a cada aspirante en cada etapa del proceso.
-Por otra parte, el candidato podrá ingresar al portal y obtener información detallada de las vacantes disponibles por la empresa y, en caso de que le interese una vacante, postularse desde dicho portal ingresando la información necesaria como currículo, documentos, certificaciones. Además el candidato interesado puede determinar su estado en el proceso de selección. 
-Lo anteriormente mencionado, permite al aspirante postularse sin la necesidad de realizar gastos en transporte e impresión de documentos y realizar un seguimiento sobre el estado de su solicitud, y permite a la empresa automatizar algunas etapas del proceso de selección y proveer a todos sus aspirantes el estado de su solicitud de forma rápida y contínua.
-Por otra parte, la aplicación web, se encarga de capturar la información proporcionada por cada aspirante, y almacenarla utilizando un sistema de manejador de bases de datos. Además de poder analizar y generar información para facilitar a la empresa el proceso de selección.
+Por parte del candidato, cada uno puede ingresar al portal y revisar de forma secuencial todas las vacantes disponibles por las organizaciones, dando flexibilidad a filtrar por cargo de la vacante, responsabilidades, requisitos, entre otros. En caso de que se genere interés en una vacante, el candidato podrá postularse ingresando los datos necesarios juntos a curriculums y certificaciones en digital y proceder a realizar las distintas evaluaciones requeridas por la organización que oferta la vacante en su proceso de selección. Finalmente cada candidato podrá revisar en tiempo real el estado de su postulación y en qué fase del proceso se encuentra, teniendo dicha información disponible a cualquier hora.
 
-4.3 Justificación    
-ESTA ES LA JUSTIFICACIÓN QUE COLOQUE YO
-El objetivo prioritario de la presente investigación, no es documentar ni informar cuáles son los gastos que afronta una empresa durante los procesos de reclutamiento, sino proponer una solución eficiente y de mayor flexibilidad que las herramientas convencionales que se encuentran en la actualidad, y demostrar que dichos procesos pueden ser optimizados de manera que, las empresas puedan agilizar sus procedimientos de contratación, y que a su vez les permite incrementar las posibilidades de seleccionar el candidato idóneo para la empresa contratante, , y por otro lado eliminar o mitigar los inconvenientes mencionados anteriormente para los potenciales candidatos
+Lo anteriormente mencionado otorga beneficios a ambos participantes del proceso, en cuanto a las organizaciones, permite publicar las vacantes por medio de la Aplicación Web alcanzando una mayor población, generar y configurar las evaluaciones de forma que, dependiendo del tipo de evaluación, se evalúe de forma automatizada y seleccione a los mejores candidatos para continuar con el proceso y proveer feedback a cada uno de los candidatos de forma automatizada, esto reduce los costos de impresión de folletos para la publicación de las vacantes y de las evaluaciones o cuestionarios, automatiza los procesos claves reduciendo el tiempo necesario para procesar a cada uno de los candidatos.
 
-Cabe resaltar que, la contratación de personal, es un proceso complejo donde existen una serie de prácticas que son de uso común, y que probablemente no sean las más eficientes, y de serlo, dichas prácticas pueden ser obsoletas y no adaptarse al dinamismo y a las necesidades del mercado actual.
+Por otro lado, los candidatos pueden obtener acceso a toda la información referente a la vacante para determinar si desea postularse o no, y en caso de postularse, puede introducir su curriculum junto a sus certificaciones de forma digital y realizar las evaluaciones y obtener pronta respuesta para determinar si continúa en el proceso o no, esto reduce los costos de impresión de dichos documentos, permite al candidato postularse y revisar el estado de su postulación a cualquier hora del día en la comodidad de su hogar reduciendo a su vez los costos generados por el transporte hacia la sucursal de la organización y las solicitudes de permisos laborales.
+
+Finalmente la aplicación Web es la que se encarga de capturar la información proporcionada tanto por las organizaciones y candidatos y almacenarlo utilizando un sistema de base de datos, suministrando a su vez, análisis de los datos para generar información para facilitarle a la organización en el proceso de selección.
+
+4.3 Justificación
+El objetivo prioritario de la presente investigación, no es documentar ni informar cuáles son los gastos que afronta una empresa durante los procesos de reclutamiento, sino proponer una solución eficiente y de mayor flexibilidad que las herramientas convencionales que se encuentran en la actualidad, y demostrar que dichos procesos pueden ser optimizados de manera que, las empresas puedan agilizar sus procedimientos de contratación, y que a su vez les permite incrementar las posibilidades de seleccionar el candidato idóneo para la empresa contratante, y por otro lado eliminar o mitigar los inconvenientes mencionados anteriormente para los potenciales candidatos
+
+Cabe resaltar que la contratación de personal es un proceso complejo donde existen una serie de prácticas que son de uso común, y que probablemente no sean las más eficientes, y de serlo, dichas prácticas pueden ser obsoletas y no adaptarse al dinamismo y a las necesidades del mercado actual.
 
 Una contratación errónea acarrea gastos significativos, pérdidas y consecuencias que no son sencillas de manejar, como emocionales, legales, morales, monetarias, entre otras; es por ello que cualquier aporte que contribuya a tomar mejores decisiones durante el proceso de reclutamiento debe ser aprovechado.
 
-El realizar el presente estudio y recopilar datos relacionados al reclutamiento, va a permitir analizar patrones o prácticas comunes que serán de utilidad para el desarrollar un sistema eficiente para el beneficio de las personas que sean involucradas, beneficios como:
-Al reclutador, facilitar el proceso de toma de decisión acerca de si llevar adelante o no la contratación de cierta persona, gracias a la información y requerimientos recopilados.
-Analizar las fortalezas y debilidades de las estructuras de contratación actuales, sobre las cuales el presente proyecto se basa y de este modo proponer condiciones de mejora.
-Determinar mejoras o medidas a tomar para que los procesos de contratación que se planteen sean  lo más factible posible para los involucrados.
-Reducir el nivel de incertidumbre al que está sometida la empresa que dispone de la vacante  y también mantener informados a los interesados en el puesto.
-Justificar el uso de sistema basándonos en los recursos que ahorra para sus usuarios .
-Determinar la plataforma tecnológica, dinámicas de trabajo, y los pasos que el sistema usará para captación de información de sus usuarios.
-Generar información que permitirán llevar a cabo la toma de decisiones sobre contrataciones con bases sólidas, producto de un estudio previo.
-Adquirir conocimientos que le serán de utilidad a los futuros gerentes de recursos humanos, sobretodo para evitar escenarios comunes que conlleva al desperdicio de recursos durante procesos de captación de personal obsoletos.
 
-ESTA ES LA JUSTIFICACIÓN QUE COLOCARON USTEDES:
-Todas las empresas requieren de realizar los procesos de evaluación y selección para poder progresar y expandir como negocio y compañía, pero dicho proceso requiere de tiempo y recursos de parte de ambas partes del proceso.
-Por lo antes expuesto, surge la necesidad de desarrollar una aplicación Web que permita a las empresas atender a una gran cantidad de candidatos de manera simultánea, y que permita brindar respuesta a los potenciales candidatos, y que a su vez, le permitan a las empresas continuar o descartar a diversos candidatos, de forma rápida y eficiente, y sin originar los inconvenientes descritos.
-El uso de un portal configurable por la empresa permite:
-Crear o actualizar la información de una vacante.
-Procesar las solicitudes de los candidatos que se postulen las 24 horas del día.
-Crear o reutilizar cuestionarios o encuestas configurables, automatizando la puntuación obtenida por los candidatos que la realizan.
-Reducir los tiempos del personal de Recursos Humanos en evaluar a cada candidato.
-Enviar feedback en cada etapa del proceso al candidato de forma eficiente y constante.
 
-El uso de un portal por parte del candidato permite:
-Postularse desde el portal.
-Ingresar la información de los documentos requeridos para ser evaluado por la empresa como currículos y certificados de forma digital.
-Reducir costos de transporte.
-Realizar las etapas las 24 horas del día.
-Realizar un seguimiento del estado del proceso de selección eficiente.
+El realizar el presente estudio y recopilar datos relacionados al reclutamiento, va a permitir analizar patrones o prácticas comunes que serán de utilidad para el desarrollar un sistema eficiente para el beneficio de las personas que sean involucradas, beneficios detallados a continuación.
+
+1.-Facilitar el proceso de toma de decisión referente a si continuar o no el proceso de selección de cierto candidato por medio de un análisis automatizados que determina si la información se cumple con los requerimientos solicitados por la vacante.
+
+2.-Analizar las fortalezas y debilidades de las estructuras y procedimientos de contratación actuales sobre las cuales el presente proyecto se basa para determinar y proponer condiciones de mejora.
+
+3.-Determinar las mejores prácticas a tomar para que los procesos de selección que se planteen sean factibles para cada participante del proceso.
+
+4.-Reducir el nivel de incertidumbre que se genera en el candidato a postularse al momento de someterse al proceso de selección y, a su vez, mantener informados a los interesados por la vacante.
+
+5.-Justificar el uso de sistema basándonos en los recursos, tanto de tiempo y económico, que ahorra para sus usuarios .
+
+6.-Determinar la plataforma tecnológica y dinámicas de trabajo óptimos que el sistema usará la captación, procesamiento y análisis de la información ingresada por los usuarios.
+
+7.-Analizando los datos generados por los usuarios, se busca generar información que permitirán llevar a cabo la toma de decisiones sobre contrataciones con bases sólidas.
+
+8.-Adquirir conocimientos que le serán de utilidad a los futuros gerentes de recursos humanos, sobretodo para evitar escenarios comunes que conlleva al desperdicio de recursos durante procesos de captación de personal obsoletos.
 
 Lo anterior mencionado da flexibilidad a los candidatos en realizar el proceso de selección y, a su vez, el seguimiento de su estado durante todo el proceso desde la comodidad de su casa, sin restricciones de tiempo, lo que evita que el candidato deba solicitar permisos para retirarse de la oficina para realizar entrevistas con la incertidumbre de saber si dicha entrevista es beneficiosa o no.
 Por otro lado, da flexibilidad a la empresa en realizar y configurar los cuestionarios para que estos sean evaluados de forma automática sin participación del personal de Recursos Humanos, y encuestas que pueden ser reutilizados en múltiples vacantes disponibles en la empresa. Además puede proveer a todos sus candidatos el feedback sobre su estado durante el proceso de selección de forma eficiente eliminando la incertidumbre que dichos candidatos puedan generar durante el proceso.
- 
-FALTA QUE REVISEN ESTE TEXTO, Y QUE VEA QUE LES SIRVE Y QUE NO PARA JUSTIFICAR SU INVESTIGACIÓN
-
 
-A continuación, se proporciona el objetivo general del proyecto y los objetivos específicos que son necesarios desarrollar para lograr el objetivo general.
+
+
+
+
+
+
+
+
+
 
 4.4 Objetivo General
-Desarrollar una aplicación Web configurable para apoyar el proceso de reclutamiento y selección de personal de cualquier empresa.
+Desarrollar una aplicación Web configurable para apoyar el procesamiento del proceso de reclutamiento y selección definido por cada organización.
 
-Para lograr dicho objetivo, es necesario definir las actividades que se llevaran a cabo, en forma de los objetivos específicos descritos a continuación:
+
+
+
 
 4.5 Objetivos específicos
 
-Analizar y definir los requerimientos para la aplicación Web
-Trabajo a realizar: 
-Recopilar datos sobre los métodos comunes de búsqueda, evaluación y selección de personal utilizado por diversas empresas, utilizando  la técnica de investigación documental (Google, Facebook, Microsoft, Crossover), y la técnica de Focus Group (consiste en reunir a un grupo de 5 a 6 personas y conversar de manera informal, acerca de los métodos de búsqueda y selección de personal de empresas en los que hayan tenido experiencia), y utilizando la experiencia de los autores y el tutor del presente trabajo especial de grado
-Evaluar los focos de pérdidas para los actores tanto empresariales como personas empleables
+4.5.1 Analizar y definir los requerimientos para la aplicación Web
+Recopilar datos sobre los métodos comunes de búsqueda, evaluación y selección de personal utilizado por diversas empresas, utilizando  la técnica de investigación documental (Google, Facebook, Microsoft, Crossover), y la técnica de Focus Group (consiste en reunir a un grupo de 5 a 6 personas y conversar de manera informal, acerca de los métodos de búsqueda y selección de personal de empresas en los que hayan tenido experiencia), y utilizando la experiencia de los autores y el tutor del presente trabajo especial de grado.
+Evaluar las pérdidas económicas incurridas tanto por las organizaciones que van tienen la necesidad de realizar un proceso de selección para ocupar una vacante y de los usuarios que decidan postularse en la misma, así como también, los costos en tiempo generado por cada participante en el proceso.
 Elaborar una dinámica de búsqueda evaluación y selección del personal que sea configurable que contribuya a automatizar el proceso de búsqueda, selección y contratación de personal.
-Crear Diagramas que ilustran los datos básicos que se tienden a intercambiar durante la búsqueda de empleo y su peso a la hora de estudiar un candidato.
-a-Realizar un levantamiento de requerimientos y elaborar una matriz de requerimientos a desarrollar en la aplicación, incluyendo requerimientos funcionales y no funcionales. Se anexa el documento de Análisis de requerimientos preliminares para dar una idea de lo que se desea desarrollar.
+Crear Diagramas que ilustran el intercambio de información entre el candidato y la organización durante cada etapa del proceso de selección y la información que genera la organización a la hora de evaluar a un candidato.
 
-Realizar el diseño de la aplicación Web. 
-Trabajo a realizar:
-Estudiar posibles soluciones desde un punto de vista web que pemitan solventar los inconvenientes descritos en el planteamiento del problema
+4.5.2 Realizar el diseño de la aplicación Web.
+Analizar los requerimientos a forma de dar solución que permitan solventar los inconvenientes descritos en el planteamiento del problema en un ambiente Web usable.
+Definir la arquitectura para el desarrollo de la aplicación Web incluyendo los diversos módulos que conforman el funcionamiento del mismo.
+Elaborar diagramas de caso de uso, diagrama de clases, diagrama de secuencia.
+Diseñar el modelo de datos y la arquitectura en la base de datos.
 Realizar procedimientos flexibles y configurables para que puedan adaptarse a cualquier empresa que requiera contratación de personal, sin importar su escala y complejidad.
-a- Elaborar Diagrama de casos de uso, diagrama de clases, diagrama de secuencia, el modelo de datos de la aplicación, diccionario de datos, e interfaces prototipo de la aplicación Web.
-b- Definir la arquitectura para el desarrollo de la aplicación Web, incluyendo los diversos módulos de la aplicación.
-4 Definir los componentes de la aplicación Web que serán configurables o parametrizables de forma detallada.
-Trabajo a realizar
-Definir los módulos y funcionalidades de la aplicación de acuerdo a lo levantado en el objetivo anterior
-Definir qué se va a poder administrar, configurar o parametrizar de forma detallada, cómo lo van a parametrizar o administrar, como va a funcionar esto, identificando los flujos de trabajo de manera clara y sencilla 
-Seleccionar las tecnologías a utilizar para el desarrollo de las aplicaciones.
-Definir un cronograma de trabajo para llevar a cabo el trabajo mencionado.
-Deben tener muy claro que se va a administrar, como lo van a administrar, y lo demás que he mencionado en este punto, porque es el eje central o la razón de ser del Trabajo Especial de Grado.
+Construir prototipos de interfaces que constituye la aplicación Web.
 
-Desarrollar la aplicación Web
-Trabajo a realizar
-a- Desarrollar los requerimientos de la aplicación Web, utilizando las mejores prácticas de programación, incluyendo documentación de código y uso de patrones de diseño, y técnicas de Interacción-Humano Computador, que contribuyan a agilizar los procesos de reclutamiento y selección de personal
-
-Realizar pruebas sobre la aplicación Web
-Trabajo a realizar
-a-Realizar pruebas sobre la aplicación utilizando TDD (Test Driven Development)
-b-Documentar el resultado de las pruebas obtenidas
-c-Generar lecciones aprendidas en relación al uso de TDD.
-Elaborar los manuales de instalación y de uso de las aplicaciones
-Trabajo a realizar
-a- Elaborar un manual detallado de instalación de la aplicación Web
-b- Elaborar manual detallado que permita al usuario utilizar la aplicación Web
-
-Realizar una demostración de uso de la aplicación
-
-Resumen de objetivos
+4.5.3 Definir los componentes de la aplicación Web que serán configurables o parametrizables de forma detallada.
+Definir los componentes que se pueden administrar, configurar y parametrizar de forma detallada
+Definir cómo se puede administrar, configurar y parametrizar los componentes mencionados en el punto anterior.
+Definir el flujo de trabajo por parte de ambos participantes identificando los puntos claves que influyen en la misma.
+Seleccionar las tecnologías óptimas a utilizar para el desarrollo de la aplicación Web.
 
 
-Objetivo general
 
+4.5.4 Desarrollar la aplicación Web
+Desarrollar los requerimientos de la aplicación Web empleando las mejores prácticas de programación en las que incluye la documentación del código fuente, uso de patrones y antipatrones de diseño, técnicas de interacción Humano-Computador para agilizar el proceso de reclutamiento y selección de personal para la organización.
 
-Objetivos específicos
+4.5.5 Realizar pruebas sobre la aplicación Web
+Realizar pruebas unitarias sobre la aplicación utilizando la práctica de ingeniería de software TDD (Test Driven Development).
+Mantener documentación que detalle los resultados de las pruebas obtenidas.
+Generar lecciones aprendidas en relación al uso de TDD (Test Driven Development).
 
-
-Actividades a realizar
-
+4.5.6 Elaborar los manuales de instalación y de uso de las aplicaciones
+Elaborar un manual que detalle el paso a paso para la instalación de la aplicación Web.
+Elaborar un manual detallado que describa los componentes y su forma de uso que permita al usuario utilizar de forma satisfactoria la aplicación Web.
+Realizar una demostración de uso de la aplicación.
 
 4.6 Alcances y Limitaciones
 
 El trabajo a realizar y las limitaciones que los autores consideran que se pueden encontrar en dicha investigación, son las siguientes:
 
 4.6.1 Alcance
-El presente estudio tiene como alcance crear una aplicación web que permite a los usuarios de una determinada empresa, realizar la búsqueda de oportunidades laborales y postularse, pasar por una serie de procedimientos que los ayuden a encontrar soluciones a sus necesidades.
+El presente estudio tiene como alcance crear una aplicación web que permite a los personas postularse a un determinado puesto laboral definido por una empresa, realizar la búsquedas de dichos puestos, y a su vez pasar por una serie de procedimientos que los ayuden a la empresa que publicó la vacante, a filtrar los postulantes para encontrar aquellos adecuados a las necesidades de la posición.
 
-Los aspectos puntuales que comprende la investigación están referidos a los estudios de los procedimientos que se aplican en ciertas prácticas de búsqueda laboral y cómo evitar sus mayores defectos, de tal modo que se puedan plantear procedimientos que aprovechen mejor los recursos disponibles.
+Los aspectos puntuales que comprende la investigación están referidos a algunos estudios de los procedimientos que se aplican, y en ciertas prácticas de búsqueda laboral, para evitar sus mayores defectos, de tal modo que se puedan plantear procedimientos que aprovechen mejor los recursos disponibles.
 
-Cabe destacar que se analizaran diferentes métodos comunes de reclutamiento, es imposible abarcar todas las prácticas ya que existen métodos tan específicos de ciertas empresas, o que usan combinaciones de técnicas tan ligeramente intercambiables que no vale la pena estudiarlas.  
+Cabe destacar que se analizaran diferentes métodos comunes de reclutamiento, es imposible abarcar todas las prácticas ya que existen métodos variados o tan específicos para ciertas empresas que se haría absurdo, o por el contrario, usan combinaciones de técnicas tan ligeramente intercambiables que no vale la pena estudiarlas.
 
 4.6.2 Limitaciones
 El presente trabajo especial de grado se limita a la creación de una aplicación web que presenta una solución genérica, que sea utilizable y  configurable  por una empresa determinada, para agilizar los procesos de reclutamiento, evaluación, selección y contratación de personal; y para proporcionar flexibilidad y comodidad para las personas que deciden postularse a las vacantes planteadas por dichas empresas.
@@ -650,33 +1193,44 @@ Entre las limitaciones que podrían afectar la calidad de la información obteni
 
 Factores culturales o sociales: Pueden darse casos en que la aplicación pueda que no satisfaga las necesidades organizacionales, porque existen ciertas vacantes que requieren la aplicación de pruebas de tipo presencial en cada una de las etapas del proceso de evaluación y selección de personal, como el caso del personal que labora en las embajadas, que en algunos casos son sometidos a exámenes de drogas, y al polígrafo, para determinar la veracidad de sus respuestas a lo largo de cada una de las etapa del proceso de selección.
 Entre otros de los factores pueden mencionarse la preferencia de algunas empresas de mantener un contacto cara a cara con los potenciales candidatos, resistencia al cambio, entre otras.
-Falta de instrumentos para mediciones técnicas: El comportamiento humano varía mucho entre individuo e individuo, por lo que el tomar conclusiones del estado emocional, nivel de frustración, y similares, es cuando poco, un reto nada trivial, por lo tanto, la mayoría de los datos serán netamente basados en la interacción de las personas con la aplicación y es por ello que estos datos tienden a ser aproximados. 
-Características de las muestras: los instrumentos y metodos de recoleccion de datos sobre la aplicación y sus características, son por lo general, encuestas, comentarios, sugerencias, cuestionarios, etc. Estos dados a su vez por personas con diferentes estratos, como por ejemplo, docentes, obreros, jefes de familia, comerciantes, etc, esa muestra de sujetos producen una calidad de información a recolectar probablemente heterogénea, y que necesitará ser interpretada.
+Falta de instrumentos para mediciones técnicas: El comportamiento humano varía mucho entre individuo e individuo, por lo que el tomar conclusiones del estado emocional, nivel de frustración, y similares, es cuando poco, un reto nada trivial, por lo tanto, la mayoría de los datos serán netamente basados en la interacción de las personas con la aplicación y es por ello que estos datos tienden a ser aproximados.
+Características de las muestras: los instrumentos y métodos de recolección de datos sobre la aplicación y sus características, son por lo general, encuestas, comentarios, sugerencias, cuestionarios, etc. Estos dados a su vez por personas con diferentes estratos, como por ejemplo, docentes, obreros, jefes de familia, comerciantes, etc, esa muestra de sujetos producen una calidad de información a recolectar probablemente heterogénea, y que necesitará ser interpretada.
 Sesgo del Sujeto: las respuestas que se obtendrán de las encuestas o entrevistas, dependen del grado de conocimiento que tengan los sujetos, de sus opiniones y al ser estas preguntas muy puntuales, la información que obtendremos de ellas será muy discreta.
 Disposición por parte de las personas en brindar información o limitaciones de tiempo en sus ocupaciones laborales para responder dichos instrumentos.
-(En este orden deberíamos desarrollar los puntos del capítulo 1) (intentare colocar algo que limite estos puntos, cuando consiga un buen ejemplo)
+(En este orden deberíamos desarrollar los puntos del capítulo 1) (intentaré colocar algo que limite estos puntos, cuando consiga un buen ejemplo)
 
-4.7 Tecnologías propuestas 
-En particular, los autores determinaron cuales serían las tecnologías a utilizar en la capa de presentación o front-end, y cuáles serían las tecnologías a utilizar para el desarrollo del núcleo de la aplicación, o back-end, descritas a continuación:
+4.7 Tecnologías propuestas
+En particular, los autores determinaron cuáles serían las tecnologías a utilizar en la capa de presentación o front-end, y cuáles serían las tecnologías a utilizar para el desarrollo del núcleo de la aplicación, o back-end, descritas a continuación:
 
 4.7.1 Tecnologías del lado del cliente (Capa de presentación)
-ESTE ES EL TEXTO QUE TENÍAN USTEDES PARA ESTA PARTE
 Las tecnologías del lado del cliente son ejecutadas e interpretadas del lado del cliente en una aplicación web, es decir, en el navegador web. En muchos casos el buen funcionamiento de estas tecnologías va a depender del tipo de navegador web y de la versión de cada uno de ellos.
 Por lo general estas tecnologías son utilizadas para mostrar información, darle formato a dicha información, solicitar datos, etc. Entre las tecnologías que se explican a continuación están: el Lenguaje de Marcas de Hipertexto, Hojas de Estilo en Cascada, JavaScript y jQuery.
 
 4.7.1.1 HTML 5
-ESTE ES EL TEXTO QUE TENÍAN USTEDES PARA ESTA PARTE
 Lenguaje de Marcas de Hipertexto
 El Lenguaje de Marcas de Hipertexto, mejor conocido como HTML (HiperText Markup Language), “es el lenguaje con el que se escriben las páginas web, haciendo uso de marcas (etiquetas) para describir la forma en la que deberían aparecer los textos y los gráficos en un navegador web” (EcuRed, 2012).
 
 HTML fue diseñado por el físico Tim Berners Lee en 1989, se publicó en un documento formal en 1991 y se convirtió en un estándar para el desarrollo de páginas web en 1995, ya que ofrece una estructura básica para la definición del contenido que por lo general se encuentra en una página web, como imágenes, texto, entre otros.
 
-A partir de 1996, la World Wide Web Consortium (W3C), que es la organización que define la mayoría de los estándares para el desarrollo web, se ha encargado de publicar constantes revisiones (HTML 3.2, HTML 4, HTML 4.01) de este estándar, ampliándolo y depurándolo con cada versión. HTML 5 fue la última revisión aprobada por esta organización, en el año 2014.
+A partir de 1996, la World Wide Web Consortium (W3C), que es la organización que define la mayoría de los estándares para el desarrollo web, se ha encargado de publicar constantes revisiones (HTML 3.2, HTML 4, HTML 4.01) de este estándar, ampliándolo y depurándose con cada versión. HTML 5 fue la última revisión aprobada por esta organización, en el año 2014.
 
 HTML 5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Incorpora nuevas etiquetas con mayor significado semántico, mejora la integración con las tecnologías de desarrollo web actual, permite desplegar objetos y animaciones en formato 3D (tridimensional), tiene un mejor soporte multimedia y ahorra la necesidad de tener que procesar medios de audio o video a través de complementos instalados en el navegador web.
 
+
+
+este
+es un
+supuesto
+cuadro
+comparativo
+html5
+vs
+html4.x
+
 En la Figura 5: se muestran las principales diferencias entre las etiquetas de HTML 4.01 y HTML 5
- donde se puede observar que con HTML 5 se disminuye el uso de la etiqueta <div> (utilizada para definir un bloque de contenido), y se introducen etiquetas con mayor significado semántico para que la estructura de una página web sea más fácil de entender.
+
+
+donde se puede observar que con HTML 5 se disminuye el uso de la etiqueta <div> (utilizada para definir un bloque de contenido), y se introducen etiquetas con mayor significado semántico para que la estructura de una página web sea más fácil de entender.
 
 4.7.1.2  CSS3 (punto que yo coloque, debajo te coloque lo que ustedes hicieron en relación al tema)
 Hojas de Estilo en Cascada
@@ -684,10 +1238,50 @@ Mientras que HTML permite definir la estructura una página web, las Hojas de Es
 CSS fue diseñado por Håkon Wium Lie y Bert Bos entre 1994 y 1995 y se convirtió en un estándar en 1996, con el nombre de CSS 1. Al igual que con HTML, la W3C se ha encargado de publicar constantes revisiones de este lenguaje, siendo la versión CSS 2.1 el estándar actual que ofrece gran compatibilidad con la mayoría de los navegadores web del mercado.
 En el año 2005 se comenzó a definir el sucesor de la versión CSS 2.1, al cual se lo conoce como CSS 3, pero actualmente sigue en desarrollo y sólo se han publicado algunos borradores. Esta versión a pesar de que aún no es compatible con todos los navegadores, ofrece una gran variedad de opciones muy importantes para las necesidades del diseño web actual, como funciones avanzadas de movimiento y transformación, opciones de bordes redondeados, sombras en textos y cajas, entre otras opciones, sin la necesidad de usar un editor gráfico (De Luca Damián, 2010).
 La sintaxis del lenguaje CSS consta de elementos llamados reglas, las cuales se dividen en selectores y declaraciones, donde el selector es el identificador al que se le quiere dar la declaración de un conjunto de propiedades con sus valores, como se puede ver en la
+
+
+
+ejemplos
+evolucion
+css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Figura 6.
 
-Figura 7.
 
+ejemplo ccs
+screen jsfiddle plz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 7.
 
  muestra un ejemplo de código CSS incrustado en HTML, para cambiar el tipo, el tamaño y el color de la fuente de un título y un párrafo.
 
@@ -698,7 +1292,7 @@ Bootstrap, es un marco de trabajo (framework) que permite crear interfaces web c
 JavaScript, Jquery o 1 Framework Javascript como react, nodes, etc
 
 4.7.1.5 Un framework PHP o un framework en Phyton
-	Vamos a usar laravel, es estable, facil de diseñar en ambos lados cliente y servidor, y posee un ORM descente (manejador de base de datos) y el bastante popular asi que tiene bastante documentacion (se parece a ruby on rails asi que puedo adaptarme facil y tengo experiencia en este framework asi que ayuda a nuestros tiempos de desarrollo), es en PHP, 
+	Vamos a usar laravel, es estable, facil de diseñar en ambos lados cliente y servidor, y posee un ORM descente (manejador de base de datos) y el bastante popular asi que tiene bastante documentacion (se parece a ruby on rails asi que puedo adaptarme facil y tengo experiencia en este framework asi que ayuda a nuestros tiempos de desarrollo), es en PHP,
 4.7.2 Tecnologías del lado del servidor (Núcleo de la aplicación)
 Falta texto introductorio
 laravel, chef, postgres, (tengo que buscar el equivalente a npm de php, se me olvido)
@@ -710,14 +1304,27 @@ Aquí pueden indican cual eligieron, que ventajas y desventjas posee el lenguaje
 Aquí pueden decir cual es el framework PHP, o el framework Python que seleccionaron, el porque de su elección, y que funcionalidades o potencialidades detectaron que tiene el framework para ayudarlos a desarrollar la aplicación Web (laravel, casi todo lo que trae por defecto es suficiente para nosotros de momento.)
 
 4.8	Patrones de diseño
-5.4.1	Definición
+5.4.1 	Definición
+    Los patrones de diseño son conjuntos de soluciones que solventan problemas típicos, comunes o recurrentes, encontrados a la hora de desarrollar una aplicación.
+
+Aunque una aplicación sea única, tendrá partes comunes y por lo tanto retos y problemas comunes con otras aplicaciones: acceso a datos, creación de objetos, operaciones entre sistemas etc.
+
+En lugar de reinventar nuevas formas de solucionar el mismo, podemos utilizar o guíanos por algún patrón, ya que son soluciones probadas, estandarizadas, implementadas y comúnmente documentadas por comunidades de desarrolladores.
+
 5.4.2	¿Porqué utilizar patrones de diseño?
+    Desarrollar aplicaciones robustas y fáciles de mantener es algo que requiere diseño y estándares, se deben cumplir lineamientos. estos patrones, más que reglas de diseño son también un conjunto de prácticas o estándares, no son obligatorias, pero sí muy recomendadas. Siempre podemos decidir no aplicarlas o adaptarlas muy vagamente a la solución. pero si no lo hacemos, hay que ser conscientes de la razón de no aplicarlas con esmero y de sus  posibles consecuencias a largo plazo, así como las limitaciones de crecimiento por no seguir un patrón definido.
+
+
+
+Los patrones de diseño nos ayudan a cumplir muchos de estos principios, requerimientos o reglas de diseño. Programación SOLID, control de cohesión y acoplamiento o reutilización de código son algunos de los beneficios que podemos conseguir al utilizar patrones.
+
 5.4.3	Desventajas de utilizar patrones de diseño
+las consecuencias de no utilizarlas son difícilmente posibles de evaluar, pero mientras mas grande la aplicacion, menos probable es que pueda llevarse a cabo sin algún conjunto de reglas para mantener la consistencia de la solución, cualquier sistema con robustez, o que requiera mantenimiento a largo plazo o de diferentes personas o que requiera escalar o reescribir segmentos grandes de módulos, puede considerarse destinado al fracaso sino siguió nunca un patrón de diseño, los únicos sistemas capaces de sobrevivir sin diseño son programas pequeños o con funciones muy específicas.
 
 4.9 BASE DE DATOS (Decir si vas a utilizar SQL Server, postgreSQL,etc)
 5.3.1	Triggers
 5.3.2	Store Procedures
-5.3.3	¿Porqué postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4 
+5.3.3	¿Porqué postgreSQL, y no SQL Server, Oracle, o MySQL?5.3.4
 5.3.4	¿Porqué no utilizar una base de datos relacional?
     5.3.5 ¿Porque no usar un framework de base de datos como Hibernate o Ibatis?
 
@@ -745,13 +1352,13 @@ Algunas de las desventajas son:
 •	La sintaxis de algunos comandos o sentencias no es tan intuitiva.
 
 Servicios Web
-5.4.1	¿REST, SOAP, Restful, API rest?  
-	experiencia, rest
-5.4.2	¿Porqué REST y no SOAP? 
+5.4.1	¿REST, SOAP, Restful, API rest?
+	Rest es un patrón de arquitectura que al usarse como guia para la construccion de aplicaciones, ayuda por convencion a entender el uso de los servicios de los objetos que maneja la aplicacion, es decir,
+5.4.2	¿Porqué REST y no SOAP?
 el como trabajan los servicios e intuitividad, y orden
 5.4.3	Ventajas y desventajas
-	
- 
+
+
 6. Pruebas de las aplicaciones
 6.1	Metodología a utilizar: TDD(Test Driven Development)
 6.1.1	Definición
@@ -766,19 +1373,19 @@ no se instala es una metodologia, solo necesitas que sea un framework lo suficie
 6.1.6	Depurar errores en TDD
 	las pruebas te dicen que esta fallando.
 6.1.7	Ventajas
-	consigues bugs rapido, obtienes estabilidad y paz mental con cada nuevo modulo que desarrollas pues sabes de una vez cada vez que pruebas si algo falla 
+	consigues bugs rapido, obtienes estabilidad y paz mental con cada nuevo modulo que desarrollas pues sabes de una vez cada vez que pruebas si algo falla
 6.1.8	Desventajas
 	tiendes a extender el tiempo de desarrollo pues prediseñas los modulos para ser testeables.
- 	
+
 7. Entregables preliminares
-7.1 Diagrama de casos de uso:  
+7.1 Diagrama de casos de uso:
 7.2 Diagrama de clases
- 7.3 Modelo de datos: 
+ 7.3 Modelo de datos:
 7.4 Diccionario de datos
 7.5 Manual de instalación
 7.6 Manual de usuario
 7.7 ¿Por qué no considerar más entregables?
- 
+
 8. Bibliografía
 
 
@@ -822,5 +1429,32 @@ The PostgreSQL Global Development Group. (1996-2015). PostgreSQL. Recuperado en 
 W3Schools. (2015). AJAX Introduction. Recuperado en julio 2015, de: http://www.w3schools.com/Ajax/ajax_intro.asp
 2ndQuadrant Ltd (2001-2015). 2ndQuadrant Professional PostgreSQL. Recuperado en julio 2015, de: http://2ndquadrant.com/es/postgresql/
 
+Pair Programming: https://www.agilealliance.org/glossary/pairing
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Aquí pueden hablar del tema de las entrevistas, los procesos de evaluación, la selección del candidato, la presentación de la propuesta económica a la empresa, y los manuales de inducción a las empresas.
+Además pueden hablar de lar rigidez de sistemas como Bumeran, computrabajo, empleate, y demás aplicaciones utilizadas para la búsqueda y selección de personal.
+LO QUE USTEDES COLOCARON:
+El proceso de reclutamiento y selección de empresas consta de una serie de etapas que se aplica a cada candidato que desee aplicar para el cargo ofrecido.
+Inicialmente, la empresa debe agendar y manejar el tiempo de tal forma que puedan atender a la mayor cantidad de candidatos en un día determinado, sin embargo, muchas empresas no poseen una forma de trabajo eficiente que permita evaluar a una gran cantidad de candidatos en el menor tiempo posible debido a que, generalmente, dichas evaluaciones se realiza por una sola persona que dedica parte de su tiempo a aplicar el proceso de selección, evaluación y contratación de a un candidato a la vez lo que causa que el proceso sea lento lo que puede ocasionar que los candidatos decidan retirarse del proceso.
+Las empresas realizan impresiones de cuestionarios y encuestas que son aplicados a cada candidato generando pérdidas económicas si el candidato decide abandonar el proceso de selección, o si no es seleccionado para continuar, y si el candidato es seleccionado, se encuentre con el escenario de que dicho candidato ya aceptó una propuesta laboral de otra empresa debido a la lentitud del proceso y falta de feedback a lo largo del proceso. La lentitud del proceso y falta de feedback deja al candidato en incertidumbre en determinar la posibilidad que tiene en ser seleccionado y poder incursionar en el vacante lo que causa que la empresa pierda candidatos potenciales durante el proceso.
+Las empresas, para reclutar al candidato ideal para la vacante, realizan diversos filtros que son aplicados a cada candidato a evaluar, lo que ocasiona que los candidatos se sientan incómodos ya que deben solicitar permisos laborales para asistir presencialmente a cada una de las etapas en el proceso de reclutamiento y selección, permisos que, son recuperados en tiempo de oficina o generan pérdidas monetarias en transporte, impresión de documentos como currículos, certificados, títulos, entre otros; esto ocasiona que los candidatos se retiren del proceso de selección por considerarlo lento, costoso y molesto.
+Finalmente, en algunas empresas, el candidato seleccionado es invitado a proponer la propuesta económica, esto es, conocer del candidato la adquisición salarial que considera ganar, o la misma empresa realiza la propuesta económica además de darle a conocer los beneficios laborales que la empresa provee a sus empleados y el ambiente de trabajo. En este punto la empresa debe decidir si las consideraciones salariales son accesibles para la empresa y proceder con el reclutamiento del candidato, o en el caso de que la aspiraciones del candidato son mayores a los que la empresa puede ofrecer el candidato es retirado del proceso de selección.
+En cualquiera de los casos donde el candidato fue contratado o no, la empresa ha perdido tiempo y dinero realizando dicho proceso, donde según el resultado, puede generar experiencias desagradables que motiva a futuros candidatos a rechazar participación en el proceso de selección de otras vacantes ofrecidas por la empresa y generen referencias negativas hacia otros potenciales candidatos.
+
+
+Mejorar la redacción.
+Aparte, necesitan decir cosas que tengan más importancia.
+Les recomiendo revisar el documento que les envíe, donde les coloco la estructura del seminario y la tesis. Hay una parte que dice Contexto del problema. Ahí hay cosas que ya pueden utilizar para el contexto del problema, y que serían un copiar y pegar, y además de las ideas que ustedes agreguen.
