@@ -1,0 +1,103 @@
+
+
+
+
+
+Universidad Central de Venezuela
+Facultad de Ciencias
+Escuela de Computación
+Aplicaciones con Tecnología a Internet
+
+Matriz de Requerimientos
+
+A continuación se presenta la especificación inicial de requerimientos del sistema, cuyas prioridades son descritas a continuación:
+
+Alta: Requerimientos relacionados a la definición y alineación de objetivos.
+Media: Requerimientos relacionados con las consultas y monitoreo de las etapas de seguimiento.
+Baja: Requerimientos de funcionalidades adicionales que facilitan el uso del sistema.
+
+Requerimientos Funcionales
+
+No
+Requerimiento
+Prioridad
+1
+Permitir el registro como usuario “Empleador”
+Alta
+2
+Permitir el registro como usuario “Candidato”
+Alta
+3
+El sistema permite al empleador definir y/o configurar el nombre, responsabilidades, requisitos, cualidades opcionales, oferta salarial y beneficios de una vacante
+Alta
+4
+El sistema permite al empleador definir y/o configurar cuestionarios a aplicar para una vacante
+Alta
+5
+El sistema filtra a los postulados acorde a la evaluación de los cuestionarios realizados.
+Alta
+6
+Permitir la definición y alineación de objetivos con los objetivos del superior al momento de la captura.
+Alta
+7
+Permitir a un responsable de departamento la consulta de los objetivos definidos por todos los subalternos.
+Alta
+8
+Brindar un mecanismo de validación, corrección y aceptación de los objetivos definidos en un proceso de negociación entre empleado y  superior.
+Alta
+9
+Permitir captura de Indicadores y metas para objetivos orientados a “Resultados”.
+Alta
+10
+Permitir captura de entregables para objetivos orientados a “Entregables”.
+Alta
+11
+Permitir la definición de indicadores externos.
+Media
+12
+Integrar el  modelo de evaluación basado en indicadores, metas y entregables.
+Alta
+13
+Permitir a los responsables de departamento consultar el avance de definición de objetivos de sus subalternos, como reportes y en forma gráfica.
+Media
+14
+Incluir mecanismos de captura de resultados para indicadores, metas y entregables.
+Alta
+15
+Lanzar alertas de actualización y seguimiento de objetivos.
+Media
+16
+Incluir reportes de control y seguimiento de avances para las diferentes etapas: definición, seguimiento, evaluación.
+Media
+17
+Agregar una consulta grafica de la distribución de calificaciones por área o departamento.
+Baja
+18
+Brindar un mecanismo de seguridad  y control de acceso en el que los usuarios solo vean las secciones del sistema a las que estén autorizados a ingresar.
+Alta
+19
+Generar de reportes conforme a la Normatividad Institucional de planeación.
+Alta
+
+Requerimientos  no Funcionales
+No
+Requerimiento
+Prioridad
+1
+La nueva funcionalidad de objetivos debe de estar alineada con los estándares de programación definidos por la DGTI.
+Alta
+2
+La solución debe de apegarse a los estándares de apariencia de las aplicaciones institucionales.
+Baja
+3
+El sistema debe de estar almacenado dentro de la infraestructura de la empresa, incluyendo repositorio de versiones, servidores de archivos y bases de datos.
+Media
+4
+El sistema debe implementar una bitácora de cambios donde se almacene información de hora, fecha, responsable y detalle de un cambio realizado en cualquier sección del sistema y etapa del proceso.
+Baja
+5
+Cumplir con las pruebas de seguridad establecidas en los estándares de la institución.
+Alta
+6
+Cumplir con las pruebas de calidad de programación establecidas en los estándares de la institución.
+Alta
