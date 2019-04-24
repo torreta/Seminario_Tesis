@@ -1,0 +1,73 @@
+ACTIVIDADES PROPUESTAS EN LAS QUE PIENSO QUE PUEDEN IR TRABAJANDO, CON FECHAS DE ENTREGA
+Y RESPONSABLES
+
+1- Definir cosas en común de los procesos de reclutamiento que trabajaron
+   en el seminario
+   RESPONSABLE: LUIS CAMPOS, KEVIN MIRANDA
+   FECHA DE ENTREGA: VIERNES 22
+
+2- Definir en que cosas son diferentes los procesos de reclutamiento que trabajaron
+   en el seminario
+   RESPONSABLE: LUIS CAMPOS, KEVIN MIRANDA
+   FECHA DE ENTREGA: VIERNES 22
+
+3- Determinar, cuales serían las mejoras que ustedes harían en relación a estos procesos
+   RESPONSABLE: LUIS CAMPOS, KEVIN MIRANDA 
+   FECHA DE ENTREGA: VIERNES 22
+
+4- realizar una propuesta de procesos a realizar, que este bien
+   detallada y bien definida, por cada proceso que planteen
+   RESPONSABLE: LUIS CAMPOS, KEVIN MIRANDA
+   En la entrega, deben definir, que persona trabajo en que proceso
+  - FECHA DE ENTREGA: 1 DE MARZO
+
+5- ELABORAR MATRIZ DE REQUERIMIENTOS, de forma detallada, 
+   en la hoja de excel que les pase, en donde ya se tengan,
+   los tiempos de desarrollo de cada funcionalidad, 
+   el tiempo de elaboración de los documentos que fueron contemplados
+   inicialmente, y determinar, que funcionalidades pueden irse realizando de forma
+   separada, y delegar, que requerimientos va a hacer cada uno
+   RESPONSABLE: LUIS CAMPOS
+   FECHA DE ENTREGA: 8 DE MARZO
+
+6- REALIZAR MEJORAS A LOS objetivos, en base a lo que dijo Franklin
+   RESPONSABLE: KEVIN MIRANDA
+   FECHA DE ENTREGA: 8 DE MARZO
+
+7- INVESTIGA LA PARTE DE DR WATSON QUE DIJO EL PROF FRANKLIN, y ver 
+   de que se trata, y hacerle preguntas a luis sobre esto
+   RESPONSABLE: KEVIN MIRANDA
+  FECHA DE ENTREGA: 8 DE MARZO
+
+8- Entregar la primera versión del documento de TEG
+   FECHA DE ENTREGA: 
+   RESPONSABLE: KEVIN MIRANDA
+   FECHA DE ENTREGA: 15 DE MARZO
+
+10 CONFIGURAR AMBIENTE DE DESARROLLO LOCALES EN SUS MÁQUINAS, Y UTILIZAR UN REPOSITORIO
+   DE RESPALDO EN LA NUBE
+
+9- CONFIGURAR AMBIENTES DE DESARROLLO Y PRUEBAS, EN LA NUBE, PARA DESARROLLAR Y ACCEDER A LA APLICACICÓN
+   RESPONSABLE: LUIS CAMPOS
+   FECHA DE ENTREGA: 15 DE MARZO
+
+10- ELABORAR UN GRÁFICO DE LA ARQUITECTURA PROPUESTA PARA LA APLICACIÓN
+    EN DONDE SE VEA, QUE TECNOLOGÍAS EN EL LADO DEL FRONT-END, BACK-END, y en la base de datos
+    van a utilizar
+    RESPONSABLE: Luis campos
+    FECHA DE ENTREGA: 15 DE MARZO
+
+11- PENSAR QUE CASO DE ESTUDIO SE PODRÍA HACER SOBRE LA APLICACIÓN, sobre el cual se podrían
+    realizar LAS pruebas de funcionamiento de la aplicación, y sobre la cual, se podrían sacar resultados
+    IDEA: Podrían implantar esto en una de las empresas donde ustedes trabajan, a modo de prueba, a ver que tal 
+          Si se les ocurre otra cosa, chévere
+    RESPONSABLE: LUIS CAMPOS, KEVIN MIRANDA
+    FECHA DE ENTREGA: 15 DE MARZO
+
+12- Entregar la 2da versión del documento de TEG
+    FECHA DE ENTREGA: 22 DE MARZO
+
+13- COMENZAR EL DESARROLLO DE LA APLICACIÓN
+    En este punto, ya debe quedar claro, que funcionalidades va a quedar cada uno
+    	    	
+
